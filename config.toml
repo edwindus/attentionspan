@@ -10,7 +10,7 @@ theme = "freelancer"
   homeProjects = 3
 
   aboutLeft = "Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy customization."
-  aboutRight = "You can create your own custom avatar for the masthead, change the icon in the dividers, and add your email address to the contact form to make it fully functional!"
+  aboutRight = "I'm getting more-and-more suspicious that nobody else knows what they're doing either"
 
 [[params.social.personal]]
   text = "facebook.com/edwinvannes"
