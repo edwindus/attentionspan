@@ -4,7 +4,8 @@ title = 'attentionSpan.equals(null)'
 theme = "freelancer"
 
 [params]
-  tagLine = "meaningless mumblings and meandering projects"
+  name = "attentionSpan.nl"
+  tagLine = "meaningless mumblings & meandering projects"
   homePosts = 3
   homeProjects = 3
 
