@@ -3,7 +3,6 @@ languageCode = 'en-us'
 title = 'attentionSpan.equals(null)'
 theme = "freelancer"
 
-
 [params]
   tagLine = "meaningless mumblings and meandering projects"
   homePosts = 3
@@ -12,17 +11,44 @@ theme = "freelancer"
   aboutLeft = "Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy customization."
   aboutRight = "You can create your own custom avatar for the masthead, change the icon in the dividers, and add your email address to the contact form to make it fully functional!"
 
-[params.location]
-  lineOne = "2215 John Daniel Drive"
-  lineTwo = "Clark, MO 65243" 
+[[params.social.personal]]
+  text = "facebook.com/edwinvannes"
+  link = "https://www.facebook.com/edwinvannes/" 
+  icon = "facebook-f"
 
-[params.sbform]
-      token = ""
+[[params.social.personal]]
+  text = "instagram.com/edwin_dus"
+  link = "https://www.instagram.com/edwin_dus/" 
+  icon = "instagram"
 
-[params.homebutton]
-  text = "Free Donwload"
-  link = "https://startbootstrap.com/theme/freelancer/" 
-  icon = "fa-download"
+[[params.social.personal]]
+  text = "linkedin.com/in/edwinvannes"
+  link = "https://www.linkedin.com/in/edwinvannes/" 
+  icon = "linkedin"
+
+[[params.social.dacorsa]]
+  text = "dacorsa.com"
+  link = "https://dacorsa.com" 
+  family = "fa-solid"
+  icon = "fa-link"
+
+[[params.social.dacorsa]]
+  text = "flickr.com/photos/dacorsa"
+  link = "https://www.flickr.com/photos/dacorsa/" 
+  family = "fa-brands"
+  icon = "fa-flickr"
+
+[[params.social.dacorsa]]
+  text = "facebook.com/dacorsa.profile"
+  link = "https://www.facebook.com/dacorsa.profile/" 
+  family = "fa-brands"
+  icon = "fa-facebook-f"
+
+[[params.social.dacorsa]]
+  text = "instagram.com/dacorsa_com"
+  link = "https://www.instagram.com/dacorsa_com/" 
+  family = "fa-brands"
+  icon = "fa-instagram"
 
 [related]
   includeNewer = true

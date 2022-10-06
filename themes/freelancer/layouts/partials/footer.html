@@ -1,43 +1,30 @@
 <footer class="footer text-center">
 	<div class="container">
 		<div class="row">
-			<!-- Footer Location-->
-			<div class="col-lg-4 mb-5 mb-lg-0">
-				<h4 class="text-uppercase mb-4">Location</h4>
-				<p class="lead mb-0">
-					{{ .Site.Params.Location.lineone }}
-					<br />
-					{{ .Site.Params.Location.linetwo }}
-				</p>
-			</div>
-			<!-- Footer Social Icons-->
-			<div class="col-lg-4 mb-5 mb-lg-0">
-
-
-
-
-				<h4 class="text-uppercase mb-4">Social Websites</h4>
-				
-				{{ range .Site.Params.Social }} 
-				<a class="btn btn-outline-light btn-social mx-1" href="{{.url}}"
-				target="_blank"><em class="{{.icon_pack}} fa-fw fa-{{.icon}}"></em></a>
+			<!-- Footer Social Icons dacorsa.com -->
+			<div class="col-lg-6 ms-auto">
+				<h4 class="text-uppercase mb-4 mt-4">dacorsa.com</h4>
+				{{ range .Site.Params.social.dacorsa }} 
+					<a class="btn btn-outline-light btn-social mx-1" href="{{.link}}" target="_blank" title="{{.text}}">
+						<em class="{{.family}} {{.icon}}"></em>
+					</a>
 			  	{{end}}
-				  
 			</div>
-			<!-- Footer About Text-->
-			<div class="col-lg-4">
-				<h4 class="text-uppercase mb-4">About Freelancer</h4>
-				<p class="lead mb-0">
-					Freelance is a free to use, MIT licensed Bootstrap theme created by
-					<a href="http://startbootstrap.com">Start Bootstrap</a>
-				</p>
+			<!-- Footer Social Icons Personal -->
+			<div class="col-lg-6 ms-auto">
+				<h4 class="text-uppercase mb-4 mt-4">Personal</h4>
+				{{ range .Site.Params.social.personal }} 
+					<a class="btn btn-outline-light btn-social mx-1" href="{{.link}}" target="_blank" title="{{.text}}">
+						<em class="fa-brands fa-{{.icon}}"></em>
+					</a>
+			  	{{end}}
 			</div>
 		</div>
 	</div>
 </footer>
 <div class="copyright py-4 text-center text-white">
 	<div class="container"><small>
-		&copy; All Rights Reserved &middot; June 2012 - {{ now.Format "January 2006" }} &middot; Edwin van Nes, Netherlands		
+		&copy; All&nbsp;Rights&nbsp;Reserved &middot; June&nbsp;2012&nbsp;-&nbsp;{{ now.Format "January 2006" }} &middot; Edwin&nbsp;van&nbsp;Nes,&nbsp;Netherlands		
 	</small></div>
 </div>
 <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
