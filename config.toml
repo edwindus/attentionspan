@@ -5,7 +5,7 @@ theme = "freelancer"
 
 
 [params]
-  tagLine = "... meaningless mumblings 'bout meandering projects"
+  tagLine = "meaningless mumblings and meandering projects"
   homePosts = 3
   homeProjects = 3
 
