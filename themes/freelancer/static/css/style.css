@@ -12252,6 +12252,8 @@ html {
 
 .masthead .masthead-avatar {
   width: 15rem;
+  border-radius: 50%;
+  background: #2f3e4e;
 }
 
 @media (min-width: 992px) {
