@@ -5,12 +5,11 @@ theme = "freelancer"
 
 [params]
   name = "attentionSpan.nl"
-  tagLine = "meaningless mumblings & meandering projects"
   homePosts = 3
   homeProjects = 3
 
-  aboutLeft = "Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy customization."
-  aboutRight = "I'm getting more-and-more suspicious that nobody else knows what they're doing either"
+  aboutLeft = "Part of the TV generation, proud Father and partner, listening to Prince since 1984, enjoying Star Wars since Return of the Yeti and collection Ferrari books since I became aware of chassis numbers"
+  aboutRight = "Craftsman, engineer & thinkerer, recovering perfectionist & amateur, getting more-and-more suspicious that nobody else knows what they're doing either"
 
 [[params.social.personal]]
   text = "facebook.com/edwinvannes"
