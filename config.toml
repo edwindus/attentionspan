@@ -8,7 +8,7 @@ theme = "freelancer"
   homePosts = 3
   homeProjects = 3
 
-  aboutLeft = "MTV generation, proud Father and partner, studying Prince since 1984, enjoying Star Wars over Star Trek and collecting too much Ferrari books or other stuff"
+  aboutLeft = "MTV generation, proud Father and partner, studying Prince since 1984, enjoying Star Wars over Star Trek and collecting too much Ferrari books and nerd stuff"
   aboutRight = "Craftsman, engineer & thinkerer, recovering perfectionist & amateur, getting more-and-more suspicious that nobody else knows what they're doing either"
 
 [[params.social.personal]]
