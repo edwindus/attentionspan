@@ -1,6 +1,7 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'attentionSpan.equals(null)'
+author = 'Edwin van Nes'
 theme = "freelancer"
 
 [params]

@@ -1,0 +1,7 @@
+<a href="{{ .Destination | safeURL }}" class="glightbox" data-description="{{ .Text }}">
+    <img
+        src="{{ .Destination | safeURL }}" 
+        alt="{{ .Text }}" 
+        style="max-width:20%; margin:1rem 2rem; border-radius: 0.5rem;" 
+    />
+</a>
