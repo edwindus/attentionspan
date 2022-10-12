@@ -1,5 +1,5 @@
 ---
-title: "Apple Syntax Poster"
+title: "Apple Pascal Syntax Poster"
 date: 2018-11-18T12:00:00Z
 draft: false
 sidebar: false
