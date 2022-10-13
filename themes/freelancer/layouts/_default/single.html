@@ -2,15 +2,7 @@
 	<div class="container pb-5">
 	<div class="row">
 		<section class="page-section portfolio {{ if .Page.Params.sidebar }} col-12 col-lg-10 {{ end }} " >
-			{{if (ne .Page.Params.Hero "") }}
-				<img
-					class="card-img-top"
-					alt="" 
-					src="{{.Permalink}}{{.Page.Params.Hero}}"
-					style="margin-top:7rem; height:400px; object-fit:cover; object-position:center center; border-radius: 0.5rem;">
-			{{ end }}
-			<!-- Portfolio Section Heading-->
-			<h2 class="page-section-heading text-center text-uppercase text-secondary mt-5">{{ .Title  }}</h2>
+			<h1 class="page-section-heading text-center text-uppercase text-secondary mt-5">{{ .Title  }}</h2>
 			{{ if isset .Params "tags" -}}
 				<div class="row  mb-3 ">
 					<div class="col text-center text-nowrap ">		
@@ -39,10 +31,7 @@
 		const lightbox = GLightbox({
 			touchNavigation: true,
 			loop: false,
-			autoplayVideos: true,
-			onOpen: () => {
-	        	console.log('Lightbox opened')
-			}
+			autoplayVideos: true
 		});
 	</script>
 {{ end }}

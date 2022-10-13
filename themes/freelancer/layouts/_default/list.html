@@ -2,7 +2,7 @@
 	<section class="page-section portfolio" id="portfolio">
         <div class="container">
             <!-- Portfolio Section Heading-->
-            <h2 class="page-section-heading text-center text-uppercase text-secondary mt-5">{{ .Title  }}</h2>
+            <h1 class="page-section-heading text-center text-uppercase text-secondary mt-5">{{ .Title  }}</h2>
             <!-- Portfolio Grid Items-->
             <div class="row justify-content-left">
                 <!-- Portfolio Item 1-->
@@ -12,7 +12,7 @@
 							<a href="{{.Permalink}}"><img class="card-img-top" src="{{.Permalink}}{{.Page.Params.Hero}}" alt="Card image cap"></a>
 						  <div class="card-body">
 							<h5 class="card-title">{{ .Title }}</h5>
-							<p class="card-text text-center">{{ .Summary }}</p>
+							<p class="card-text">{{ .Summary }}</p>
 						  </div>
 						  <div class="card-footer">
 							<div class="d-flex justify-content-between align-items-center">

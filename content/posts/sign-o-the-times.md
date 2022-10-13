@@ -3,7 +3,7 @@ title: "Sign 'O the Times"
 date: 2020-10-09T12:00:00Z
 draft: false
 sidebar: false
-tags: []
+tags: ["een","twee"]
 hero: "ticket.jpg"
 summary: "In 1987 Prince visited my hometown during the Sign 'O the Times tour. Some stories on (how I remember) we got tickets and attended this extraordinary concert"
 ---
