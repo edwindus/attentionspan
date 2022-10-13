@@ -1,7 +1,7 @@
 ---
 title: "Shelved!"
 date: 2019-07-27T12:00:00Z
-draft: true
+draft: false
 sidebar: false
 tags: []
 hero: "hero.jpg"
