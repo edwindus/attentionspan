@@ -96,5 +96,6 @@ Also the lefthand-side of the bookcase, is covered in hardwood fake-panelling to
 All that’s left now is some sanding to finish the edges of the meranti wood and applying a good amount of oil where still needed. Also, I still need to affix the top of the bookcase snug to the wall, to prevent tipping, which is actually impossible due to the finished size, but better safe than sorry.
 
 ![The bookshelf finished, ready to be rinsed and filled with books](done.jpg)
+![Ferrari Books and Magazines](books.jpg)
 
 And of course a final rinse before moving all the books and magazines to this room and spent probably spent many hour in my happy-place deciding exactly which book should go where.
