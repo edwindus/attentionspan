@@ -1,0 +1,149 @@
+[
+    {
+        "circuit": "Circuit Zandvoort",
+        "country": "Nederland",
+        "iso": "NLD",
+        "url": "https://en.wikipedia.org/wiki/Circuit_Zandvoort",
+        "img": ""
+    },
+    {
+        "circuit": "TT Circuit Assen",
+        "country": "Nederland",
+        "iso": "NLD",
+        "url": "https://en.wikipedia.org/wiki/TT_Circuit_Assen",
+        "img": ""
+    },
+    {
+        "circuit": "Raceway Venray",
+        "country": "Nederland",
+        "iso": "NLD",
+        "url": "https://nl.wikipedia.org/wiki/Raceway_Venray",
+        "img": ""
+    },
+    {
+        "circuit": "Midland Circuit",
+        "country": "Nederland",
+        "iso": "NLD",
+        "url": "",
+        "img": ""
+    },
+    {
+        "circuit": "Circuit de Spa-Francorchamps",
+        "country": "België",
+        "iso": "BEL",
+        "url": "https://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps",
+        "img": ""
+    },
+    {
+        "circuit": "Circuit Zolder Terlamen",
+        "country": "België",
+        "iso": "BEL",
+        "url": "https://en.wikipedia.org/wiki/Circuit_Zolder",
+        "img": ""
+    },
+    {
+        "circuit": "Nürburgring",
+        "country": "Deutschland",
+        "iso": "DEU",
+        "url": "https://en.wikipedia.org/wiki/Nürburgring",
+        "img": ""
+    },
+    {
+        "circuit": "Hockenheimring Baden-Württemberg",
+        "country": "Deutschland",
+        "iso": "DEU",
+        "url": "https://en.wikipedia.org/wiki/Hockenheimring",
+        "img": ""
+    },
+    {
+        "circuit": "Autodromo Vallelunga Piero Taruffi",
+        "country": "Italia",
+        "iso": "ITA",
+        "url": "https://en.wikipedia.org/wiki/Vallelunga_Circuit",
+        "img": ""
+    },
+    {
+        "circuit": "Autodromo Nazionale di Monza",
+        "country": "Italia",
+        "iso": "ITA",
+        "url": "https://en.wikipedia.org/wiki/Monza_Circuit",
+        "img": ""
+    },
+    {
+        "circuit": "Autodromo Internazionale del Mugello",
+        "country": "Italia",
+        "iso": "ITA",
+        "url": "https://en.wikipedia.org/wiki/Mugello_Circuit",
+        "img": ""
+    },
+    {
+        "circuit": "Pista di Fiorano",
+        "country": "Italia",
+        "iso": "ITA",
+        "url": "https://en.wikipedia.org/wiki/Fiorano_Circuit",
+        "img": ""
+    },
+    {
+        "circuit": "Circuit de la Sarthe",
+        "country": "France",
+        "iso": "FRA",
+        "url": "https://en.wikipedia.org/wiki/Circuit_de_la_Sarthe",
+        "img": ""
+    },
+    {
+        "circuit": "Circuit de Charade Clermont-Ferrand",
+        "country": "France",
+        "iso": "FRA",
+        "url": "https://en.wikipedia.org/wiki/Circuit_de_Charade",
+        "img": ""
+    },
+    {
+        "circuit": "Circuit Dijon-Prenois",
+        "country": "France",
+        "iso": "FRA",
+        "url": "https://en.wikipedia.org/wiki/Dijon-Prenois",
+        "img": ""
+    },
+    {
+        "circuit": "Autodrome de Linas-Montlhéry",
+        "country": "France",
+        "iso": "FRA",
+        "url": "https://en.wikipedia.org/wiki/Autodrome_de_Linas-Montlhéry",
+        "img": ""
+    },
+    {
+        "circuit": "Circuit de Nevers Magny-Cours",
+        "country": "France",
+        "iso": "FRA",
+        "url": "https://en.wikipedia.org/wiki/Circuit_de_Nevers_Magny-Cours",
+        "img": ""
+    },
+    {
+        "circuit": "Circuit Reims-Gueux",
+        "country": "France",
+        "iso": "FRA",
+        "url": "https://en.wikipedia.org/wiki/Reims-Gueux",
+        "img": ""
+    },
+    {
+        "circuit": "Circuit de Val de Vienne",
+        "country": "France",
+        "iso": "FRA",
+        "url": "https://en.wikipedia.org/wiki/Circuit_du_Val_de_Vienne",
+        "img": ""
+    },
+    {
+        "circuit": "Circuit Paul Armagnac de Nogaro",
+        "country": "France",
+        "iso": "FRA",
+        "url": "https://en.wikipedia.org/wiki/Circuit_Paul_Armagnac",
+        "img": ""
+    },
+    {
+        "circuit": "Brands Hatch",
+        "country": "United Kingdom",
+        "iso": "GBR",
+        "url": "https://en.wikipedia.org/wiki/Brands_Hatch",
+        "img": ""
+    }
+]

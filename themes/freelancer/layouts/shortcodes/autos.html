@@ -1,0 +1,22 @@
+<table>
+    <thead>
+        <th>Year</th>
+        <th>Make</th>
+        <th>Model</th>
+        <th>Engine</th>
+        <th>Exterior</th>
+        <th></th>
+    </thead>
+    <tbody>
+        {{ range sort (sort site.Data.autos "bouwjaar") "merk" }}
+            <tr>
+                <td>{{ .bouwjaar }}</td>
+                <td>{{ .merk }}</td>
+                <td>{{ .model }}</td>
+                <td>{{ .engine }}</td>
+                <td>{{ .exterieur }}</td>
+                <td>{{ .img }}</td>
+            </tr>
+        {{ end }}
+    </tbody>
+</table>

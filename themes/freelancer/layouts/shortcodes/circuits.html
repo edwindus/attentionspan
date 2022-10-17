@@ -1,0 +1,8 @@
+<ul>
+    {{ range sort (sort site.Data.circuits "circuit") "country" }}
+        <li>
+            <img style="height:1.5rem;margin-right:0.5rem;" src="/img/flagz/{{ lower .iso }}.svg" alt="{{ .country }}" title="{{ .country }}" />
+            {{ .circuit }}
+        </li>
+    {{ end }}
+</ul>
