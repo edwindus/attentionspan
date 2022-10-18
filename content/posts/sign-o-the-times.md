@@ -29,8 +29,7 @@ Then the first news items appeared about an oncoming tour which would even visit
 ## Ben Noz
 Buying tickets for a major concert was a whole different thing back in the day. The tickets would go on sale on Saturday morning May 9th, at 9:00 at a store called Ben Noz. Ben Noz, actually the name of the owner, was a cigarette store at the Amsterdamse straatweg in Utrecht that had specialised in ticket sales.
 
-<a href="https://hetutrechtsarchief.nl/beeldmateriaal/detail/8473f9c4-113b-c4ff-e053-4701000a202f" target="_blank"></a>
-![](noz.jpg)
+![https://hetutrechtsarchief.nl/beeldmateriaal/detail/8473f9c4-113b-c4ff-e053-4701000a202f](noz.jpg)
 
 On the Friday before, at about 13:00 and just after school, I took the bus to the Amsterdamse straatweg to be in a waiting line for the ticket sale starting next morning, carrying a folding chair, a sleeping bag and some food while fully expecting to sleep on the street in front of the ticket shop.
 When I arrived at the shop there were maybe 10 of 20 people already in line so I was quite early and should be able to acquire the tickets when all went well. If I remember correctly, we kept sort of notice of the order in the line like “I am after you and you are after me”, while it quickly became more crowded on this main road with heavy traffic. During the afternoon it just became too busy and noisy, the police showed up a couple of times etc.

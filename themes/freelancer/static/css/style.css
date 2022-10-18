@@ -11438,16 +11438,23 @@ html {
   background-color: #191919;
 }
 
-.portfolio .glightbox img {
+.portfolio img.thumbnail {
   margin: 2rem 0.5rem 0 0.5rem;
   max-width: 40%; 
   max-height: 30vw;
   border-radius: 0.4rem;
-  border: 1px solid #dddddd;
+}
+
+a.nofollow img.thumbnail {
+  border: 2px solid #efefef;
+}
+
+a.nofollow:hover img.thumbnail {
+  border-color: #b4432c;
 }
 
 @media (min-width: 992px) {
-  .portfolio .glightbox img {
+  .portfolio img.thumbnail {
     margin: 2rem 0.5rem 0.5rem 0.5rem;
     max-width: 22%; 
     max-height: 16vw;
@@ -11456,6 +11463,10 @@ html {
 
 .portfolio h2 {
   margin-top: 2rem;
+}
+
+.portfolio p.thumbnails {
+  text-align:center;
 }
 
 .portfolio .portfolio-item {

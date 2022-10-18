@@ -33,5 +33,10 @@
 			loop: false,
 			autoplayVideos: true
 		});
+
+		const imgs = document.querySelectorAll('img.thumbnail');
+		for (i=0; i<imgs.length; i++){
+    		imgs[i].closest('p').classList.add("thumbnails");
+		};
 	</script>
 {{ end }}

@@ -85,7 +85,7 @@ The standard size meranti strips where bigger than planned, leaving too little s
 Last part of construction; the outer-uprights. While making the plans (mostly in my head, some rough sketches) I knew I could not trust on my (lacking) skills to end up with perfectly fitting haakse / verstrek connections between the horizontal shelves and the outer uprights.
 
 So I came up with this trick; have the horizontal strips stick out approximately halfway through the upright. Then fit tiny, half strips in-between, here I could easily fail, sand, multiple fits etcetera since it was one tiny piece of wood at a time.
-On the outer corner of the upright; there is another half strip, but this one running for the whole length of 2.4 meters high. The ugly gap in the middle will be hidden by a simple decorative meranti hardwood strip again.
+On the outer corner of the upright; there is another half strip, but this one running for the whole height of 2.4 meters. The ugly gap in the middle will be hidden by a simple decorative meranti hardwood strip again.
 
 Also the lefthand-side of the bookcase, is covered in hardwood fake-panelling to hide both the fact that it’s a chipwood bookcase to begin with, and hide the screws that were used during construction.
 
