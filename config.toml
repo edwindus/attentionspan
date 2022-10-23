@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'attentionSpan.equals(null)'
 author = 'Edwin van Nes'
 theme = "freelancer"
+paginate = 9
 
 [params]
   name = "attentionSpan.nl"

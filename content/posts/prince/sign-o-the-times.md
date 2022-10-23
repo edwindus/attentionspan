@@ -6,7 +6,7 @@ sidebar: false
 tags: ["Prince"]
 preview: "_preview.jpg"
 hero: "_hero.jpg"
-summary: "In 1987 Prince visited my hometown during the Sign 'O the Times tour. Some stories on (how I remember) we got tickets and attended this extraordinary concert"
+summary: "Some stories on (how I remember) we got tickets when Prince visited my hometown in 1987"
 ---
 
 Some musings after just listening to the [7th episode](https://podcasts.apple.com/nl/podcast/prince-official-podcast/id1488187430?l=en&i=1000526528961) of the official Prince Podcast and enjoying some wonderful stories on the Sign O’ the Times Tour in Utrecht.
