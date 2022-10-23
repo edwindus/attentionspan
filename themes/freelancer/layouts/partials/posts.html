@@ -11,7 +11,13 @@
             {{ range $index, $element }}
 				<div class="col-md-4">
 					<div class="card mb-4 ">
-						<a href="{{.Permalink}}"><img class="card-img-top" src="{{.Permalink}}{{.Page.Params.preview}}" alt="{{.Title }} preview image"></a>
+						<a href="{{.Permalink}}">
+							{{ if .Page.Params.preview }}
+								<img class="card-img-top" src="{{.Permalink}}{{.Page.Params.preview}}" alt="Preview image for '{{.Title }}' post">
+							{{ else }}
+								<img class="card-img-top" src="/img/posts_preview.png">
+							{{ end }}
+						</a>
 					</div>
 				  </div>                
 				{{ end }}

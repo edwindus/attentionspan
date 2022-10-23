@@ -4,8 +4,9 @@ date: 2014-12-29T12:00:00Z
 draft: true
 sidebar: false
 tags: ["Jokers Wild Tribute"]
-hero: "hero.jpg"
-summary: "Lorem ipsum dolorum est"
+preview: "_preview.jpg"
+hero: ""
+summary: ""
 ---
 
 So far I could find just two websites providing some information about the original (dutch) fruitmachine Jokers Wild built by [Bell-Fruit Manufacturing Co. Ltd.](http://www.bellfruitgames.co.uk/bell-fruit-group/about-us)
