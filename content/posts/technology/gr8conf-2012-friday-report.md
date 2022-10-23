@@ -1,16 +1,13 @@
 ---
-title: "GR8Conf 2012 friday report"
-date: 2018-11-18T12:00:00Z
-draft: false
+title: "GR8Conf 2012: Fredag i Danmark"
+date: 2012-06-16T12:00:00Z
+draft: true
 sidebar: false
-tags: []
-preview: "_preview.jpg"
-hero: "_hero.jpg"
-summary: "This vintage 1979 Apple Pascal syntax poster has a quite interesting story and is an original piece of software engineering history too"
+tags: ["grails","conference"]
+preview: ""
+hero: ""
+summary: ""
 ---
-
-
-
 
 The first session on the last day of GR8Conf was led by Ivo Houbrechts, was about his big scale Grails project (1000 users, 75 screens, 14 developers), and quickly got my attention. The problems they had to deal with where quite recognizable to our current project (even to past projects in other platform besides Grails). Funny enough this brought some sort of realization that "if we run in the same limitations, we are probably understanding what the capabilities of the platform are and aren't. That we are starting to get past the newbie stage" (ok, we might have to admit here that we did enjoy the specially brewed conference beer last night, so thinking might have been a bit foggy).
 

@@ -4,8 +4,8 @@ date: 2013-05-24T12:00:00Z
 draft: true
 sidebar: false
 tags: ["grails","conference"]
-preview: ""
-hero: ""
+preview: "_preview.jpg"
+hero: "_hero.jpg"
 summary: ""
 ---
 

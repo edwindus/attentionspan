@@ -1,5 +1,5 @@
 ---
-title: "GR8Conf 2012 thursday report"
+title: "GR8Conf 2012: Torsdag i Danmark"
 date: 2012-06-15T12:00:00Z
 draft: true
 sidebar: false
