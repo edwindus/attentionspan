@@ -4,7 +4,8 @@ date: 2018-11-18T12:00:00Z
 draft: false
 sidebar: false
 tags: []
-hero: "hero.jpg"
+hero: "_hero.jpg"
+preview: "_preview.jpg"
 summary: "This vintage 1979 Apple Pascal syntax poster has a quite interesting story and is an original piece of software engineering history too"
 ---
 

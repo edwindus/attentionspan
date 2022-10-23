@@ -4,7 +4,8 @@ date: 2019-07-27T12:00:00Z
 draft: false
 sidebar: false
 tags: []
-hero: "hero.jpg"
+hero: "_hero.jpg"
+preview: "_preview.jpg"
 summary: "A bunch of photos, thoughts and excuses on creating a custom bookcase for my carbooks"
 ---
 

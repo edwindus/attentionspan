@@ -11,7 +11,7 @@
             {{ range $index, $element }}
 				<div class="col-md-4">
 					<div class="card mb-4 ">
-						<a href="{{.Permalink}}"><img class="card-img-top" src="{{.Permalink}}{{.Page.Params.Hero}}" alt="{{ .Title }}"></a>
+						<a href="{{.Permalink}}"><img class="card-img-top" src="{{.Permalink}}{{.Page.Params.preview}}" alt="{{.Title }} preview image"></a>
 					</div>
 				  </div>                
 				{{ end }}
