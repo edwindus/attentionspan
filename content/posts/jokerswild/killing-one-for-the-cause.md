@@ -4,7 +4,7 @@ date: 2014-12-24T12:00:00Z
 draft: true
 sidebar: false
 tags: ["Jokers Wild Tribute"]
-preview: ""
+preview: "_preview.jpg"
 hero: ""
 summary: ""
 ---
