@@ -31,6 +31,9 @@ _What if I tried to make a simple [slotmachine](http://en.wikipedia.org/wiki/Slo
 That would need to have a lot of different components; like running [stepper motors](http://en.wikipedia.org/wiki/Stepper_motor) to drive the reels, trying [charlieplexing](http://en.wikipedia.org/wiki/Charlieplexing) as a simple way of multiplexing approximately 10 different buttons to the limited pins of the Arduino and using a [Serial Pheriperal Interface](http://arduino.cc/en/Reference/SPI) to drive approximately 100 different [LED's](http://en.wikipedia.org/wiki/Light-emitting_diode) for the display with the very limited input pins.
 If this was not going to provide enough of a challenge, what else would?
 
+![](gokkasten-archief-nl-001.jpg)
+![](hud.jpg)
+
 When I was 17, studying Electronics, there was one particular fruitmachine I liked to play. That particular machine, called [_Jokers Wild_](https://www.gokkastenarchief.nl/online/jokers-wild/), and it's gameplay will be my example in building a tribute fruitmachine based on an Arduino. 
 
 That should be fun, shouldn't it?

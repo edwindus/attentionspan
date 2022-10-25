@@ -22,9 +22,14 @@ As a teenager I enjoyed a [Commodore 64](https://en.wikipedia.org/wiki/Commodore
 ## Apple Pascal Syntax Poster
 An [interesting story]("https://vintagecomputer.ca/the-history-of-apples-pascal-syntax-poster-1979-80/) is posted on the internet, written by [Lucas Wagner](http://archive.li/xD6KS). We learn that my poster is reportedly the brain-child of [Jeff Raskin](https://en.wikipedia.org/wiki/Jef_Raskin), at least one of two fathers of the [Apple Macintosh](https://en.wikipedia.org/wiki/Macintosh). Raskin started designing a reference poster for Pascal since he found many of the existing Pascal charts did not fit the [Bill Atkinson](https://en.wikipedia.org/wiki/Bill_Atkinson) Apple Pascal compiler. Raskin worked from the original Niklaus Wirth publications, did some reorganisation on the drawings and made up a colour coding so that the higher lexical elements would correspond to the syntax diagrams below. Printing the diagram as a poster seemed a practical idea to keep to Apple Pascal reference within line-of-sight of the programmers.
 
+![](scan.jpg)
+
 ## Along came Steve Jobs
 Steve liked the idea and saw great marketing opportunity in it. Unfortunately, at least this is how the story is told, Steve did not fully understand the purpose and meaning of the elements and their colouring as envisioned by Raskin. On top of that, Steve hired upcoming graphical artist [Tom Kamifuji](http://www.artnet.com/artists/tom-kamifuji/) and requested him to make the poster more artistic. The end result was a glossy poster with a colour scheme that was oddly transformed from the Apple 'rainbow' logo designed by [Regis McKenna](https://en.wikipedia.org/wiki/Regis_McKenna), but applied without knowledge of the technical intentions those got 'lost in translation'.
 
 ## Production
 The poster is credited to Kamifuji (without any further attributions), copyrighted 1979 and shows a document number ```030-0111-00```. This standard Apple document number translates to: "Technical Document (```030```) number ```111``` revision ```0```".
 Printing was done by Westwood Press in Redwood City, California. The size of the print run is unknown to me, but this peculiar syntax poster only ended up with internal Apple developers and was given to some Californian dealers to promote Apple Pascal.
+
+![](copyright.jpg)
+![](number.jpg)

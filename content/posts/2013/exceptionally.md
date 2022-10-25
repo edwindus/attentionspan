@@ -4,19 +4,16 @@ date: 2012-09-14T12:00:00Z
 draft: true
 sidebar: false
 tags: ["grails","development"]
-preview: ""
+preview: "_preview.jpg"
 hero: ""
 summary: ""
 ---
-
-
 
 Trying to come up with a strategy for [handling errors and exceptions](http://mrhaki.blogspot.nl/2009/09/groovy-goodness-exception-handling.html), we came across some [interesting discussions](http://forum.springsource.org/showthread.php?68285-Service-Layer-Exceptions) and/or Holy Wars.  
 I'll try to elaborate a bit on my thoughts and the strategy that was decided for the plugin. 
 
 ## Keeping under Wraps
 First of all the purpose of the Glickr plugin (or any plugin the implements some interface I guess) is to make the translation of the [native language constructs](http://groovy.codehaus.org/Scripts+and+Classes) and classes (objects) to the particular API and vice versa.
-
 
 Ideally, the user of the plugin should not be bothered with the specification or workings of the Flickr API at all. Furthermore, the user of the plugin will actually be a programmer creating an application that will or will not have a [humanoid](http://en.wikipedia.org/wiki/Humanoid) working with it. How this application deals with errors and exceptions should not be up to me (the developer of the API) but up to my user (the programmer of the application).
 So I should keep as much under wraps as possible, but not too much. Still with me? 
