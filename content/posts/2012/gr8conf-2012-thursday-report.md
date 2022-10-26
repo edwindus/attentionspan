@@ -13,16 +13,15 @@ summary: "Attending the first official day of the GR8Conf 2012 at the Copenhagen
 
 The first 'official' day of [GR8Conf](http://gr8conf.eu/). After some welcome words Groovy project manager [Guillaume Laforge](http://gr8conf.eu/Speakers/Guillaume-Laforge) took the stage and introduced many new or not so new features of Groovy 1.8 and the upcoming Groovy 2.0. Since this came straight from the source, so you better check out [Guillaume's slides](http://www.slideshare.net/glaforge/groovy-18-and-20-at-gr8conf-europe-2012).
 
-![](welcome.jpg)
-![](_preview.jpg)
-![](groovy.jpg)
+![GR8Conf founder Søren Berg Glasius and Apache Groovy language co-founder Guillaume Laforge opening the conference](welcome.jpg)
+![The history of the international Grails User Conference](_preview.jpg)
+![Groovy Project Manager Guillaume Laforge introducing what's up for the next iteration](groovy.jpg)
 
 The [Grails Hidden Gems](http://gr8conf.eu/Presentations/Grails-hidden-Gems) of [mrhaki](http://gr8conf.eu/Speakers/MrHaKi) showed us even more of, well hidden gems of Grails, actually. All the examples can be found on [github](https://github.com/mrhaki/gr8conf2012-grails-hidden-gems).
 
-
 A very interesting session by [Luke Daley](http://gr8conf.eu/Speakers/Luke-Daley) explained a scenario for testing with [Geb](http://www.gebish.org/), which is a browser automation solution, based on Page Object modelling. Of course this did rang many bells. We used to have something similar called [TestFrame](http://nl.wikipedia.org/wiki/TestFrame) working for native MS-Windows applications. Such a Page Object based approach will consume quite some development time, but will certainly pay-off in regression tests and/or big applications. Another entry on our todo list.
 
-![](lobby.jpg)
+![The fascinating atrium at the Copenhagen IT University](lobby.jpg)
 
 Without trying to replicate the whole conference, there is still one session I attended on this first day I want to highlight. [Andreas Aredal](http://gr8conf.eu/Speakers/Andreas-Aredal) from Sweden plotted the Clean Code mantra of [Robert C. Martin](https://twitter.com/#!/unclebobmartin), better known as [Uncle Bob Martin](http://devnology.nl/podcast/10-content/98-devnology-podcast-006), on the Grails architecture in the [Keeping your Grails Code Clean](http://gr8conf.eu/Presentations/Keeping-your-Grails-code-clean) session.  
 Some of the Clean Code highlights presented by Andreas:

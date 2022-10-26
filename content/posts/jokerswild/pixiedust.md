@@ -11,18 +11,18 @@ summary: "Counting and categorizing the different sets of lights on the display 
 
 Many months have passed, but I found some time to work on the Arduino project again. The objective of the next step is to do a proof of concept on the HUD (head-up display) of the slotmachine. While I have no idea if HUD is the "official" way to refer to the top half of the slotmachine, where the feature-game is played, it seems like a sensible name.
 
-Anyways; the (dutch) website [gokkastenarchief.nl](http://www.gokkastenarchief.nl/online/jokers-wild/) is by far the best reference I could find. The image below shows the "HUD" and what's on there.
+Anyways; the (dutch) website [gokkastenarchief.nl](http://www.gokkastenarchief.nl/online/jokers-wild/) is by far the best reference I could find. The image below shows the 'HUD' and what's on there.
 
-![](gokkasten-archief-nl-002.jpg)
-![](gokkasten-archief-nl-003.jpg)
-![](gokkasten-archief-nl-004.jpg)
+![Clean image of the original 'HUD' found on GokkastenArchief.nl](gokkasten-archief-nl-002.jpg)
+![Lower part of the machine with the reels, all possible prices, gambling feature on the right](gokkasten-archief-nl-003.jpg)
+![There is virtually no information online except for this very usable images from GokkastenArchief.nl](gokkasten-archief-nl-004.jpg)
 
 The feature-game is triggered by points that are provided by the 4th reel and played with cards that are displayed on this 4th reel too. For now, let's forget about that and just proof the concept of driving all this lights (and some simple sound effects) from the Arduino.
 
 A simple sketch (created with the great online platform [circuits.io](https://www.circuits.io/) by AutoDesk) of the setup used:
 
-![](hud-pov.png)
-![](_preview.jpg)
+![Playing around with circuits.io to (a bit unnecessary maybe) the setup for this test](hud-pov.png)
+![LED strip used for writing witing some display software](_preview.jpg)
 
 The interesting part is the thing on the bottom-right, called a [NeoPixel](https://www.adafruit.com/products/1376) strip by AdaFruit. I got a leftover piece with 46 NeoPixels that I used to simulate the 3 main parts of the HUD.
 
@@ -40,10 +40,10 @@ The interesting part is the thing on the bottom-right, called a [NeoPixel](https
     - 2, 4, 10, 20, 40, 60, 100, 200
     - Special prices **Mystery Prijs**, **Nudges**, **Kies je Prijs** and **Super Match**
 
-![](JokersWild-011.png)
-![](JokersWild-013.png)
-![](JokersWild-016.png)
-![](JokersWild-018.png)
+![On the left are all the lights that make up the feature game](JokersWild-011.png)
+![In the center of the display are all lights for the Deck of Cards and in the left-upper corner the gamble (higher/lower) feature](JokersWild-013.png)
+![The ladder of prices to win when gambling with the Deck of Cards succeeds](JokersWild-016.png)
+![Simulation of all the lights that needs to eventually be there to play with the tribute slotmachine](JokersWild-018.png)
 
 When we count all that up; there are 44 LED's to drive in this proof-of-concept for the HUD. The strip was kept intact and was laid alongside a printout with the symbol.
 

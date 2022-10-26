@@ -13,7 +13,7 @@ summary: "Attending and speaking at the final day of the 2013 international Grai
 ## Rise up
 Back in Auditorium 1 in København for the final day of this GR8 Conference. Starting with a session by Jan Reher explaining two rather big projects done in Grails and trying to [determine if it was wise to choose Grails](http://gr8conf.eu/Presentations/We-chose-Grails-and-Groovy-for); and hey, it was according to Jan, but he learned a couple of valuable lessons. The biggest mistake to make is thinking you can just write Java in Groovy. You'll end up with the worst of both worlds. (Hmmm, I guess we have to plead guilty on that one). The centuries-old problem of every development team is re-inventing wheels rather than looking for third-party solutions (point noted!).
 
-![](lobby.jpg)
+![Lightrays in the Atriun](lobby.jpg)
 
 ## Release, thy will
 But there were even more interesting lessons to learn for managing [Agile development](http://en.wikipedia.org/wiki/Agile_software_development) teams. Both points rise around the most important aspect of Agile Development, i.e. _Release Early and Release Often_, which is extremely important creating a tight feedback loop between developers and testers or users.
@@ -36,14 +36,14 @@ Looking at a form as an 'input document' rather than an 'entry-point for your da
 
 After a short break there was a presentation of [Yasuharu Nakano](https://twitter.com/nobeans) coming all the way from Japan (who rather unnecessarily for this audience, took great care in excusing for his non-native English). Yasuharu showed us how to speed up your development, which for most of us means: trial-and-error little blocks of code in an IDE of choice. Using an approach with GroovyClient and ultimately the [Improx Plugin](http://grails.org/plugin/improx) developed by Yasuharu, there are huge (like 40 times faster) roundtrip times to reach.
 
-![](trenches-001.jpg)
-![](trenches-002.jpg)
+![Waiting for my session at the 2013 GR8Conf](trenches-001.jpg)
+![Yours truly speaking at Copenhagen IT University](trenches-002.jpg)
 
 Then it was time to prepare and present my own talk, which by now raised lotsa insecurities. I would not be presenting the latest and greatest like Guillaume Laforge, or the [rocket-science](http://en.wikipedia.org/wiki/Large_Hadron_Collider) practiced by Dr. Russel Winder, but just bits-and-pieces from the [trenches](http://en.wikipedia.org/wiki/Trench_warfare) of day-to-day development of business applications. If I could just inspire one or two developers I'd be fine ... :-)
 
 I'm happy I get to chat to a couple of people that were (somewhat) inspired by our scaffolding ideas or plainly amused by the similarities in the issues we are dealing with. Thanks! everyone, for your attention. Slides are available [here](http://www.slideshare.net/nevermind2010/2013-gr8-confgrailscodefromthetrenches). Since the default scaffolding of Grails is too mager for a production system (wasn't meant for that purpose to begin with), it was suggested to release the whole lot as a plugin. Have to think a bit about the consequences of that, but I do appreciate the suggestion.
 
-![](marco.jpg)
+![Longtime friend and co-worker Marco Pas presenting in the Auditorium](marco.jpg)
 
 ## The session after
 Currently on, is my co-worker Marco Pas explaining the [problems and solutions](http://gr8conf.eu/Presentations/Using-Grails-to-power-your-ele) he dealt with implementing a [platform for managing chargers](http://evectric.com/?page_id=67) for electrical vehicles. Glad to see he has a good and interested audience too, since the other auditorium has [Luke Daley](http://gr8conf.eu/Presentations/Ratpack) talking about [Ratpack](https://github.com/bleedingwolf/Ratpack).

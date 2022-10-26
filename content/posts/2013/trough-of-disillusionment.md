@@ -13,8 +13,8 @@ In the first weeks after [GR8Conf](http://gr8conf.eu/) I enthusiastically starte
 
 While the last mumbling on this blog is already a couple of months away, today seems like a good day to drop some thoughts on the [internets](http://en.wikipedia.org/wiki/Internets). On a positive note I could argue I'm perfectly compliant with the [Gartner Hype Cycle](http://en.wikipedia.org/wiki/Hype_cycle), so nothing is lost while I commence the Slope of Enlightenment.
 
-![](logo-glickr.jpg)
-![](gartner-hype-cycle.png)
+![The logo that I design for the API plugin](logo-glickr.jpg)
+![Garner Hype Cycle describes the path to maturity of technology](gartner-hype-cycle.png)
 
 ## REST assured
 With slightly over 200 interface methods, the [Flickr API](http://www.flickr.com/services/api/) is quite an impressive beast to tame. What I aim to achieve (given I'll arrive somewhere mimicking the [Plateau of Productivity](http://en.wikipedia.org/wiki/Hype_cycle)), is a full implementation of the API as a Grails service, using native (and probably extensive) Groovy classes for the relevant entities, like Photos, People, Places, etcetera. The [REST format](http://www.flickr.com/services/api/request.rest.html) seems to be the most sensible way to approach the API, so essentially I'll be implementing a [Facade](http://en.wikipedia.org/wiki/Design_Patterns_(book)) for the REST.request and corresponding [XML response](http://www.flickr.com/services/api/response.rest.html).
