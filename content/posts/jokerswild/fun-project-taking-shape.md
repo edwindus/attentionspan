@@ -1,12 +1,12 @@
 ---
 title: "Fun Project taking shape"
 date: 2014-12-14T12:00:00Z
-draft: true
+draft: false
 sidebar: false
 tags: ["Jokers Wild Tribute"]
 preview: "_preview.jpg"
 hero: "_hero.jpg"
-summary: ""
+summary: "Introduction of the Jokers Wild slotmachine and deciding on an approach to build a tribute."
 ---
 
 A couple of months ago I came across this nice [kickstarter initiative](https://www.kickstarter.com/projects/alexklein/kano-a-computer-anyone-can-make) called [Kano](http://www.kano.me/). Well over 13 thousand people backend them up; and they collected 15 times the 100K dollar they needed to kickstart their product. Well Done!

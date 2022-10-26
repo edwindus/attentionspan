@@ -1,12 +1,12 @@
 ---
 title: "GR8Conf 2013: Onsdag i Danmark"
 date: 2013-05-22T12:00:00Z
-draft: true
+draft: false
 sidebar: false
 tags: ["grails","conference"]
 preview: "_preview.jpg"
 hero: "_hero.jpg"
-summary: ""
+summary: "Arriving back at Copenhagen for the first day of the 2013 international Grails User Conference."
 ---
 
 Now we find ourselves back at the [IT-Universitetet](http://www.itu.dk/) i København attending the 5th Anniversary of [GR8Conf Europe](http://gr8conf.eu/). Last year, when we attended this event, we went home buzzin' with excitement and new ideas. One of them resulted in this little back alley of the web. Sadly, my private life was turned upside down and business has been somewhat tougher than usual, so a year later, there is enough residue left of last years' ideas. No reason to skip this event in the nice city of København.

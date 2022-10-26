@@ -1,17 +1,17 @@
 ---
 title: "GR8Conf 2012: Onsdag i Danmark"
 date: 2012-06-13T12:00:00Z
-draft: true
+draft: false
 sidebar: false
 tags: ["grails","conference"]
 preview: "_preview.jpg"
 hero: "_hero.jpg"
-summary: ""
+summary: "Arriving the University Day commencing the 2012 international Grails User Conference in Copenhagen."
 ---
 
 So we went to [GR8Conf](http://gr8conf.eu) at the [IT-Universitetet i København](http://www.itu.dk/en/). To my shame, I must say, that I never travelled to any of the Scandinavian countries and I was surprised how close it actually is to Holland. From the short insight we got in Denmark this is certainly a region to visit more often. Friendly and disciplined people, well-organised while keeping 'savoir-vivre'.
 
-But let's get back on subject. The first day we attended the 'University Day' which consisted of longer and more in-depth sessions on a couple of subjects. The first session I picked was [_Getting Groovy_](http://gr8conf.eu/Presentations/Getting-Groovy) presented by fellow dutchman [_MrHaki_](http://mrhaki.blogspot.nl/). Seeing him perform in the past, this could not be a disappointment and it wasn't. _MrHaki_, who is acutally called Hubert Klein Ikkink, touched a broad range of language concepts in a quick and entertaining way. The [Groovy Console](http://groovy.codehaus.org/Groovy+Console) proved to be an invaluable tool. Since I had been working in [IntelliJ](http://www.jetbrains.com/idea/) for the past years, I did not give the Groovy Console a lot attention before but that prooved a mistake and in the week after GR8Conf I now regularly test pieces of code in this console before pasting it in the whole Grails application architecture in IntelliJ. Led by MrHaki we typed away for a couple of hours and learned a lot of new little concepts and language constructs. ~~[The slides](https://docs.google.com/present/view?id=0Aad2ZbZ4fTjzZGNjbjhidHFfNTBkYjl6azhkdg) (basically useless because of _MrHaki_'s hands-on presentation style) are published here but there is a detailed document he wrote to go along with his slides. Download this document, open Groovy Console and do your Groovy workout, now!~~
+But let's get back on subject. The first day we attended the 'University Day' which consisted of longer and more in-depth sessions on a couple of subjects. The first session I picked was [_Getting Groovy_](http://gr8conf.eu/Presentations/Getting-Groovy) presented by fellow dutchman [_MrHaki_](http://mrhaki.blogspot.nl/). Seeing him perform in the past, this could not be a disappointment and it wasn't. _MrHaki_, who is acutally called Hubert Klein Ikkink, touched a broad range of language concepts in a quick and entertaining way. The [Groovy Console](http://groovy.codehaus.org/Groovy+Console) proved to be an invaluable tool. Since I had been working in [IntelliJ](http://www.jetbrains.com/idea/) for the past years, I did not give the Groovy Console a lot attention before but that prooved a mistake and in the week after GR8Conf I now regularly test pieces of code in this console before pasting it in the whole Grails application architecture in IntelliJ. Led by MrHaki we typed away for a couple of hours and learned a lot of new little concepts and language constructs. ~~[The slides](https://docs.google.com/present/view?id=0Aad2ZbZ4fTjzZGNjbjhidHFfNTBkYjl6azhkdg) (basically useless because of MrHaki's hands-on presentation style) are published here but there is a detailed document he wrote to go along with his slides. Download this document, open Groovy Console and do your Groovy workout, now!~~
 
 ![](groovy-console.png)
 ![](mrhaki.jpg)

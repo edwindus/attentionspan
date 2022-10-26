@@ -1,12 +1,12 @@
 ---
 title: "GR8Conf 2013: Torsdag i Danmark"
 date: 2013-05-23T12:00:00Z
-draft: true
+draft: false
 sidebar: false
 tags: ["grails","conference"]
 preview: "_preview.jpg"
 hero: "_hero.jpg"
-summary: ""
+summary: "Celebrating the 5th anniversary of the international Grails User Conference in Copenhagen."
 ---
 
 ## 5th Anniversary

@@ -1,12 +1,12 @@
 ---
 title: "Drawing Vector artwork"
 date: 2014-12-29T12:00:00Z
-draft: true
+draft: false
 sidebar: false
 tags: ["Jokers Wild Tribute"]
 preview: "_preview.jpg"
 hero: ""
-summary: ""
+summary: "The tribute machine does not aim to be an exact replica, but the artwork should still communicate the right feeling."
 ---
 
 So far I could find just two websites providing some information about the original (dutch) fruitmachine Jokers Wild built by [Bell-Fruit Manufacturing Co. Ltd.](http://www.bellfruitgames.co.uk/bell-fruit-group/about-us)

@@ -1,12 +1,14 @@
 ---
 title: "GR8Conf 2012: Torsdag i Danmark"
 date: 2012-06-15T12:00:00Z
-draft: true
+draft: false
 sidebar: false
 tags: ["grails","conference"]
 preview: "_preview.jpg"
 hero: ""
 summary: ""
+summary: "Attending the first official day of the GR8Conf 2012 at the Copenhagen IT University."
+
 ---
 
 The first 'official' day of [GR8Conf](http://gr8conf.eu/). After some welcome words Groovy project manager [Guillaume Laforge](http://gr8conf.eu/Speakers/Guillaume-Laforge) took the stage and introduced many new or not so new features of Groovy 1.8 and the upcoming Groovy 2.0. Since this came straight from the source, so you better check out [Guillaume's slides](http://www.slideshare.net/glaforge/groovy-18-and-20-at-gr8conf-europe-2012).

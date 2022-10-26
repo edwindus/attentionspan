@@ -1,18 +1,19 @@
 ---
 title: "Trough of Disillusionment"
 date: 2012-09-05T12:00:00Z
-draft: true
+draft: false
 sidebar: false
 tags: ["grails","development"]
 preview: "_preview.png"
 hero: ""
-summary: ""
+summary: "Some design considerations after a slow start developing my Flickr API plugin for Grails."
 ---
 
 In the first weeks after [GR8Conf](http://gr8conf.eu/) I enthusiastically started with the blog and development of the plugin. Sadly we had to deal with an event in real life that thoroughly consumed all our energy and enthusiasm.
 
 While the last mumbling on this blog is already a couple of months away, today seems like a good day to drop some thoughts on the [internets](http://en.wikipedia.org/wiki/Internets). On a positive note I could argue I'm perfectly compliant with the [Gartner Hype Cycle](http://en.wikipedia.org/wiki/Hype_cycle), so nothing is lost while I commence the Slope of Enlightenment.
 
+![](logo-glickr.jpg)
 ![](gartner-hype-cycle.png)
 
 ## REST assured

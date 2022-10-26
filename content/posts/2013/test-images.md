@@ -1,12 +1,12 @@
 ---
 title: "Test images"
 date: 2012-09-08T12:00:00Z
-draft: true
+draft: false
 sidebar: false
 tags: ["grails","development"]
 preview: "_preview.jpg"
 hero: "_hero.jpg"
-summary: ""
+summary: "Retrieving a versatile set of test images from a sampler CD of the great but long abandoned Kodak PhotoCD format."
 ---
 
 In need for a versatile set of test images for the development of the Glickr Plugin I decided to create a [dedicated Flickr](http://www.flickr.com/photos/glickr/) account and uploaded some professional imagery. 

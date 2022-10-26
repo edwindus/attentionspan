@@ -6,7 +6,7 @@ sidebar: false
 tags: []
 preview: "_preview.jpg"
 hero: "_hero.jpg"
-summary: "A bunch of photos, thoughts and excuses on creating a custom bookcase for my carbooks"
+summary: "A bunch of photos, thoughts and excuses on creating a custom bookcase for my carbooks."
 ---
 
 _A bunch of photos, thoughts and excuses on creating a custom bookcase for my carbooks_
