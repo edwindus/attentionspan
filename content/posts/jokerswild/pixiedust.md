@@ -21,7 +21,7 @@ The feature-game is triggered by points that are provided by the 4th reel and pl
 
 A simple sketch (created with the great online platform [circuits.io](https://www.circuits.io/) by AutoDesk) of the setup used:
 
-![Playing around with circuits.io to (a bit unnecessary maybe) the setup for this test](hud-poc.png)
+![Playing around with circuits.io to describe the setup for this test](hud-poc.png)
 ![LED strip used for writing witing some display software](_preview.jpg)
 
 The interesting part is the thing on the bottom-right, called a [NeoPixel](https://www.adafruit.com/products/1376) strip by AdaFruit. I got a leftover piece with 46 NeoPixels that I used to simulate the 3 main parts of the HUD.
