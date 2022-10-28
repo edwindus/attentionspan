@@ -53,8 +53,7 @@ Now the guitar needs to be mounted on the home-office wall, which could ofcourse
 ![Mounted with the yellow strap, but the electric cord still needs to be curled](backdrop-002.jpg)
 
 For the finishing touch I got some help from a fellow Prince [fam](https://prince.org/msg/7/354554) that has the equipment to do precision cutting of a stencil. 
-That stencil was used to do the stippling of the [address](https://goo.gl/maps/C747YHh7vkPoJM636) that would have been on Prince's flightcases: **P.R.N. PROD.**  
-Overall I'm quite happy with the result. Every now and then I think I should weather the panel, or add some worn decals, eventhough  in it's current condition this already brings a smile staring at it regularly.
+That stencil was used to stipple the [address](https://goo.gl/maps/C747YHh7vkPoJM636) that would have been on Prince's flightcases.  Every now and then I think I should do some weathering to the panel, or add some worn decals, eventhough in it's current condition this already brings a smile staring at it regularly.
 
 ![Stippled the address on the flightcase adds to the storytelling](backdrop-004.jpg)
 ![And the final result ... (fake) Yellow Cloud Guitar](backdrop-005.jpg)
