@@ -11439,6 +11439,26 @@ html {
   background-color: #191919;
 }
 
+.twitter-tweet {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+blockquote p {
+  border-left: 0.2rem solid #C84B30;
+  padding: 1rem 0 1rem 2rem;
+  background: #ECDBBA;
+  font-style: italic;
+  margin-top: 1rem;
+}
+
+@media (min-width: 992px) {
+  blockquote p {
+    margin-left: 6rem;
+    margin-right: 6rem;
+  }
+}
+
 .portfolio img.thumbnail {
   margin: 2rem 0.5rem 0 0.5rem;
   max-width: 40%; 
@@ -11468,6 +11488,9 @@ a.nofollow:hover img.thumbnail {
 
 .portfolio p.thumbnails {
   text-align:center;
+}
+.portfolio p.thumbnails > a {
+  text-decoration: none;
 }
 
 .portfolio .portfolio-item {

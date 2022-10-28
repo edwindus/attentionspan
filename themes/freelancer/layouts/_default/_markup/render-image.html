@@ -1,6 +1,14 @@
-{{ if hasPrefix .Text "http" }}
-    <a href="{{ .Text | safeURL }}" class="nofollow" target="_blank" rel="nofollow">
+{{ $text := replace .Text "{{ .Page.Site.BaseURL }}" .Page.Site.BaseURL }}
+{{ $isDownload := in .Text "{{ .Page.Site.BaseURL }}" }}
+{{ $isExternal := and (hasPrefix $text "http") (not $isDownload) }}
+
+{{ if $isExternal }}
+    <a href="{{ $text | safeURL }}" class="nofollow" target="_blank" rel="nofollow">
         <img class="thumbnail external" src="{{ .Destination | safeURL }}" alt="external link" title="follow external link" />
+    </a>
+{{ else if $isDownload }}
+    <a href="{{ $text | safeURL }}" class="nofollow" target="_blank" rel="nofollow">
+        <img class="thumbnail download" src="{{ .Destination | safeURL }}" alt="download link" title="download file" />
     </a>
 {{ else }}
     <a href="{{ .Destination | safeURL }}" class="glightbox" data-description="{{ .Text }}">

@@ -6,7 +6,7 @@ sidebar: false
 tags: []
 preview: "_preview.jpg"
 hero: "_hero.jpg"
-summary: "This vintage 1979 Apple Pascal syntax poster has a quite interesting story and is an original piece of software engineering history too,"
+summary: "This vintage 1979 Apple Pascal syntax poster has a quite interesting story and is an original piece of software engineering history too."
 ---
 
 A couple of years ago I came across this official 1979 Apple poster. Opten called the ultimate geek poster, this peculiar looking artefact has a quite interesting story and is an original piece of Apple Computer - and software engineering [history](http://www.computerhistory.org/collections/catalog/102640077).
