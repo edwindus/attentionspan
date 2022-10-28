@@ -31,7 +31,7 @@ My dad was a guitar player so I grew up in a house where there were always sever
 ## The Real Deal
 After has Prince's passing, an original Cloud Guitar (#2) was [auctioned for a hefty $563,500](https://www.julienslive.com/lot-details/index/catalog/320/lot/138241). The [catalogue of this auction](https://www.juliensauctions.com/auctions/2020/Prince_Blue_Angel_Guitar/Prince_Blue_Angel_Flipping_Book/) is still online and is a fascinating document meant to prove the provenance of their auction lot. Furthermore, the [Smithsonian National Museum of American History](https://americanhistory.si.edu/collections/search/object/nmah_607482) has one in their collection.  
 More details about Prince owned Cloud Guitars build by Dave Russan, and lateron Andy Beach, can be found in the [Prince Equipment Archive](http://guitarcloud.org/equipment/dave-rusan-cloud-guitar).
-Dave Russan is still a luthier and handcrafting all kind of guitars, among those reproductions of the design he made for Prince. An incredible skillful but humble and friendly guy that creates true works of arts. Without any doubt fantastic instruments for those able to play guitar, probably priced as an artisans job should be, while his clients will have to patiently wait many months for their instruments.
+Dave Russan is still a luthier and handcrafting all kind of guitars, among those reproductions of the design he did for Prince. An incredible skillful but humble and friendly guy that creates true works of arts. Without any doubt fantastic instruments for those able to play guitar, probably priced as an artisans job should be, while his clients will have to patiently wait many months for their instruments.
 
 {{< youtube-enhanced id="KJzq2Xtoa_8" title="Meet Dave Rusan" >}}
 
