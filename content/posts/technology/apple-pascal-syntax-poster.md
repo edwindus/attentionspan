@@ -9,7 +9,7 @@ hero: "_hero.jpg"
 summary: "This vintage 1979 Apple Pascal syntax poster has a quite interesting story and is an original piece of software engineering history too."
 ---
 
-A couple of years ago I came across this official 1979 Apple poster. Opten called the ultimate geek poster, this peculiar looking artefact has a quite interesting story and is an original piece of Apple Computer - and software engineering [history](http://www.computerhistory.org/collections/catalog/102640077).
+A couple of years ago I came across this official 1979 Apple poster. Often called the ultimate geek poster, this peculiar looking artefact has a quite interesting story and is an original piece of Apple Computer - and software engineering [history](http://www.computerhistory.org/collections/catalog/102640077).
 
 ## Apple Pascal
 Around 1979, the Apple II became the “first personal computer” and [Bill Atkinson](https://twitter.com/billatk) became the primary developer of the programming language for the Apple II, called [Apple Pascal](https://web.archive.org/web/20150405004057/http://apple2info.net/images/2/24/Apple2Pascal_Operating_System_Ref.pdf). In the [Walter Isaacson](http://www.simonandschuster.com/books/Steve-Jobs/Walter-Isaacson/9781451648539) biography on [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) we read that Jobs resisted the idea of Pascal, thinking that BASIC (Beginner’s All-purpose Symbolic Instruction Code) was all that the Apple II needed, but he gave Bill Atkinson a six-day period to prove him wrong. An so Atkinson did.
