@@ -61,7 +61,7 @@ Hours before the concert we would leave for Galgenwaard which was like a 20 minu
 ![The concert organizer was spreading this flyers about the 6.ooo chairs that were placed on the field](flyer.jpg)
 ![Sign 'O the Times Tour in Stadion Galgenwaard (source: unknown)](galgenwaard.jpg)
 ![A promotional flyer for the originally planned european tour dates. Eventually the Wembley Stadium concerts would be cancelled and replaced by 3 more concerts in Holland at Ahoy, Rotterdam.](flyer2.jpg)
-![Mainstream magazine raving about Prince in Utrecht][revu.jpg]
+![Mainstream magazine raving about Prince in Utrecht](revu.jpg)
 
 And so it was, a beautiful night. [Other people](https://oor.nl/news/prince-in-1987-het-spannendste-teken-van-zijn-tijd/) are way more capable or informed to describe the actual concert, but to me it was then, and it still is, the best concert I ever attended.
 
