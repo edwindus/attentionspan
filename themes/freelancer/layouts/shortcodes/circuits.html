@@ -1,3 +1,23 @@
+<div id="map"></div>
+
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCiUcJY9yHFfc94RbmFL53m8OgrHM8YzNk&callback=initMap&libraries=&v=weekly" async></script>
+<script>
+    function initMap() {
+        const map = new google.maps.Map(document.getElementById("map"), {
+            mapTypeId: 'roadmap',
+            disableDefaultUI: true
+        });
+        let bounds = new google.maps.LatLngBounds();
+
+        {{ range where site.Data.circuits "latitude" "!=" nil }}
+        {{/*  {{ range site.Data.circuits  }}  */}}
+            bounds.extend(new google.maps.LatLng({{- .latitude -}} ,{{- .longitude -}}));
+            new google.maps.Marker({ position: {lat:{{- .latitude -}},lng:{{- .longitude -}}}, url: '{{- .url -}}', map:map });
+        {{- end -}}
+        map.fitBounds(bounds);
+    }
+</script>
+
 <ul>
     {{ range sort (sort site.Data.circuits "circuit") "country" }}
         <li>
@@ -6,9 +26,15 @@
         </li>
     {{ end }}
 </ul>
+
 <style>
     img.flag {
         height: 1.5rem;
         margin-right: 0.5rem;
+    }
+    div#map {
+        height: 600px;
+        width: 50%;
+        margin-bottom: 2em;
     }
 </style>

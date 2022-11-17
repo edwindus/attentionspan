@@ -4,6 +4,8 @@
         "country": "Nederland",
         "iso": "NLD",
         "url": "https://en.wikipedia.org/wiki/Circuit_Zandvoort",
+        "latitude": 52.388819,
+        "longitude": 4.540922,
         "img": ""
     },
     {
@@ -11,6 +13,8 @@
         "country": "Nederland",
         "iso": "NLD",
         "url": "https://en.wikipedia.org/wiki/TT_Circuit_Assen",
+        "latitude": 52.957997,
+        "longitude": 6.521844,
         "img": ""
     },
     {
@@ -18,12 +22,16 @@
         "country": "Nederland",
         "iso": "NLD",
         "url": "https://nl.wikipedia.org/wiki/Raceway_Venray",
+        "latitude": 51.5221,
+        "longitude": 5.8756,
         "img": ""
     },
     {
         "circuit": "Midland Circuit",
         "country": "Nederland",
         "iso": "NLD",
+        "latitude": 52.4438,
+        "longitude": 5.5022,
         "url": "",
         "img": ""
     },
@@ -32,6 +40,8 @@
         "country": "België",
         "iso": "BEL",
         "url": "https://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps",
+        "latitude": 50.437222,
+        "longitude": 5.971389,
         "img": ""
     },
     {
@@ -39,6 +49,8 @@
         "country": "België",
         "iso": "BEL",
         "url": "https://en.wikipedia.org/wiki/Circuit_Zolder",
+        "latitude": 50.990468,
+        "longitude": 5.257650,
         "img": ""
     },
     {
@@ -46,6 +58,8 @@
         "country": "Deutschland",
         "iso": "DEU",
         "url": "https://en.wikipedia.org/wiki/Nürburgring",
+        "latitude": 50.335556,
+        "longitude": 6.947500,
         "img": ""
     },
     {
@@ -53,6 +67,8 @@
         "country": "Deutschland",
         "iso": "DEU",
         "url": "https://en.wikipedia.org/wiki/Hockenheimring",
+        "latitude": 49.327778,
+        "longitude": 8.565833,
         "img": ""
     },
     {
@@ -60,6 +76,8 @@
         "country": "Italia",
         "iso": "ITA",
         "url": "https://en.wikipedia.org/wiki/Vallelunga_Circuit",
+        "latitude": 42.160833,
+        "longitude": 12.369167,
         "img": ""
     },
     {
@@ -67,6 +85,8 @@
         "country": "Italia",
         "iso": "ITA",
         "url": "https://en.wikipedia.org/wiki/Monza_Circuit",
+        "latitude": 45.620556,
+        "longitude": 9.289444,
         "img": ""
     },
     {
@@ -74,6 +94,8 @@
         "country": "Italia",
         "iso": "ITA",
         "url": "https://en.wikipedia.org/wiki/Mugello_Circuit",
+        "latitude": 43.997500,
+        "longitude": 11.371944,
         "img": ""
     },
     {
@@ -81,6 +103,8 @@
         "country": "Italia",
         "iso": "ITA",
         "url": "https://en.wikipedia.org/wiki/Fiorano_Circuit",
+        "latitude": 44.535000,
+        "longitude": 10.857222,
         "img": ""
     },
     {
@@ -88,6 +112,8 @@
         "country": "France",
         "iso": "FRA",
         "url": "https://en.wikipedia.org/wiki/Circuit_de_la_Sarthe",
+        "latitude": 47.953490,
+        "longitude": 0.210714,
         "img": ""
     },
     {
@@ -95,6 +121,8 @@
         "country": "France",
         "iso": "FRA",
         "url": "https://en.wikipedia.org/wiki/Circuit_de_Charade",
+        "latitude": 45.741667,
+        "longitude": 3.032098,
         "img": ""
     },
     {
@@ -102,6 +130,8 @@
         "country": "France",
         "iso": "FRA",
         "url": "https://en.wikipedia.org/wiki/Dijon-Prenois",
+        "latitude": 47.360591,
+        "longitude": 4.896664,
         "img": ""
     },
     {
@@ -109,6 +139,8 @@
         "country": "France",
         "iso": "FRA",
         "url": "https://en.wikipedia.org/wiki/Autodrome_de_Linas-Montlhéry",
+        "latitude": 48.622187,
+        "longitude": 2.235546,
         "img": ""
     },
     {
@@ -116,6 +148,8 @@
         "country": "France",
         "iso": "FRA",
         "url": "https://en.wikipedia.org/wiki/Circuit_de_Nevers_Magny-Cours",
+        "latitude": 46.864167,
+        "longitude": 3.163611,
         "img": ""
     },
     {
@@ -123,6 +157,8 @@
         "country": "France",
         "iso": "FRA",
         "url": "https://en.wikipedia.org/wiki/Reims-Gueux",
+        "latitude": 49.254167,
+        "longitude": 3.930833,
         "img": ""
     },
     {
@@ -130,6 +166,8 @@
         "country": "France",
         "iso": "FRA",
         "url": "https://en.wikipedia.org/wiki/Circuit_du_Val_de_Vienne",
+        "latitude": 46.196289,
+        "longitude": 0.632186,
         "img": ""
     },
     {
@@ -137,6 +175,8 @@
         "country": "France",
         "iso": "FRA",
         "url": "https://en.wikipedia.org/wiki/Circuit_Paul_Armagnac",
+        "latitude": 43.768056,
+        "longitude": -0.038056,
         "img": ""
     },
     {
@@ -144,6 +184,8 @@
         "country": "United Kingdom",
         "iso": "GBR",
         "url": "https://en.wikipedia.org/wiki/Brands_Hatch",
+        "latitude": 51.359669,
+        "longitude": 0.259273,
         "img": ""
     }
 ]
