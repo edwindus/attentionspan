@@ -32,6 +32,14 @@
         "url": null
     },
     {
+        "circuit": "Circuit de Monte Carlo",
+        "country": "Principality of Monaco",
+        "iso": "MCO",
+        "url": "https://en.wikipedia.org/wiki/Circuit_Zolder",
+        "latitude": 43.734722,
+        "longitude": 7.420556
+    },
+    {
         "circuit": "Circuit de Spa-Francorchamps",
         "country": "België",
         "iso": "BEL",
