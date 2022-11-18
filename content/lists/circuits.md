@@ -4,7 +4,7 @@ date: 2022-11-17T20:09:00Z
 draft: false
 sidebar: false
 tags: []
-preview: "../../posts/prince/galgenwaard/_preview.jpg"
+preview: ""
 hero: ""
 summary: "Racetracks visited"
 ---
