@@ -4,7 +4,7 @@ date: 2022-11-17T20:09:00Z
 draft: false
 sidebar: false
 tags: []
-preview: ""
+preview: "_preview.jpg"
 hero: ""
 summary: "Racetracks visited"
 ---

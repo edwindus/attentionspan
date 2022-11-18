@@ -31,9 +31,11 @@
         {{ range where site.Data.circuits "latitude" "!=" nil }}
             bounds.extend(new google.maps.LatLng({{- .latitude -}} ,{{- .longitude -}}));
             const marker_{{$counter | safeJS}} = new google.maps.Marker({ position: {lat:{{- .latitude -}},lng:{{- .longitude -}}}, url: '{{- .url -}}', map:map });
-            google.maps.event.addListener(marker_{{$counter | safeJS}}, 'click', function() {
-                window.open('{{ .url | safeJS }}', '_blank').focus();
-            });
+            {{ if .url }}
+                google.maps.event.addListener(marker_{{$counter | safeJS}}, 'click', function() {
+                    window.open('{{ .url | safeJS }}', '_blank').focus();
+                });
+            {{ end }}
             {{ $counter = add $counter 1 }}
         {{- end -}}
         map.fitBounds(bounds);

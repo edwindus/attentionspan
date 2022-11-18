@@ -5,8 +5,7 @@
         "iso": "NLD",
         "url": "https://en.wikipedia.org/wiki/Circuit_Zandvoort",
         "latitude": 52.388819,
-        "longitude": 4.540922,
-        "img": ""
+        "longitude": 4.540922
     },
     {
         "circuit": "TT Circuit Assen",
@@ -14,8 +13,7 @@
         "iso": "NLD",
         "url": "https://en.wikipedia.org/wiki/TT_Circuit_Assen",
         "latitude": 52.957997,
-        "longitude": 6.521844,
-        "img": ""
+        "longitude": 6.521844
     },
     {
         "circuit": "Raceway Venray",
@@ -23,17 +21,15 @@
         "iso": "NLD",
         "url": "https://nl.wikipedia.org/wiki/Raceway_Venray",
         "latitude": 51.5221,
-        "longitude": 5.8756,
-        "img": ""
+        "longitude": 5.8756
     },
     {
-        "circuit": "Midland Circuit",
+        "circuit": "CHM Circuit Lelystad",
         "country": "Nederland",
         "iso": "NLD",
         "latitude": 52.4438,
         "longitude": 5.5022,
-        "url": "",
-        "img": ""
+        "url": null
     },
     {
         "circuit": "Circuit de Spa-Francorchamps",
@@ -41,8 +37,7 @@
         "iso": "BEL",
         "url": "https://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps",
         "latitude": 50.437222,
-        "longitude": 5.971389,
-        "img": ""
+        "longitude": 5.971389
     },
     {
         "circuit": "Circuit Zolder Terlamen",
@@ -50,8 +45,7 @@
         "iso": "BEL",
         "url": "https://en.wikipedia.org/wiki/Circuit_Zolder",
         "latitude": 50.990468,
-        "longitude": 5.257650,
-        "img": ""
+        "longitude": 5.257650
     },
     {
         "circuit": "Nürburgring",
@@ -59,8 +53,15 @@
         "iso": "DEU",
         "url": "https://en.wikipedia.org/wiki/Nürburgring",
         "latitude": 50.335556,
-        "longitude": 6.947500,
-        "img": ""
+        "longitude": 6.947500
+    },
+    {
+        "circuit": "Nürburgring Nordschleife",
+        "country": "Deutschland",
+        "iso": "DEU",
+        "url": "https://de.wikipedia.org/wiki/Nordschleife",
+        "latitude": 50.3465,
+        "longitude": 6.9660
     },
     {
         "circuit": "Hockenheimring Baden-Württemberg",
@@ -68,8 +69,7 @@
         "iso": "DEU",
         "url": "https://en.wikipedia.org/wiki/Hockenheimring",
         "latitude": 49.327778,
-        "longitude": 8.565833,
-        "img": ""
+        "longitude": 8.565833
     },
     {
         "circuit": "Autodromo Vallelunga Piero Taruffi",
@@ -77,8 +77,15 @@
         "iso": "ITA",
         "url": "https://en.wikipedia.org/wiki/Vallelunga_Circuit",
         "latitude": 42.160833,
-        "longitude": 12.369167,
-        "img": ""
+        "longitude": 12.369167
+    },
+    {
+        "circuit": "Autodromo di Modena",
+        "country": "Italia",
+        "iso": "ITA",
+        "url": "https://en.wikipedia.org/wiki/Autodromo_di_Modena",
+        "latitude": 44.650278,
+        "longitude": 10.905833
     },
     {
         "circuit": "Autodromo Nazionale di Monza",
@@ -86,8 +93,7 @@
         "iso": "ITA",
         "url": "https://en.wikipedia.org/wiki/Monza_Circuit",
         "latitude": 45.620556,
-        "longitude": 9.289444,
-        "img": ""
+        "longitude": 9.289444
     },
     {
         "circuit": "Autodromo Internazionale del Mugello",
@@ -95,8 +101,7 @@
         "iso": "ITA",
         "url": "https://en.wikipedia.org/wiki/Mugello_Circuit",
         "latitude": 43.997500,
-        "longitude": 11.371944,
-        "img": ""
+        "longitude": 11.371944
     },
     {
         "circuit": "Pista di Fiorano",
@@ -104,8 +109,7 @@
         "iso": "ITA",
         "url": "https://en.wikipedia.org/wiki/Fiorano_Circuit",
         "latitude": 44.535000,
-        "longitude": 10.857222,
-        "img": ""
+        "longitude": 10.857222
     },
     {
         "circuit": "Circuit de la Sarthe",
@@ -113,8 +117,7 @@
         "iso": "FRA",
         "url": "https://en.wikipedia.org/wiki/Circuit_de_la_Sarthe",
         "latitude": 47.953490,
-        "longitude": 0.210714,
-        "img": ""
+        "longitude": 0.210714
     },
     {
         "circuit": "Circuit de Charade Clermont-Ferrand",
@@ -122,8 +125,7 @@
         "iso": "FRA",
         "url": "https://en.wikipedia.org/wiki/Circuit_de_Charade",
         "latitude": 45.741667,
-        "longitude": 3.032098,
-        "img": ""
+        "longitude": 3.032098
     },
     {
         "circuit": "Circuit Dijon-Prenois",
@@ -131,8 +133,7 @@
         "iso": "FRA",
         "url": "https://en.wikipedia.org/wiki/Dijon-Prenois",
         "latitude": 47.360591,
-        "longitude": 4.896664,
-        "img": ""
+        "longitude": 4.896664
     },
     {
         "circuit": "Autodrome de Linas-Montlhéry",
@@ -140,8 +141,7 @@
         "iso": "FRA",
         "url": "https://en.wikipedia.org/wiki/Autodrome_de_Linas-Montlhéry",
         "latitude": 48.622187,
-        "longitude": 2.235546,
-        "img": ""
+        "longitude": 2.235546
     },
     {
         "circuit": "Circuit de Nevers Magny-Cours",
@@ -149,8 +149,7 @@
         "iso": "FRA",
         "url": "https://en.wikipedia.org/wiki/Circuit_de_Nevers_Magny-Cours",
         "latitude": 46.864167,
-        "longitude": 3.163611,
-        "img": ""
+        "longitude": 3.163611
     },
     {
         "circuit": "Circuit Reims-Gueux",
@@ -158,8 +157,7 @@
         "iso": "FRA",
         "url": "https://en.wikipedia.org/wiki/Reims-Gueux",
         "latitude": 49.254167,
-        "longitude": 3.930833,
-        "img": ""
+        "longitude": 3.930833
     },
     {
         "circuit": "Circuit de Val de Vienne",
@@ -167,8 +165,7 @@
         "iso": "FRA",
         "url": "https://en.wikipedia.org/wiki/Circuit_du_Val_de_Vienne",
         "latitude": 46.196289,
-        "longitude": 0.632186,
-        "img": ""
+        "longitude": 0.632186
     },
     {
         "circuit": "Circuit Paul Armagnac de Nogaro",
@@ -176,8 +173,7 @@
         "iso": "FRA",
         "url": "https://en.wikipedia.org/wiki/Circuit_Paul_Armagnac",
         "latitude": 43.768056,
-        "longitude": -0.038056,
-        "img": ""
+        "longitude": -0.038056
     },
     {
         "circuit": "Brands Hatch",
@@ -185,7 +181,6 @@
         "iso": "GBR",
         "url": "https://en.wikipedia.org/wiki/Brands_Hatch",
         "latitude": 51.359669,
-        "longitude": 0.259273,
-        "img": ""
+        "longitude": 0.259273
     }
 ]
