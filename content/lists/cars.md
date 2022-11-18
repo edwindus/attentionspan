@@ -6,7 +6,7 @@ sidebar: false
 tags: []
 preview: ""
 hero: ""
-summary: ""
+summary: "Cars owned"
 ---
 
 {{< autos >}}

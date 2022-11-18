@@ -1,7 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'attentionSpan.equals(null)'
-author = 'Edwin van Nes'
 theme = "freelancer"
 paginate = 9
 
@@ -10,6 +9,8 @@ paginate = 9
   homePosts = 3
   homeProjects = 3
 
+  author = 'Edwin van Nes'
+  description = 'meaningless mumblings & meandering projects'
   aboutLeft = "MTV generation, proud Father and partner, scrutinizing Prince music since 1984, enjoying Star Wars over Star Trek and collecting too much Ferrari books and nerd stuff"
   aboutRight = "Craftsman, engineer & thinkerer, recovering perfectionist & amateur, getting more-and-more suspicious that nobody else knows what they're doing either"
 

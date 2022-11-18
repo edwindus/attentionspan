@@ -1,0 +1,48 @@
+{{ define "main" }}
+	<section class="page-section portfolio" id="portfolio">
+        <div class="container">
+            <h1 class="page-section-heading text-center text-uppercase text-secondary mt-5">{{ .Title  }}</h2>
+            <div class="row justify-content-left">
+
+                {{ range .Paginator.Pages }}
+                  <div class="col-md-6">
+                    <div class="card mb-4 list-card">
+                        <div class="row">
+                            <div class="col-md-4">
+                                <a href="{{.Permalink}}">
+                                {{ if .Page.Params.preview }}
+                                    <img class="img-fluid img-list" src="{{.Permalink}}{{.Page.Params.preview}}" alt="Preview image for '{{.Title }}' post">
+                                {{ else }}
+                                    <img class="img-fluid img-list" src="/img/posts_preview.png">
+                                {{ end }}                
+                            </a>        
+                            </div>
+                            <div class="col-md-8">
+                                <div class="list-card-block">
+                                    <h5 class="card-title">{{ .Summary }}</h5>
+                                    <a href="{{.Permalink}}" class="btn  btn-sm btn-primary ">List {{ .Title }}</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>  
+                {{ end }}
+
+                <div class="col-12 p-3">
+                    <div class="d-flex justify-content-center">{{ partial "pagination.html" . }}</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <style>
+        div.list-card img {
+            height: 100%;
+            width: 100%;
+            object-fit: cover;
+        }
+        div.list-card-block {
+            margin: 1rem;
+        }
+    </style>
+{{ end }}
