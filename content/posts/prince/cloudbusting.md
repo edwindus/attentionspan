@@ -39,21 +39,20 @@ Dave Russan is still a luthier and handcrafting all kind of guitars, among those
 Then I learned that Chinese copycats were selling Cloud-like guitars. I'm sure these are nothing compared to the genuine instruments from earlier mentioned sources, but I did seem like the only plausible option to get a Cloud Guiter decorating my home-office wall. 
 
 The first attempt was ordered in March 2020 but nothing was every heard from the supplier (later we learned this was right when an epidemic hit China), so eventually I applied for - and got a full refund. In December 2020 the second attempt with another supplier. This time I got some email correspondence, but a package or even tracing of a shipment, never materialized so this ended in a refund again.
-Third time's a charm ... a few weeks after the third order, two (low resolution) pictures were send for 'final approval by the client' were sent by this third supplier. The pictures could tell me nothing about 'quality' but I took the plunge, and okay-ed the shipping. A few long weeks with regular but utterly confusing tracing information followed, before the package (and import duties) actually showed up at my doorstep. The woodworking and paint quality isn't all that bad, but the whole thing feels like a lousy instrument to play. Like expected before ordering and not a problem at all for my purpose (or skillset).
+Third time's a charm ... a few weeks after the third order, two (low resolution) pictures for 'final approval by the client' were sent by this third supplier. The pictures could tell me nothing about 'quality' but I took the plunge, and okay-ed the shipping. A few long weeks with regular but utterly confusing tracing information followed, before the package (and import duties) actually showed up at my doorstep. The woodworking and paint quality isn't all that bad, but the whole thing feels like a lousy instrument to play. Like expected before ordering and not a problem at all for my purpose (or skillset).
 
 ![Final approval before shipping from China](shipping-001.jpg)
 ![Final approval before shipping from China](shipping-002.jpg)
 ![Thriller Tracking](shipping-003.jpg)
 
 ## Flight Case
-Now the guitar needs to be mounted on the home-office wall, which could ofcourse be easily done with the standard guitar clamp I had. But I had this little plan to make it more of a project. First I ordered a (almost) color-matched guitar strap and curled the electrical cable (in the oven) to make the prop more lifelike. Next I bought some flightcase hardware, slammed together a wooden panel, glued a purple colored piece of fake-leather to this panel and rivited the hardware to make the panel look somewhat like a guiter flightcase.
+Now the guitar needs to be mounted on the home-office wall, which could ofcourse be easily done with the standard guitar clamp I had. But I had this little plan to make it more of a project. First I ordered a (almost) color-matched guitar strap and curled the electrical cable (in the oven) to make the prop more lifelike. Next I bought some flightcase hardware, slammed together a wooden panel, glued a purple colored piece of fake-leather to this panel and riveted the hardware to make the panel look somewhat like a guitar flightcase.
 
 ![Many shortcuts in the construction and mostly glued together but none of it will be visible](backdrop-001.jpg)
 ![Having real flightcase hardware and rivets gets the message across](backdrop-003.jpg)
 ![Mounted with the yellow strap, but the electric cord still needs to be curled](backdrop-002.jpg)
 
-For the finishing touch I got some help from a fellow Prince [fam](https://prince.org/msg/7/354554) that has the equipment to do precision cutting of a stencil. 
-That stencil was used to stipple the [address](https://goo.gl/maps/C747YHh7vkPoJM636) that would have been on Prince's flightcases.  Every now and then I think I should do some weathering to the panel, or add some worn decals, eventhough in it's current condition this already brings a smile staring at it regularly.
+For the finishing touch I got some help from a fellow Prince [fam](https://prince.org/msg/7/354554) that has the equipment to do precision cutting and make me a stencil. That stencil was used to stipple the [address](https://goo.gl/maps/C747YHh7vkPoJM636) that Prince's real flightcases would have.  Every now and then I think I should do some weathering to the panel, or add some worn decals, eventhough in it's current condition this already brings a smile staring at it regularly.
 
 ![Stippled the address on the flightcase adds to the storytelling](backdrop-004.jpg)
 ![And the final result ... (fake) Yellow Cloud Guitar](backdrop-005.jpg)
