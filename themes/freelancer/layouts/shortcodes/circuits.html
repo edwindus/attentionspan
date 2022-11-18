@@ -1,6 +1,14 @@
 
 <ul class="col-lg-6 col-md-12">
+    {{ $prev := "" }}
     {{ range sort (sort site.Data.circuits "circuit") "country" }}
+        {{ if eq $prev .country }}
+        {{ else }}
+        <li>
+            <strong>{{ .country }}</strong>
+        </li>
+        {{ $prev = .country }}
+        {{ end }}
         <li>
             <img class="flag" src="/img/flagz/{{ lower .iso }}.svg" alt="{{ .country }}" title="{{ .country }}" />
             {{ .circuit }}
@@ -19,14 +27,30 @@
         });
         let bounds = new google.maps.LatLngBounds();
 
+        {{ $counter := 0 }}
         {{ range where site.Data.circuits "latitude" "!=" nil }}
-        {{/*  {{ range site.Data.circuits  }}  */}}
             bounds.extend(new google.maps.LatLng({{- .latitude -}} ,{{- .longitude -}}));
-            new google.maps.Marker({ position: {lat:{{- .latitude -}},lng:{{- .longitude -}}}, url: '{{- .url -}}', map:map });
+            const marker_{{$counter | safeJS}} = new google.maps.Marker({ position: {lat:{{- .latitude -}},lng:{{- .longitude -}}}, url: '{{- .url -}}', map:map });
+            google.maps.event.addListener(marker_{{$counter | safeJS}}, 'click', function() {
+                window.location.href = {{ .url | safeJS }};
+            });
+            {{ $counter = add $counter 1 }}
         {{- end -}}
         map.fitBounds(bounds);
     }
 </script>
+
+
+
+
+const marker_{{.iso3 | safeJS}} = new google.maps.Marker({
+    position: {lat:{{- .latitude -}},lng:{{- .longitude -}}},
+url: '{{- ($.Scratch.Get `term`).RelPermalink -}}',
+    map:map
+});
+google.maps.event.addListener(marker_{{.iso3 | safeJS}}, 'click', function() {
+    window.location.href = marker_{{.iso3 | safeJS}}.url;
+});
 
 <style>
     img.flag {
