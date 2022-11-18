@@ -1,4 +1,4 @@
-{
+[
     {
         "name": "Commodore 64 Basic V2"
     },
@@ -77,4 +77,4 @@
     {
         "name": "Grails version ?"
     }
-}
+]
