@@ -40,18 +40,6 @@
     }
 </script>
 
-
-
-
-const marker_{{.iso3 | safeJS}} = new google.maps.Marker({
-    position: {lat:{{- .latitude -}},lng:{{- .longitude -}}},
-url: '{{- ($.Scratch.Get `term`).RelPermalink -}}',
-    map:map
-});
-google.maps.event.addListener(marker_{{.iso3 | safeJS}}, 'click', function() {
-    window.location.href = marker_{{.iso3 | safeJS}}.url;
-});
-
 <style>
     img.flag {
         height: 1.5rem;
