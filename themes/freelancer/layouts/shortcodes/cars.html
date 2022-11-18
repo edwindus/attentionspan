@@ -8,7 +8,7 @@
         <th></th>
     </thead>
     <tbody>
-        {{ range sort (sort site.Data.autos "bouwjaar") "merk" }}
+        {{ range sort (sort site.Data.cars "bouwjaar") "merk" }}
             <tr>
                 <td>{{ .bouwjaar }}</td>
                 <td>{{ .merk }}</td>

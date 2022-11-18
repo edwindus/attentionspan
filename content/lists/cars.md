@@ -4,9 +4,9 @@ date: 2014-12-14T12:00:00Z
 draft: true
 sidebar: false
 tags: []
-preview: ""
+preview: "_preview.jpg"
 hero: ""
 summary: "Cars owned"
 ---
 
-{{< autos >}}
+{{< cars >}}
