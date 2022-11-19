@@ -13,11 +13,15 @@ The story of Prince's Cloud Guitar has been told and documentated by [many peopl
 
 In short, Prince wanted to have an iconic guitar as a hero prop in the Purple Rain move and went to local Knut-Koupee Music Store in Minneapolis, where [luthier Dave Rusan](https://www.premierguitar.com/gear/guitars/prince-cloud-guitar) was assigned with the job. The assignment was to build a guitar, that would be important to the storyline of the Purple Rain movie, and the design should mimick a 1972 bass guitar owned by André Cymone, Prince's friend since childhood and a bass player in Prince's former band. This bass in turn inspired by an [F-style mandolin](https://artfulliving.com/prince-cloud-guitar-mystery-music-andrea-swensson/).
 
+![Advertisement for Knut-Koupeé Music Stores in Minneapolis and St. Paul](knut-koupee.jpg)
+![Dave Russan holding the white Cloud Guitar created as a prop for the Purple Rain movie](russan.jpg)
+![Screengrab from the Purple Rain movie where 'The Kid' receives the white Cloud as a present from Apollonia](purplerain.jpg)
+
 {{< youtube-enhanced id="l7vRSu_wsNc" title="Raspberry Beret" >}}
 
-Anyway, the rest is history so to say. The (white) guitar built by Dave Rusan featured in Purple Rain and Prince appearently like it a lot since several more were built, repaired and repainted over a long period. Reportedly, when the 1985 _Raspberry Beret_ video was released, the iconic guitar became known as the _cloud guitar_. 
+Anyway, the rest is history so to say. The (white) guitar built by Dave Rusan featured in Purple Rain and Prince appearently like it a lot since several more were built, repaired and repainted over a long period. Reportedly, when the 1985 _Raspberry Beret_ video was released, the iconic guitar became known as the _Cloud Guitar_, likely because of a similar shape to the cloud on the suit Prince wore in that video.
 
-![The first appearance of the guitar as a hero prop in the Purple Rain movie](cloud-prince-001.jpg)
+![The hero prop in the Purple Rain movie was coloured white](cloud-prince-001.jpg)
 ![Several copies were created or existing copies repainted like this 'Sign 'O the Times' era color scheme](cloud-prince-002.jpg)
 ![During the 1990 'Nude Tour' a second blue version (not the 1988 'Blue Angel') was used](cloud-prince-003.jpg)
 ![The yellow cloud from the 1992 'Daimonds and Pearls Tour' became the version I decided upon](cloud-prince-004.jpg)
@@ -29,9 +33,10 @@ My dad was a guitar player so I grew up in a house where there were always sever
 ![http://cloudguitarcentral.blogspot.com/2012/06/cloud-guitar-plans.html](blueprints-002.jpg)
 
 ## The Real Deal
-After has Prince's passing, an original 1982 Cloud guitar (PM16549) was [auctioned for a hefty $563,500](https://www.julienslive.com/lot-details/index/catalog/320/lot/138241). The [catalogue of this auction](https://www.juliensauctions.com/auctions/2020/Prince_Blue_Angel_Guitar/Prince_Blue_Angel_Flipping_Book/) is still online and is a fascinating document meant to prove the provenance of their auction lot. Another Prince owned guitar (PM16220) from 1992 was [auctioned at $192,000](https://www.julienslive.com/lot-details/index/catalog/427/lot/192988) in 2022, and Paisley Park Enterprises provided a Yellow Cloud to the collection of the [Smithsonian National Museum of American History](https://americanhistory.si.edu/collections/search/object/nmah_607482).
+After has Prince's passing, an original 1982 Prince (PM16549) owned Cloud Guitar was [auctioned for a hefty $563,500](https://www.julienslive.com/lot-details/index/catalog/320/lot/138241). The [catalogue of this auction](https://www.juliensauctions.com/auctions/2020/Prince_Blue_Angel_Guitar/Prince_Blue_Angel_Flipping_Book/) is still online and is a fascinating document meant to prove the provenance of their auction lot. Another Prince owned (PM16220) Cloud Guitar from 1992 was [auctioned at $192,000](https://www.julienslive.com/lot-details/index/catalog/427/lot/192988) in 2022, and Paisley Park Enterprises provided a Yellow Cloud to the collection of the [Smithsonian National Museum of American History](https://americanhistory.si.edu/collections/search/object/nmah_607482).
+
 More details about Prince owned Cloud Guitars build by Dave Russan, and lateron Andy Beach, can be found in the [Prince Equipment Archive](http://guitarcloud.org/equipment/dave-rusan-cloud-guitar).
-Dave Russan is still a luthier and handcrafting all kind of guitars, among those reproductions of the design he did for Prince. An incredible skillful but humble and friendly guy that creates true works of arts. Without any doubt fantastic instruments for those able to play guitar, probably priced as an artisans job should be, while his clients will have to patiently wait many months for their instruments.
+Dave Russan is [still a luthier](https://www.facebook.com/RusanGuitarworks/) and handcrafting all kind of guitars, among those reproductions of the design he did for Prince. An incredible skillful but humble and friendly guy that creates true works of arts. Without any doubt fantastic instruments for those able to play guitar, probably priced as an artisans job should be, while his clients will have to patiently wait many months for their instruments.
 
 {{< youtube-enhanced id="KJzq2Xtoa_8" title="Meet Dave Rusan" >}}
 
