@@ -1,18 +1,12 @@
 [
-    {"camera": "Revue Pocket 50 (110 film)"},
-    {"camera": "Revue Quickshot 35mm point-and-shoot"},
-    {"camera": "Petri GX-1 super SLR"},
-    {"camera": "Canon EOS 500N SLR"},
-    {"camera": "Canon PowerShotPro90 IS"},
-    {"camera": "Nikon D100 DSLR"},
-    {"camera": "Panasonic Lumix DMC-LX2"},
-    {"camera": "Canon EOS 30D DSLR"},
-    {"camera": "Apple iPhone 3G"},
-    {"camera": "Apple iPhone 4"},
-    {"camera": "Apple iPhone 4S"},
-    {"camera": "Apple iPhone 5"},
-    {"camera": "Apple iPhone 6"},
-    {"camera": "Canon 5D mark II DSLR"},
-    {"camera": "Apple iPhone SE"},
-    {"camera": "Apple iPhone XR"}
-]   
+    {"title": "Revue Pocket 50 (110 film)", "category": "analog 110 point & shoot", "description": "released 1980", "image": "revue-pocket-50.jpg"},
+    {"title": "Revue Quickshot 35mm", "category": "analog 35mm point & shoot", "description": "released early 1990's", "image": "revue-quickshot.jpg"},
+    {"title": "Petri GX-1 super", "category": "analog 35mm SLR", "description": "released early 1980's, manual focus", "image": "petri-gx1.jpg"},
+    {"title": "Canon EOS 500N SLR", "category": "analog 35mm SLR", "description": "released 1996, auto focus", "image": "canon-eos-500n.jpg"},
+    {"title": "Canon PowerShotPro90 IS", "category": "digital mirrorless", "description": "released 2001,image stabilzer, 2.6 MP resolution", "image": "canon-powershot.jpg"},
+    {"title": "Nikon D100", "category": "DSLR", "description": "released 2002, 6 MP resolution", "image": "nikon-d100.jpg"},
+    {"title": "Sony Cybershot DSC P41", "category": "digital point & shoot", "description": "released 2004, 4 MP resolution", "image": "sony-cybershot-p41.jpg"},
+    {"title": "Leica Lumix DMC-LX2", "category": "digital point & shoot", "description": "released 2006, 10.4 MP resolution", "image": "leica-lumix-lx2.jpg"},
+    {"title": "Canon EOS 30D", "category": "DSLR", "description": "released 2006, 8.2 MP resolution", "image": "canon-eos-30d.jpg"},
+    {"title": "Canon EOS 5D mark II", "category": "DSLR", "description": "released 2008, 21.1 MP resolution", "image": "canon-eos-5d.jpg"}
+]
