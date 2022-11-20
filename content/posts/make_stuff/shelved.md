@@ -25,10 +25,9 @@ Early 2019, the time felt right to start building my heavy-duty purpose-built sh
 
 Day 1 consisted of narrowing the depth of the salvaged wood with a circular saw (inside a bedroom, that is an interesting experience, even with a [connected vacuum cleaner](https://www.bosch-professional.com/nl/nl/products/gas-20-l-sfc-060197B000)). The picture shows the finished pile standing against the bedroom wall. The wood was laminated white and beige before repainted glossy black, hence the funky color scheme, that would determine the view for the next couple of months.
 
-## Dado slots & Skeleton
+## Glued & Screwed
 More saw-dust was created when using a router to make (dado) slots for the shelfs to interconnect. Connecting the wood this way give the whole structure good strength while still keeping it somewhat elegant.
 
-## Glued & Screwed
 Everything glued together with [Gorilla Wood Glue](https://www.gorillaglue.nl/producten/gorilla_glue_houtlijm) (which I can absolutely recommend) and screwed from the outside to keep things together while the glue is hardening. The screws won’t be visible due to placement against the wall and final finishing of the lefthand-side of the bookcase. Creating the skeleton while the bookcase was essentially lying on its front made it easier to keep things square (but barely fits on the floor).
 A couple of adjustable feet (salvaged too) were installed to keep the bottom shelf from sagging in the middle while providing a way to level the bookcase and keep it snug to the wall behind.
 
@@ -70,7 +69,7 @@ Finally (after months of raised eyebrows by friends and passers-by) the bookcase
 ## Drillin' for dowels
 For the horizontal finishing strips I felt they needed more support then simply glueing them in place. Best solution would be to route a sloth and finger, but it would be a massive amount of additional work and we became pretty annoyed by all the sawdust in the house (and there was one more sawdust-exploding in our near future).
 
-Biscuits would be the next best thing; but I do not own the equipment for that, so I opted to carefully drill a couple of dowels in each strip and the shelves receiving them. With this helpful yellow tool I made sure the hole were drilled haaks and at the right depth. Some creative use of wood clamps and lots of patience during the hardening of the Gorilla Glue, and another 7 days went by to have all horizontal fronts done.
+Biscuits would be the next best thing; but I do not own the equipment for that, so I opted to carefully drill a couple of dowels in each strip and the shelves receiving them. With this helpful yellow tool I made sure the hole were drilled square and at the right depth. Some creative use of wood clamps and lots of patience during the hardening of the Gorilla Glue, and another 7 days went by to have all horizontal fronts done.
 
 ![Drill template for the dowels](meranti-003.jpg)
 ![Horizontal strips clamped](meranti-004.jpg)
@@ -83,7 +82,7 @@ The standard size meranti strips where bigger than planned, leaving too little s
 ![Correcting the gap with a router against a vertical mounted strip creates a lot of dust, a LOT](sawdust.jpg)
 
 ## Faux Panelling
-Last part of construction; the outer-uprights. While making the plans (mostly in my head, some rough sketches) I knew I could not trust on my (lacking) skills to end up with perfectly fitting haakse / verstrek connections between the horizontal shelves and the outer uprights.
+Last part of construction; the outer-uprights. While making the plans (mostly in my head, some rough sketches) I knew I could not trust on my (lacking) skills to end up with perfectly fitting square and mitre-cut connections between the horizontal shelves and the outer uprights.
 
 So I came up with this trick; have the horizontal strips stick out approximately halfway through the upright. Then fit tiny, half strips in-between, here I could easily fail, sand, multiple fits etcetera since it was one tiny piece of wood at a time.
 On the outer corner of the upright; there is another half strip, but this one running for the whole height of 2.4 meters. The ugly gap in the middle will be hidden by a simple decorative meranti hardwood strip again.
