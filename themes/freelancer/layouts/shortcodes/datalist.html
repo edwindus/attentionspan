@@ -1,12 +1,40 @@
-<ul>
-    {{ range (index site.Data (.Get "data")) }}
-        <li>
-            {{ . }}
-            {{ if .image }}
-                <a href="{{ .image | safeURL }}" class="glightbox" data-description="{{ .title }}">
-                    <img class="thumbnail" src="{{ .image | safeURL }}" alt="{{ .title }}" />
-                </a>
+<section class="page-section portfolio" id="portfolio">
+    <div class="container">
+        <div class="row justify-content-left">
+
+        {{ range (index site.Data (.Get "data")) }}
+              <div class="col-md-6">
+                <div class="card mb-4 list-card">
+                    <div class="row">
+                        <div class="col-md-4">
+                            {{ if .image }}
+                                <a href="{{ .image | safeURL }}" class="glightbox" data-description="{{ .title }}">
+                                    <img src="{{ .image | safeURL }}" alt="{{ .title }}" />
+                                </a>
+                            {{ end }}
+                        </div>
+                        <div class="col-md-8">
+                            <div class="list-card-block">
+                                <h5 class="card-title">{{ .title }}</h5>
+                                <p>{{ .description | safeHTML }}</p>
+                                <p class="badge">{{ .category }}</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>  
             {{ end }}
-        </li>
-    {{ end }}
-</ul>
+        </div>
+    </div>
+</section>
+
+<style>
+    div.list-card img {
+        width: 100%;
+        padding: 1rem;
+    }
+    div.list-card-block {
+        margin: 1rem;
+    }
+</style>
+

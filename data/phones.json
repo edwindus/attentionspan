@@ -4,15 +4,15 @@
 
     {"title": "Nokia 3210", "category": "GSM", "description": "released 1999", "image": "nokia-3210.jpg"},
     {"title": "Nokia 3510", "category": "GSM / GPRS 2G", "description": "released 2002", "image": "nokia-3510.jpg"},
-    {"title": "Sony Ericsson K300i", "category": "GSM / GPRS 2G", "description": "released 2004, 0.2 MP camera", "image": "sony-ericsson-k300i.jpg"},
-    {"title": "Nokia 6230i", "category": "GSM / GPRS 2G", "description": "released 2005, 1.3 MP camera", "image": "nokia-6230.jpg"},
+    {"title": "Sony Ericsson K300i", "category": "GSM / GPRS 2G", "description": "released 2004 <br/> 0.2 MP camera", "image": "sony-ericsson-k300i.jpg"},
+    {"title": "Nokia 6230i", "category": "GSM / GPRS 2G", "description": "released 2005 <br/> 1.3 MP camera", "image": "nokia-6230.jpg"},
     {"title": "Palm Zire 21", "category": "heldheld", "description": "produced 2003-2005", "image": "palm-zire-21.jpg"},
 
-    {"title": "Apple iPhone 3GS", "category": "GSM / 3G", "description": "produced 2009-2010, 3 MP camera", "image": "apple-iphone-3gs.jpg"},
-    {"title": "Apple iPhone 4", "category": "GSM / 3G", "description": "produced 2010-2013, 5 MP camera", "image": "apple-iphone-4.jpg"},
-    {"title": "Apple iPhone 4S", "category": "GSM / 3G", "description": "produced 2011-2014, 8 MP camera", "image": "apple-iphone-4s.jpg"},
-    {"title": "Apple iPhone 5", "category": "GSM / 3G", "description": "produced 2012-2013, 8 MP camera", "image": "apple-iphone-5.jpg"},
-    {"title": "Apple iPhone 6", "category": "GSM / 4G", "description": "produced 2014-2018, 8 MP camera", "image": "apple-iphone-6.jpg"},
-    {"title": "Apple iPhone SE", "category": "GSM / 4G", "description": "produced 2016-2018, 12.2 MP camera", "image": "apple-iphone-se.jpg"},
-    {"title": "Apple iPhone XR", "category": "GSM / 4G", "description": "produced 2018-2021, 12 MP camera", "image": "apple-iphone-xr.jpg"}
+    {"title": "Apple iPhone 3GS", "category": "GSM / 3G", "description": "produced 2009-2010 <br/> 3 MP camera", "image": "apple-iphone-3gs.jpg"},
+    {"title": "Apple iPhone 4", "category": "GSM / 3G", "description": "produced 2010-2013 <br/> 5 MP camera", "image": "apple-iphone-4.jpg"},
+    {"title": "Apple iPhone 4S", "category": "GSM / 3G", "description": "produced 2011-2014 <br/> 8 MP camera", "image": "apple-iphone-4s.jpg"},
+    {"title": "Apple iPhone 5", "category": "GSM / 3G", "description": "produced 2012-2013 <br/> 8 MP camera", "image": "apple-iphone-5.jpg"},
+    {"title": "Apple iPhone 6", "category": "GSM / 4G", "description": "produced 2014-2018 <br/> 8 MP camera", "image": "apple-iphone-6.jpg"},
+    {"title": "Apple iPhone SE", "category": "GSM / 4G", "description": "produced 2016-2018 <br/> 12.2 MP camera", "image": "apple-iphone-se.jpg"},
+    {"title": "Apple iPhone XR", "category": "GSM / 4G", "description": "produced 2018-2021 <br/> 12 MP camera", "image": "apple-iphone-xr.jpg"}
 ]

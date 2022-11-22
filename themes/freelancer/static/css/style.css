@@ -4599,11 +4599,12 @@ fieldset:disabled .btn {
   font-size: 0.75em;
   font-weight: 700;
   line-height: 1;
-  color: #fff;
+  color: #212529;
   text-align: center;
   white-space: nowrap;
   vertical-align: baseline;
   border-radius: 0.5rem;
+  background: #ecdbba;
 }
 
 .badge:empty {
