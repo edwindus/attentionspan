@@ -9,4 +9,4 @@ hero: ""
 summary: "Cameras used over the years"
 ---
 
-{{< cameras >}}
+{{< datalist data="cameras" >}}

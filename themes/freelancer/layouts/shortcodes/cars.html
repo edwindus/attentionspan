@@ -10,6 +10,13 @@
     <tbody>
         {{ range sort (sort site.Data.cars "bouwjaar") "merk" }}
             <tr>
+                <td>
+                    {{ if .image }}
+                    <a href="{{ .image | safeURL }}" class="glightbox" data-description="{{ .title }}">
+                        <img class="thumbnail" src="{{ .image | safeURL }}" alt="{{ .title }}" />
+                    </a>
+                    {{ end }}
+                </td>
                 <td>{{ .bouwjaar }}</td>
                 <td>{{ .merk }}</td>
                 <td>{{ .model }}</td>

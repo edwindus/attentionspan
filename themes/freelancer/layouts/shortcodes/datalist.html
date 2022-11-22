@@ -1,0 +1,12 @@
+<ul>
+    {{ range (index site.Data (.Get "data")) }}
+        <li>
+            {{ . }}
+            {{ if .image }}
+                <a href="{{ .image | safeURL }}" class="glightbox" data-description="{{ .title }}">
+                    <img class="thumbnail" src="{{ .image | safeURL }}" alt="{{ .title }}" />
+                </a>
+            {{ end }}
+        </li>
+    {{ end }}
+</ul>

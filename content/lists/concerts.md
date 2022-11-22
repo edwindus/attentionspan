@@ -9,4 +9,4 @@ hero: ""
 summary: "Prince concerts attended"
 ---
 
-{{< concerts >}}
+{{< datalist data="concerts" >}}

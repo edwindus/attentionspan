@@ -9,4 +9,4 @@ hero: ""
 summary: "Phones used over the years"
 ---
 
-{{< phones >}}
+{{< datalist data="phones" >}}
