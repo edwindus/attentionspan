@@ -9,6 +9,6 @@ hero: ""
 summary: "Phones used over the years"
 ---
 
-It's hard to imagine nowadays, but I could never imagine why somebody would have a mobile phone for a long time. Only when I started working in consultancy, working at many different places, the idea of carrying your own phone an be reachable started to slowly make sense. My first first mobile phone was still on an analogue network so called [NMT](https://en.wikipedia.org/wiki/Nordic_Mobile_Telephone).
+It's hard to imagine nowadays, but for a long time I could not comprehend why somebody would need a mobile phone. Only when I started working in consultancy, working at many different places, the idea of carrying your own phone an be reachable started to slowly make sense. My first first mobile phone was still on an analogue network so called [NMT](https://en.wikipedia.org/wiki/Nordic_Mobile_Telephone).
 
 {{< datalist data="phones" >}}
