@@ -19,7 +19,7 @@ In short, Prince wanted to have an iconic guitar as a hero prop in the Purple Ra
 
 {{< youtube-enhanced id="l7vRSu_wsNc" title="Raspberry Beret" >}}
 
-Anyway, the rest is history so to say. The (white) guitar built by Dave Rusan featured in Purple Rain and Prince appearently like it a lot since several more were built, repaired and repainted over a long period. Reportedly, when the 1985 _Raspberry Beret_ video was released, the iconic guitar became known as the _Cloud Guitar_, likely because of a similar shape to the cloud on the suit Prince wore in that video.
+Anyway, the rest is history so to say. The (white) guitar built by Dave Rusan featured in Purple Rain and Prince appearently like it a lot since several more were built, repaired and repainted over a long period. Reportedly, when the 1985 _Raspberry Beret_ video was released, the iconic guitar became known as the _Cloud Guitar_, likely because of the similar shape to the clouds on Prince's outfit in that video.
 
 ![The hero prop in the Purple Rain movie was coloured white](cloud-prince-001.jpg)
 ![Several copies were created or existing copies repainted like this 'Sign 'O the Times' era color scheme](cloud-prince-002.jpg)
@@ -33,7 +33,7 @@ My dad was a guitar player so I grew up in a house where there were always sever
 ![http://cloudguitarcentral.blogspot.com/2012/06/cloud-guitar-plans.html](blueprints-002.jpg)
 
 ## The Real Deal
-After has Prince's passing, an original 1982 Prince (PM16549) owned Cloud Guitar was [auctioned for a hefty $563,500](https://www.julienslive.com/lot-details/index/catalog/320/lot/138241). The [catalogue of this auction](https://www.juliensauctions.com/auctions/2020/Prince_Blue_Angel_Guitar/Prince_Blue_Angel_Flipping_Book/) is still online and is a fascinating document meant to prove the provenance of their auction lot. Another Prince owned (PM16220) Cloud Guitar from 1992 was [auctioned at $192,000](https://www.julienslive.com/lot-details/index/catalog/427/lot/192988) in 2022, and Paisley Park Enterprises provided a Yellow Cloud to the collection of the [Smithsonian National Museum of American History](https://americanhistory.si.edu/collections/search/object/nmah_607482).
+After Prince's passing, an original 1982 Prince (PM16549) owned Cloud Guitar was [auctioned for a hefty $563,500](https://www.julienslive.com/lot-details/index/catalog/320/lot/138241). The [catalogue of this auction](https://www.juliensauctions.com/auctions/2020/Prince_Blue_Angel_Guitar/Prince_Blue_Angel_Flipping_Book/) is still online and is a fascinating document meant to prove the provenance of their auction lot. Another Prince owned (PM16220) Cloud Guitar from 1992 was [auctioned at $192,000](https://www.julienslive.com/lot-details/index/catalog/427/lot/192988) in 2022, and Paisley Park Enterprises provided a Yellow Cloud to the collection of the [Smithsonian National Museum of American History](https://americanhistory.si.edu/collections/search/object/nmah_607482).
 
 More details about Prince owned Cloud Guitars build by Dave Russan, and lateron Andy Beach, can be found in the [Prince Equipment Archive](http://guitarcloud.org/equipment/dave-rusan-cloud-guitar).
 Dave Russan is [still a luthier](https://www.facebook.com/RusanGuitarworks/) and handcrafting all kind of guitars, among those reproductions of the design he did for Prince. An incredible skillful but humble and friendly guy that creates true works of arts. Without any doubt fantastic instruments for those able to play guitar, probably priced as an artisans job should be, while his clients will have to patiently wait many months for their instruments.
@@ -41,10 +41,10 @@ Dave Russan is [still a luthier](https://www.facebook.com/RusanGuitarworks/) and
 {{< youtube-enhanced id="KJzq2Xtoa_8" title="Meet Dave Rusan" >}}
 
 ## Chinese adventures
-Then I learned that Chinese copycats were selling Cloud-like guitars. I'm sure these are nothing compared to the genuine instruments from earlier mentioned sources, but I did seem like the only plausible option to get a Cloud Guiter decorating my home-office wall. 
+Then I learned that Chinese copycats were selling Cloud-like guitars. I'm sure these are nothing compared to the genuine instruments from earlier mentioned sources, but I did seem like the only plausible option to get a Cloud Guitar decorating my home-office wall. 
 
 The first attempt was ordered in March 2020 but nothing was every heard from the supplier (later we learned this was right when an epidemic hit China), so eventually I applied for - and got a full refund. In December 2020 the second attempt with another supplier. This time I got some email correspondence, but a package or even tracing of a shipment, never materialized so this ended in a refund again.
-Third time's a charm ... a few weeks after the third order, two (low resolution) pictures for 'final approval by the client' were sent by this third supplier. The pictures could tell me nothing about 'quality' but I took the plunge, and okay-ed the shipping. A few long weeks with regular but utterly confusing tracing information followed, before the package (and import duties) actually showed up at my doorstep. The woodworking and paint quality isn't all that bad, but the whole thing feels like a lousy instrument to play. Like expected before ordering and not a problem at all for my purpose (or skillset).
+Third time's a charm ... a few weeks after the third order, two (low resolution) pictures for _final approval by the client_ were sent by this third supplier. The pictures could tell me nothing about 'quality' but I took the plunge, and okay-ed the shipping. A few long weeks with regular but utterly confusing tracing information followed, before the package (and import duties) actually showed up at my doorstep. The woodworking and paint quality isn't all that bad, but the whole thing feels like a lousy instrument to play. Like expected before ordering and not a problem at all for my purpose (and skillset).
 
 ![Final approval before shipping from China](shipping-001.jpg)
 ![Final approval before shipping from China](shipping-002.jpg)
