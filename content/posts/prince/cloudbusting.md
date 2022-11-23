@@ -62,6 +62,7 @@ For the finishing touch I got some help from a fellow Prince [fam](https://princ
 ![Stippled the address on the flightcase adds to the storytelling](backdrop-004.jpg)
 ![And the final result ... (fake) Yellow Cloud Guitar](backdrop-005.jpg)
 
-... finally Prince performing _The Ride_ in 1993 with a real yellow Cloud
+Finally ... a video of Prince performing a steady live version of _The Ride_ in 1993 on (obviously) one of the genuine Cloud Guitars.  
+Turn up that volume LOUD and let this magic pierce your soul!
 
 {{< youtube-enhanced id="Xy8FN9QOKa4" start="95" title="The Ride" >}}
