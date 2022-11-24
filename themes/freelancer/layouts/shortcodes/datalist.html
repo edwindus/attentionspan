@@ -18,6 +18,14 @@
                                 <h5 class="card-title">{{ .title }}</h5>
                                 <p>{{ .description | safeHTML }}</p>
                                 <p class="badge">{{ .category }}</p>
+                                    {{ if .link }}
+                                    <p class="float-end">
+                                        <a href="{{- .link -}}" target="_blank" class="btn btn-sm btn-primary" title="{{.title}}">
+                                            Link&nbsp;
+                                            <i class="fa fa-square-up-right"></i>
+                                        </a>
+                                    </p>
+                                {{ end }}
                             </div>
                         </div>
                     </div>

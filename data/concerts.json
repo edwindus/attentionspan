@@ -1,16 +1,18 @@
 [
-    { "title": "Sign 'O the Times Tour 1987", "venue": "Stadion Galgenwaard, Utrecht" },
-    { "title": "Lovesexy Tour 1988", "venue": "Stadion Feijenoord, Rotterdam" },
-    { "title": "Nude Tour 1990", "venue": "Stadion Feijenoord, Rotterdam" },
-    { "title": "Nude Tour 1990", "venue": "Thialf Stadion, Heerenveen" },
-    { "title": "Daimonds and Pearls Tour 1992", "venue": "Ahoy, Rotterdam" },
-    { "title": "ACT II Tour 1993", "venue": "De Brabanthallen, Den Bosch" },
-    { "title": "Gold Experience Tour 1995", "venue": "De Brabanthallen, Den Bosch" },
-    { "title": "New Power Soul Tour 1998", "venue": "Ahoy, Rotterdam" },
-    { "title": "Jam of the Year Tour 1998", "venue": "Koninklijke Jaarbeurs, Utrecht" },
-    { "title": "Club Tivoli Afterparty 1998", "venue": "Oudegracht, Utrecht" },
-    { "title": "Club Indigo2 Afterparty 2007", "venue": "London, UK" },
-    { "title": "21 Nights in London 2007", "venue": "O2 Arena, London, UK" },
-    { "title": "20Ten European Tour 2010", "venue": "GelreDome, Arnhem" },
-    { "title": "North Sea Jazz Festival 2011", "venue": "Ahoy, Rotterdam" } 
+    { "title": "Sign 'O the Times Tour", "description": "20 June 1987", "category": "Stadion Galgenwaard, Utrecht", "image": "1987-sott.jpg", "link": "http://www.princevault.com/index.php?title=20_June_1987" },
+    { "title": "Lovesexy Tour", "description": "18 August 1988", "category": "Stadion Feijenoord, Rotterdam", "image": "1988-lovesexy.jpg", "link": "http://www.princevault.com/index.php?title=18_August_1988" },
+    { "title": "Nude Tour", "description": "2 June 1990", "category": "Stadion Feijenoord, Rotterdam", "image": "1990-nude.jpg", "link": "http://www.princevault.com/index.php?title=02_June_1990" },
+    { "title": "Nude Tour", "description": "5 August 1990", "category": "Thialf Stadion, Heerenveen", "image": "1990-thialf.jpg", "link": "http://www.princevault.com/index.php?title=05_August_1990" },
+    { "title": "Diamonds and Pearls Tour", "description": "6 July 1992", "category": "Ahoy, Rotterdam", "image": "1992-diamonds.jpg", "link": "http://www.princevault.com/index.php?title=06_July_1992" },
+    { "title": "ACT II Tour", "description": "9 August 1993", "category": "De Brabanthallen, Den Bosch", "image": "1993-act-ii.jpg", "link": "http://www.princevault.com/index.php?title=09_August_1993" },
+    { "title": "Gold Experience Tour", "description": "24 March 1995", "category": "De Brabanthallen, Den Bosch", "image": "1995-gold-experience.jpg", "link": "http://www.princevault.com/index.php?title=24_March_1995" },
+    { "title": "New Power Soul Tour", "description": "11 August 1998", "category": "Ahoy, Rotterdam", "image": "1998-jaarbeurs.jpg", "link": "http://www.princevault.com/index.php?title=11_August_1998" },
+    { "title": "Jam of the Year Tour", "description": "23 December 1998", "category": "Koninklijke Jaarbeurs, Utrecht", "image": "1998-jaarbeurs.jpg", "link": "http://www.princevault.com/index.php?title=23_December_1998" },
+    { "title": "Club Tivoli Afterparty", "description": "24 December 1998", "category": "Oudegracht, Utrecht", "image": "1998-tivoli.jpg", "link": "http://www.princevault.com/index.php?title=24_December_1998-am" },
+    { "title": "One Night Alone Tour", "description": "15 October 2002", "category": "Ahoy, Rotterdam", "image": "2002-one-night.jpg", "link": "http://www.princevault.com/index.php?title=15_October_2002" },
+    { "title": "3121 Afterparty", "description": "17 August 2007", "category": "3121 at The IndigO2, London", "image": "2007-indigo2.jpg", "link": "" },
+    { "title": "21 Nights in London", "description": "18 August 2007", "category": "O2 Arena, London", "image": "2007-london.jpg", "link": "http://www.princevault.com/index.php?title=18_August_2007" },
+    { "title": "20Ten European Tour", "description": "18 November 2010", "category": "GelreDome, Arnhem", "image": "2010.jpg", "link": "http://www.princevault.com/index.php?title=18_November_2010" },
+    { "title": "North Sea Jazz Festival", "description": "10 July 2011 am", "category": "Ahoy, Rotterdam", "image": "2011-north-sea.jpg", "link": "http://www.princevault.com/index.php?title=10_July_2011-am" }
 ]
+
