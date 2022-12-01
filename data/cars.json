@@ -1,146 +1,163 @@
 [
     {
-        "bouwjaar": "1979",
-        "merk": "Ford",
-        "model": "Escort 1.3L mkII",
-        "exterieur": "Inca Gold metallic",
-        "engine": "1.298cc, 4 cylinder",
-        "image": ""
+        "title": "1979 Ford Escort mk II",
+        "category": "Inca Gold metallic",
+        "description": "1.3L, 4-cylinder",
+        "image": "1979-ford-escort.jpg",
+        "link": "https://en.wikipedia.org/wiki/Ford_Escort_(Europe)#Second_generation_(1974–1980)"
     },
     {
-        "bouwjaar": "1983",
-        "merk": "Mitsubishi",
-        "model": "Tredia 1.4 GL",
-        "exterieur": "Pampasgrün metallic",
-        "engine": "1.410cc, 4 cylinder",
-        "image": "1983-mitsubishi-tredia.jpg"
+        "title": "1983 Mitsubishi Tredia GL",
+        "category": "Pampasgrün metallic",
+        "description": "1.4L, 4-cylinder",
+        "image": "1983-mitsubishi-tredia.jpg",
+        "link": "https://en.wikipedia.org/wiki/Mitsubishi_Tredia"
     },
     {
-        "bouwjaar": "1985",
-        "merk": "Volvo",
-        "model": "340 L 2.0",
-        "exterieur": "Tornado Red",
-        "engine": "1.986cc, 4 cylinder",
-        "image": "1985-volvo-340.jpg"
+        "title": "1985 Volvo 340 L",
+        "category": "Tornado Red",
+        "description": "2.0L, 4-cylinder",
+        "image": "1985-volvo-340.jpg",
+        "link": "https://en.wikipedia.org/wiki/Volvo_300_Series"
     },
     {
-        "bouwjaar": "1986",
-        "merk": "Nissan",
-        "model": "Bluebird Wagon",
-        "exterieur": "Smoke Silver metallic",
-        "engine": "1.952cc, 4 cylinder, diesel",
-        "image": ""
+        "title": "1986 Nissan Bluebird Wagon",
+        "category": "Smoke Silver metallic",
+        "description": "2.0L diesel, 4-cylinder",
+        "image": "1986-nissan-bluebird.jpg",
+        "link": "https://en.wikipedia.org/wiki/Nissan_Bluebird#U11_series"
     },
     {
-        "bouwjaar": "1997",
-        "merk": "Volkswagen",
-        "model": "Vento 1.9 TD CL Atlanta",
-        "exterieur": "Maritime Blue",
-        "engine": "1.896cc, 4 cylinder, turbodiesel",
-        "image": ""
+        "title": "1997 Volkswagen Vento CL",
+        "category": "Maritime Blue",
+        "description": "Atlanta package<br/>1.9L TD, 4-cylinder",
+        "image": "1997-volkswagen-vento.jpg",
+        "link": "https://en.wikipedia.org/wiki/Volkswagen_Vento_(A3)"
     },        
     {
-        "bouwjaar": "1998",
-        "merk": "Volkswagen",
-        "model": "Passat Variant 1.9 TDI Comfortline",
-        "exterieur": "Elegance Green metallic",
-        "engine": "1.896cc, 4 cylinder, turbodiesel",
-        "image": ""
+        "title": "1998 Volkswagen Passat Variant",
+        "category": "Elegance Green metallic",
+        "description": "Comfortline<br />1.9L TDI, 4-cylinder",
+        "image": "1998-volkswagen-passat.jpg",
+        "link": "https://en.wikipedia.org/wiki/Volkswagen_Passat#B5_(Typ_3B,_1997)_and_B5.5_(3BG;_2001)"
     },
     {
-        "bouwjaar": "1998",
-        "merk": "Volkswagen",
-        "model": "Golf IV 1.9 TDI Comfortline",
-        "exterieur": "Black Magic pearl",
-        "engine": "1.896cc, 4 cylinder, turbodiesel",
-        "image": ""
+        "title": "1998 Volkswagen Golf IV",
+        "category": "Black Magic pearl",
+        "description": "Comfortline<br/>1.9L TDI, 4-cylinder",
+        "image": "1998-volkswagen-golf.jpg",
+        "link": "https://en.wikipedia.org/wiki/Volkswagen_Golf_Mk4"
     },
     {
-        "bouwjaar": "1999",
-        "merk": "Opel",
-        "model": "Astra Combi 1.7 DTL Club",
-        "exterieur": "Kings Blue",
-        "engine": "1.700cc, 4 cylinder, diesel",
-        "image": ""
+        "title": "1999 Opel Astra Combi",
+        "category": "Kings Blue",
+        "description": "Club package<br/>1.7L diesel, 4-cylinder",
+        "image": "1999-opel-astra.jpg",
+        "link": "https://en.wikipedia.org/wiki/Opel_Astra#Astra_G_(T98;_1998)"
     },
     {
-        "bouwjaar": "2000",
-        "merk": "Volvo",
-        "model": "S40 1.9 D Europa",
-        "exterieur": "Atlantic Blue metallic",
-        "engine": "1.870cc, 4 cylinder, turbodiesel",
-        "image": ""
+        "title": "2000 Volvo S40",
+        "category": "Atlantic Blue metallic",
+        "description": "Europa package<br/>1.9L turbodiesel, 4-cylinder",
+        "image": "2000-volvo-s40.jpg",
+        "link": "https://en.wikipedia.org/wiki/Volvo_S40#First_generation_(1995–2004)"
     },
     {
-        "bouwjaar": "2004",
-        "merk": "Ford",
-        "model": "Focus C-MAX 1.6 TDCi Trend",
-        "exterieur": "Tonic metallic",
-        "engine": "1.560cc, 4 cylinder, turbodiesel",
-        "image": ""
+        "title": "2004 Ford Focus C-MAX",
+        "category": "Tonic metallic",
+        "description": "Trend package<br/>1.6L TDCi, 4-cylinder",
+        "image": "2004-ford-focus-c-max.jpg",
+        "link": "https://en.wikipedia.org/wiki/Ford_C-Max#First_generation_(2003)"
     },
     {
-        "bouwjaar": "1993",
-        "merk": "Audi",
-        "model": "100 2.6E",
-        "exterieur": "Azure Blue",
-        "engine": "2.598cc, V6",
-        "image": "1993-audi-100.jpg"
+        "title": "1993 Audi 100",
+        "category": "Azure Blue",
+        "description": "2.6L, V6",
+        "image": "1993-audi-100.jpg",
+        "link": "https://en.wikipedia.org/wiki/Audi_100#Audi_100_(C4,_1990–1994)"
     },    
     {
-        "bouwjaar": "1999",
-        "merk": "Audi",
-        "model": "A4 Avant Quattro Sport",
-        "exterieur": "Nogaro RS Blue pearl",
-        "engine": "2.771cc, V6",
-        "image": ""
+        "title": "1999 Audi A4 Quattro Avant",
+        "category": "Nogaro RS Blue pearl",
+        "description": "B5 model, Sport package<br/>2.8L, V6",
+        "image": "1999-audi-a4-quattro.jpg",
+        "link": "https://en.wikipedia.org/wiki/Audi_A4#B5_(Typ_8D;_1994)"
     },
     {
-        "bouwjaar": "2002",
-        "merk": "Volvo",
-        "model": "S60 automatic",
-        "exterieur": "Black Sapphire metallic",
-        "engine": "2.435cc, 5 cylinder",
-        "image": ""
+        "title": "2002 Volvo S60",
+        "category": "Black Sapphire metallic",
+        "description": "5-speed automatic<br/>2.4L, 5-cylinder",
+        "image": "2002-volvo-s60.jpg",
+        "link": "https://en.wikipedia.org/wiki/Volvo_S60#First_generation_(2000–2009)"
     },
     {
-        "bouwjaar": "2010",
-        "merk": "Audi",
-        "model": "A3 Sportback 1.4 TFSi Ambition",
-        "exterieur": "Phantom Black pearl",
-        "engine": "1.399cc, 4 cylinder turbo",
-        "image": ""
+        "title": "2010 Audi A3 Sportback",
+        "category": "Phantom Black pearl",
+        "description": "Facelift model, Ambition package<br/>1.4L TFSi, 4-cylinder",
+        "image": "2010-audi-a3-sportback.jpg",
+        "link": "https://en.wikipedia.org/wiki/Audi_A3#2008_facelift"
     },
     {
-        "bouwjaar": "2009",
-        "merk": "Audi",
-        "model": "A6 2.0 TFSI Business Edition",
-        "exterieur": "Dark Grey metallic",
-        "engine": "1.984cc, 4 cylinder turbo",
-        "image": ""
+        "title": "2009 Audi A6",
+        "category": "Dark Grey metallic",
+        "description": "Business Edition, facelift model<br />2.0L TFSi, 4-cylinder",
+        "image": "2009-audi-a6.jpg",
+        "link": "https://en.wikipedia.org/wiki/Audi_A6#C6_(Typ_4F,_2004–2011)"
     },
     {
-        "bouwjaar": "1996",
-        "merk": "Mercedes-Benz",
-        "model": "C180 Esprit",
-        "exterieur": "Tourmalin-Green pearl",
-        "engine": "1.796cc 4 cylinder",
-        "image": ""
+        "title": "1996 Mercedes-Benz C180",
+        "category": "Tourmalin-Green pearl",
+        "description": "W202 model, Esprit package<br />1.8L, 4-cylinder",
+        "image": "1996-mercedes-benz-c180.jpg",
+        "link": "https://en.wikipedia.org/wiki/Mercedes-Benz_C-Class#First_generation_(W202;_1993)"
     },
     {
-        "bouwjaar": "1998",
-        "merk": "Mercedes-Benz",
-        "model": "C180 Elegance",
-        "exterieur": "Azurit Blue pearl",
-        "engine": "1.796cc 4 cylinder",
-        "image": ""
+        "title": "1998 Mercedes-Benz C180",
+        "category": "Azurit Blue pearl",
+        "description": "W202 facelift model, Elegance package<br/>1.8L, 4-cylinder",
+        "image": "1998-mercedes-benz-c180.jpg",
+        "link": "https://en.wikipedia.org/wiki/Mercedes-Benz_C-Class#First_generation_(W202;_1993)"
     },
     {
-        "bouwjaar": "2017",
-        "merk": "Audi",
-        "model": " A5 Sportback 1.8 TFSI Adrenalin Sport",
-        "exterieur": "Sepang Blue pearl",
-        "engine": "1.798cc 4 cylinder turbo",
-        "image": ""
-    }    
+        "title": "2017 Audi A5 Sportback",
+        "category": "Sepang Blue pearl",
+        "description": "Adrenalin Sport Black Edition<br/>8-speed Tiptronic CVT automatic<br/>1.8L TFSi 4-cylinder",
+        "image": "2017-audi-a5-sportback.jpg",
+        "link": "https://en.wikipedia.org/wiki/Audi_A5#Sportback_(8T8)"
+    },
+    {
+        "title": "1997 Volkswagen Polo Mk3",
+        "category": "Black",
+        "description": "1.9L diesel, 4-cylinder",
+        "image": "1997-volkswagen-polo.jpg",
+        "link": "https://en.wikipedia.org/wiki/Volkswagen_Polo#Third_generation_(6N/6KV;_1994)"
+    },   
+    {
+        "title": "1988 Ford Fiesta CL",
+        "category": "Light Blue metallic",
+        "description": "1.1L, 4-cylinder",
+        "image": "1988-ford-fiesta.jpg",
+        "link": "https://en.wikipedia.org/wiki/Ford_Fiesta#First_generation_(1976)"
+    },   
+    {
+        "title": "1998 Volkswagen Polo Mk 3",
+        "category": "Atlantik Blue Pearl",
+        "description": "1.0L, 3-cylinder",
+        "image": "1998-volkswagen-polo.jpg",
+        "link": "https://en.wikipedia.org/wiki/Volkswagen_Polo#Third_generation_(6N/6KV;_1994)"
+    },
+    {
+        "title": "2008 Volkswagen Polo Mk IV",
+        "category": "Candy White",
+        "description": "Trendline edition<br/>1.2L, 3-cylinder",
+        "image": "2008-volkswagen-polo.jpg",
+        "link": "https://en.wikipedia.org/wiki/Volkswagen_Polo#Fourth_generation_(6Q/9N/9N3;_2002)"
+    },
+    {
+        "title": "2012 Volvo C30 DRIVe",
+        "category": "Titanium Grey metallic",
+        "description": "Advantage edition<br/>1.6L D2 turbodiesel, 4-cylinder",
+        "image": "2012-volvo-c30.jpg",
+        "link": "https://en.wikipedia.org/wiki/Volvo_C30#2010_update"
+    }
 ]

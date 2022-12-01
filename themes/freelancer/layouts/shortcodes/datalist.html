@@ -1,10 +1,15 @@
 <section class="page-section portfolio" id="portfolio">
     <div class="container">
         <div class="row justify-content-left">
+            {{ if (isset .Params "sort") }}
+                {{  .Scratch.Set "data" (sort (index site.Data (.Get "data")) (.Get "sort") (.Get "order")) }}
+            {{ else }}
+                {{  .Scratch.Set "data" (index site.Data (.Get "data")) }}
+            {{ end }}
 
-        {{ range (index site.Data (.Get "data")) }}
+            {{ range .Scratch.Get "data"  }}
               <div class="col-md-6">
-                <div class="card mb-4 list-card">
+                <div class="card mb-4 list-card" id="{{- anchorize .title -}}">
                     <div class="row">
                         <div class="col-md-4">
                             {{ if .image }}
