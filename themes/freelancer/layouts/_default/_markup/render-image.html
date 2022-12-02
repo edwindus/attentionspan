@@ -1,17 +1,27 @@
 {{ $text := replace .Text "{{ .Page.Site.BaseURL }}" .Page.Site.BaseURL }}
-{{ $isDownload := in .Text "{{ .Page.Site.BaseURL }}" }}
-{{ $isExternal := and (hasPrefix $text "http") (not $isDownload) }}
+{{ $isIcon := eq (lower .Text) "icon" }}
+{{ $isDownload := and (not $isIcon) (in .Text "{{ .Page.Site.BaseURL }}") }}
+{{ $isExternal := and (not $isIcon) (not $isDownload) (hasPrefix $text "http") }}
+{{ $thumbSize := index (split .Destination "|") 1 }}
+{{ $thumbUrl := index (split .Destination "|") 0 }}
+{{ $classes := newScratch }}
+
+{{ if in .Destination "|" }}
+    {{ $classes.Set "size" (lower (printf "%s%s" "thumbnail-" $thumbSize)) }}
+{{ end }}
 
 {{ if $isExternal }}
     <a href="{{ $text | safeURL }}" class="nofollow" target="_blank" rel="nofollow">
-        <img class="thumbnail external" src="{{ .Destination | safeURL }}" alt="external link" title="follow external link" />
+        <img class="thumbnail {{ $classes.Get "size" }} external" src="{{ $thumbUrl | safeURL }}" alt="external link" title="follow external link" />
     </a>
 {{ else if $isDownload }}
     <a href="{{ $text | safeURL }}" class="nofollow" target="_blank" rel="nofollow">
-        <img class="thumbnail download" src="{{ .Destination | safeURL }}" alt="download link" title="download file" />
+        <img class="thumbnail {{ $classes.Get "size" }} download" src="{{ $thumbUrl | safeURL }}" alt="download link" title="download file" />
     </a>
+{{ else if $isIcon }}
+    <img class="thumbnail" src="{{ $thumbUrl | safeURL }}" alt="" />
 {{ else }}
     <a href="{{ .Destination | safeURL }}" class="glightbox" data-description="{{ .Text }}">
-        <img class="thumbnail" src="{{ .Destination | safeURL }}" alt="{{ .Text }}" />
+        <img class="thumbnail" src="{{ $thumbUrl | safeURL }}" alt="{{ .Text }}" />
     </a>
 {{ end }}

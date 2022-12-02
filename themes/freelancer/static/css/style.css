@@ -11468,12 +11468,16 @@ blockquote p {
 }
 
 a.nofollow img.thumbnail {
+  padding: 0.5rem;
   border: 2px solid #efefef;
 }
 
 a.nofollow:hover img.thumbnail {
   border-color: #b4432c;
 }
+
+img.thumbnail-small { width: 5%; }
+img.thumbnail-medium { width: 10%; }  
 
 @media (min-width: 992px) {
   .portfolio img.thumbnail {
