@@ -6,7 +6,7 @@ sidebar: false
 tags: []
 preview: "_preview.jpg"
 hero: ""
-summary: "Scars are part of the healing process after you've been physically hurt"
+summary: "Scars are part of the healing process after you've been physically hurt ..."
 ---
 
 Scars form as part of the healing process after you have been physically hurt. After the healing process, you are fine and functioning again, with the scar as a little reminder of the process you went through.

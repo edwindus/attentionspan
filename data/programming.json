@@ -1,80 +1,184 @@
 [
     {
-        "name": "Commodore 64 Basic V2"
+        "title": "Commodore 64 Basic V2",
+        "category": "",
+        "description": "",
+        "image": "",
+        "link": "https://en.wikipedia.org/wiki/Commodore_BASIC"
     },
     {
-        "name": "JavaScript"
+        "title": "JavaScript",
+        "category": "",
+        "description": "",
+        "image": "",
+        "link": "https://en.wikipedia.org/wiki/JavaScript"
     },
     {
-        "name": "TypeScript"
+        "title": "TypeScript",
+        "category": "",
+        "description": "",
+        "image": "",
+        "link": ""
     },
     {
-        "name": "PHP"
+        "title": "PHP",
+        "category": "",
+        "description": "",
+        "image": "",
+        "link": ""
     },
     {
-        "name": "Adobe ActionScript 2.0"
+        "title": "Adobe ActionScript 2.0",
+        "category": "",
+        "description": "",
+        "image": "",
+        "link": ""
     },
     {
-        "name": "Angular 1"
+        "title": "Angular 1",
+        "category": "",
+        "description": "",
+        "image": "",
+        "link": ""
     },
     {
-        "name": "Angular 2"
+        "title": "Angular 2",
+        "category": "",
+        "description": "",
+        "image": "",
+        "link": ""
     },
     {
-        "name": "Typo3"
+        "title": "Typo3",
+        "category": "",
+        "description": "",
+        "image": "",
+        "link": ""
     },
     {
-        "name": "Apache Struts"
+        "title": "Apache Struts",
+        "category": "",
+        "description": "",
+        "image": "",
+        "link": ""
     },
     {
-        "name": "PROGRESS"
+        "title": "PROGRESS",
+        "category": "",
+        "description": "",
+        "image": "",
+        "link": ""
     },
     {
-        "name": "Clipper Summer 87"
+        "title": "Clipper Summer 87",
+        "category": "",
+        "description": "",
+        "image": "",
+        "link": ""
     },
     {
-        "name": "Smalltalk"
+        "title": "Smalltalk",
+        "category": "",
+        "description": "",
+        "image": "",
+        "link": ""
     },
     {
-        "name": "FoxPro"
+        "title": "FoxPro",
+        "category": "",
+        "description": "",
+        "image": "",
+        "link": ""
     },
     {
-        "name": "dBase III"
+        "title": "dBase III",
+        "category": "",
+        "description": "",
+        "image": "",
+        "link": ""
     },
     {
-        "name": "Turbo Pascal"
+        "title": "Turbo Pascal",
+        "category": "",
+        "description": "",
+        "image": "",
+        "link": ""
     },
     {
-        "name": "Java"
+        "title": "Java",
+        "category": "",
+        "description": "",
+        "image": "",
+        "link": ""
     },
     {
-        "name": "J2EE"
+        "title": "J2EE",
+        "category": "",
+        "description": "",
+        "image": "",
+        "link": ""
     },
     {
-        "name": "Swift"
+        "title": "Swift",
+        "category": "",
+        "description": "",
+        "image": "",
+        "link": ""
     },
     {
-        "name": "Objective-C"
+        "title": "Objective-C",
+        "category": "",
+        "description": "",
+        "image": "",
+        "link": ""
     },
     {
-        "name": "MS-DOS"
+        "title": "MS-DOS",
+        "category": "",
+        "description": "",
+        "image": "",
+        "link": ""
     },
     {
-        "name": "C++"
+        "title": "C++",
+        "category": "",
+        "description": "",
+        "image": "",
+        "link": ""
     },
     {
-        "name": "Groovy"
+        "title": "Groovy",
+        "category": "",
+        "description": "",
+        "image": "",
+        "link": ""
     },
     {
-        "name": "PowerBuilder"
+        "title": "PowerBuilder",
+        "category": "",
+        "description": "",
+        "image": "",
+        "link": ""
     },
     {
-        "name": "Borland Delphi"
+        "title": "Borland Delphi",
+        "category": "",
+        "description": "",
+        "image": "",
+        "link": ""
     },
     {
-        "name": "Spring Boot"
+        "title": "Spring Boot",
+        "category": "",
+        "description": "",
+        "image": "",
+        "link": ""
     },
     {
-        "name": "Grails version ?"
+        "title": "Grails version ?",
+        "category": "",
+        "description": "",
+        "image": "",
+        "link": ""
     }
 ]
