@@ -10,7 +10,7 @@
 			<!-- Portfolio Item 1-->
             {{ range $index, $element }}
 				<div class="col-md-4">
-					<div class="card mb-4 ">
+					<div class="card mb-4">
 						<a href="{{.Permalink}}">
 							{{ if .Page.Params.preview }}
 								<img class="card-img-top" src="{{.Permalink}}{{.Page.Params.preview}}" alt="Preview image for '{{.Title }}' post">
