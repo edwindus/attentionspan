@@ -10,11 +10,13 @@
             {{ range .Scratch.Get "data"  }}
               <div class="col-lg-2 col-md-6 col-sm-4">
                 <div class="mb-2 list-card h-100" id="{{- anchorize .title -}}">
-                            {{ if .image }}
-                                <a href="{{ .url | safeURL }}" class="glightbox" data-description="{{ .title }}">
-                                    <img src="{{ .image | safeURL }}" alt="{{ .title }}" />
-                                </a>
-                            {{ end }}
+                    {{ if .image }}
+                        {{ if .url }}
+                            <a href="{{ .url | safeURL }}" class="glightbox" data-description="{{ .title }}">
+                        {{ end }}
+                        <img src="{{ .image | safeURL }}" alt="{{ .title }}" />
+                        {{ if .url }}</a>{{ end }}
+                    {{ end }}
                 </div>
             </div>  
             {{ end }}

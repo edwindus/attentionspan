@@ -1,0 +1,139 @@
+<script type="text/javascript">
+      function setCookie(cname, cvalue, exdays = 7) {
+        const d = new Date();
+        d.setTime(d.getTime() + (exdays*24*60*60*1000));
+        let expires = "expires="+ d.toUTCString();
+        document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+      }
+      function getCookie(name) {
+        const cookie = {};
+        document.cookie.split(';').forEach(function(el) {
+          let [key,value] = el.split('=');
+          cookie[key.trim()] = value;
+        })
+        return cookie[name] !== undefined ? JSON.parse(cookie[name]) : undefined;
+    }
+    function eraseCookie(name) {   
+      document.cookie = name+'=; Max-Age=-99999999;';  
+    }
+    function setComment(name, value) {
+        const comment = {
+            name: document.getElementById('static_comment_name').value, 
+            email: document.getElementById('static_comment_email').value, 
+            comment: document.getElementById('static_comment').value, 
+            timestamp: Date.now(), 
+            id: uuidv4()
+        };
+        setCookie(location.pathname, JSON.stringify(comment));
+    }
+  
+    function syncComment() {
+        console.log('syncComment');
+        const comment = getCookie(location.pathname);
+
+        if (comment !== undefined) {
+          // comment in cookie
+          console.log(JSON.stringify(comment));
+          console.log(findComment(comment));
+
+          if (findComment(comment)) {
+            // comment in html
+            eraseCookie(location.pathname);
+          } else {
+            // comment not in html yet
+            var ul = document.getElementById('static_comments');
+            var li = document.createElement("li");
+            var h6 = document.createElement("H6");
+            var p = document.createEL("p");
+            li.appendChild(h6.appendChild(document.createTextNode(comment.name)));
+            li.appendChild(p.appendChild(document.createTextNode(comment.comment)));
+            ul.appendChild(li);
+            document.getElementById('static_comment_form').remove();
+          }
+        }
+      }
+      function findComment(comment) {
+        return document.getElementById(comment.id) != undefined;
+      }
+      function uuidv4() {
+        return ([1e7]+-1e3+-4e3+-8e3+-1e11).replace(/[018]/g, c =>
+          (c ^ crypto.getRandomValues(new Uint8Array(1))[0] & 15 >> c / 4).toString(16)
+        );
+      }
+      window.onload = function(){
+        syncComment();
+      }
+</script>
+
+<div class="container static_comment" rel="no-index no-follow">
+  <div class="row justify-content-center">
+      <div class="col-sm-10">
+        <h3 class="h5">Comments<hr /></h3>
+          <ul id="static_comments">
+            <li id="40fd99d3-8e63-4e89-8c5e-9242808d89cb">
+              <h6>Lorum Ipsum Dolorum Est</h6>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus felis leo, ultricies eu urna a, egestas tempus lorem. Vestibulum rhoncus leo nisi. Sed metus leo, fermentum sit amet ante quis, consectetur laoreet augue. Aenean blandit ultricies sapien id consectetur. Suspendisse eu ligula quam. Proin semper nibh eget porta dapibus. Curabitur finibus libero eget nisi porttitor pretium.</p>
+            </li>
+            <li id="40fd99d3-8e63-4e89-8c5e-9242808d89cb">
+              <h6>Lorum Ipsum Dolorum Est</h6>
+              <p>Suspendisse vel dolor risus. Vestibulum in urna quis ex varius vehicula. Nullam non urna eu magna feugiat semper. Nulla at fermentum nunc, ac tempus mi. Mauris ut aliquam libero, vel mollis felis. Aliquam erat volutpat. Fusce malesuada nulla at placerat ultrices. Integer ex metus, viverra non sapien eget, blandit fermentum magna. Suspendisse condimentum magna varius, iaculis arcu et, semper arcu.</p>
+            </li>
+            <li id="40fd99d3-8e63-4e89-8c5e-9242808d89cb">
+              <h6>Lorum Ipsum Dolorum Est</h6>
+              <p>Nunc pellentesque ex in lorem varius ultrices. Duis ut mollis nisi. In et quam vel mi commodo blandit. Nulla est purus, laoreet eu eros lobortis, pretium ornare tellus. Suspendisse commodo nibh eget sapien porttitor aliquam.</p>
+            </li>
+          </ul>
+        </div>
+  </div>
+
+  <form id="static_comment_form" onsubmit="setComment();">
+    <div class="row justify-content-center">
+      <h3 class="col-lg-10 h5">Add a comment<hr /></h3>
+    </div>
+      <div class="row justify-content-center">
+      <div class="col-lg-5 col-md-10 mb-4">
+        <input id="static_comment_name" class="field" name="name" placeholder="Enter your name" type="text" required="true">    
+      </div>
+      <div class="col-lg-5 col-md-10 mb-4">
+        <input id="static_comment_email" class="field" name="email" placeholder="Your email will not be published" type="email" required="true">    
+      </div>
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-md-10 mb-2">
+        <textarea id="static_comment" class="field" name="comment" placeholder="Write your comment" required="true"></textarea>    
+      </div>
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-md-10 mb-2">
+        <button type="submit" class="btn btn-secondary">Submit comment</button>
+      </div>
+    </div>
+  </form>  
+</div>
+
+<style>
+  div.static_comment {
+    font-size: 80%;
+    font-weight: lighter;
+  }
+  div.static_comment ul {
+    list-style-type: none;
+    list-style-position: outside;
+    padding: 0; 
+  }
+  div.static_comment p {
+    font-weight: bolder;
+  }
+
+  div.static_comment form {
+    margin: 1rem 0 3rem 0;
+  }
+  div.static_comment input.field {
+    width: 100%;
+  }
+  div.static_comment textarea.field {
+    width: 100%;
+    height: 5rem;
+    border: 1px solid #dfdfdf;
+  }  
+</style>

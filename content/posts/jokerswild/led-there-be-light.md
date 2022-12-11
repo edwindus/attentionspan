@@ -9,8 +9,8 @@ hero: ""
 summary: "Finishing the grate by pouring resin and some spray painting before testing the lights for the first time"
 ---
 
-Now it was time to make a solid grate out of the 60-something pockets glued on a transparant piece of plastic. A wooden trim was made as the outside of grate that will probably make assembly lateron straight forward.
-To keep the curing temperature low (my PLA pockets are not so heat resistant) I choose [resin](https://www.siliconesandmore.com/nl/a1-acrylhars.html) to fill out the negative space in the grate. Filling material was added to save on resin and increase strength of the pouring. This was my first time pouring resin and it turned out that I added too much filling material (glass fibre) that prevented the resin from flowing obviously.
+Now it was time to make a solid grate out of the 60-something pockets glued on a transparant piece of plastic. A wooden trim was made as the outside of the grate that will make assembly lateron more straight forward.
+To keep the curing temperature low (my PLA pockets are not so heat resistant) I choose [resin](https://www.siliconesandmore.com/nl/a1-acrylhars.html) to bond the grate. A filling material of fibreglass was added to save on resin and increase strength of the pouring. This was my first time pouring resin and it turned out that I added too much filling material resulting in the resin not flowing.
 The result needed some extra filling and sanding since the epoxy did not flow enough, but still, I was pretty happy with the result.
 Also in this stage, a 3D printed (black in the image) bracket was added to help assembly of some [7-segment leds](https://www.adafruit.com/category/37_103) to display points earned during the game. In the end the whole thing was sanded a bit.
 
