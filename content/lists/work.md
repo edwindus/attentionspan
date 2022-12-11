@@ -11,6 +11,4 @@ summary: "Software Engineering"
 
 Trying to compile a list of all the programming languages and/or frameworks that somebody at some point paid me to program.
 
-![](_preview_.svg)
-
-{{< datalist data="programming" >}}
+{{< datalist-icons data="work" >}}

@@ -1,0 +1,36 @@
+<section class="page-section portfolio" id="portfolio">
+    <div class="container">
+        <div class="row justify-content-left align-items-stretch">
+            {{ if (isset .Params "sort") }}
+                {{  .Scratch.Set "data" (sort (index site.Data (.Get "data")) (.Get "sort") (.Get "order")) }}
+            {{ else }}
+                {{  .Scratch.Set "data" (index site.Data (.Get "data")) }}
+            {{ end }}
+
+            {{ range .Scratch.Get "data"  }}
+              <div class="col-lg-2 col-md-6 col-sm-4">
+                <div class="mb-2 list-card h-100" id="{{- anchorize .title -}}">
+                            {{ if .image }}
+                                <a href="{{ .url | safeURL }}" class="glightbox" data-description="{{ .title }}">
+                                    <img src="{{ .image | safeURL }}" alt="{{ .title }}" />
+                                </a>
+                            {{ end }}
+                </div>
+            </div>  
+            {{ end }}
+        </div>
+    </div>
+</section>
+
+<style>
+    div.list-card {
+        margin: auto 0;
+    }
+    div.list-card img {
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+        padding: 1rem;
+    }
+</style>
+
