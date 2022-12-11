@@ -1,86 +1,180 @@
 [
     {
-        "title": "Karwei Holland",
+        "title": "",
         "category": "",
         "description": "",
-        "image": "cmg.svg",
-        "link": ""
-    },
-    {
-        "title": "Gamma Nederland",
-        "category": "",
-        "description": "",
-        "image": "edwin.svg",
-        "link": ""
-    },
-    {
-        "title": "Intergamma",
-        "category": "",
-        "description": "",
-        "image": "karwei.jpg",
+        "image": "logo-ns.svg",
         "link": ""
     },
     {
         "title": "",
         "category": "",
         "description": "",
-        "image": "klm.svg",
+        "image": "logo-rabobank.svg",
         "link": ""
     },
     {
         "title": "",
         "category": "",
         "description": "",
-        "image": "cmg.svg",
+        "image": "logo-giantfox.jpg",
         "link": ""
     },
     {
         "title": "",
         "category": "",
         "description": "",
-        "image": "edwin.svg",
+        "image": "logo-philips.svg",
         "link": ""
     },
     {
         "title": "",
         "category": "",
         "description": "",
-        "image": "karwei.jpg",
+        "image": "logo-klm.svg",
         "link": ""
     },
     {
         "title": "",
         "category": "",
         "description": "",
-        "image": "klm.svg",
+        "image": "logo-ziggodome.jpg",
         "link": ""
     },
     {
         "title": "",
         "category": "",
         "description": "",
-        "image": "cmg.svg",
+        "image": "logo-innr.svg",
         "link": ""
     },
     {
         "title": "",
         "category": "",
         "description": "",
-        "image": "edwin.svg",
+        "image": "logo-ticketpoint.svg",
+        "link": ""
+    },    
+    {
+        "title": "",
+        "category": "",
+        "description": "",
+        "image": "logo-ihomer.png",
         "link": ""
     },
     {
         "title": "",
         "category": "",
         "description": "",
-        "image": "karwei.jpg",
+        "image": "logo-rijksoverheid.svg",
         "link": ""
     },
     {
         "title": "",
         "category": "",
         "description": "",
-        "image": "klm.svg",
+        "image": "logo-makro.svg",
         "link": ""
-    }
+    },
+    {
+        "title": "",
+        "category": "",
+        "description": "",
+        "image": "logo-cmg.svg",
+        "link": ""
+    },
+    
+    {
+        "title": "",
+        "category": "",
+        "description": "",
+        "image": "logo-unilever.svg",
+        "link": ""
+    },
+
+
+
+{
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "logo-t-for-telecom.svg",
+    "link": ""
+},
+
+
+  
+{
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "logo-primagaz.svg",
+    "link": ""
+},
+
+{
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "logo-shv.svg",
+    "link": ""
+},
+
+
+{
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "logo-gouden-gids.svg",
+    "link": ""
+},
+{
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "logo-shell.svg",
+    "link": ""
+},
+{
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "logo-marin.svg",
+    "link": ""
+},
+{
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "logo-gamma.svg",
+    "link": ""
+},
+{
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "logo-karwei.svg",
+    "link": ""
+},
+{
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "logo-universiteit-utrecht.svg",
+    "link": ""
+},
+{
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "logo-wifac.svg",
+    "link": ""
+},
+{
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "logo-cinerent.svg",
+    "link": ""
+}
 ]

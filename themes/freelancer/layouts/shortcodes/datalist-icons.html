@@ -8,7 +8,7 @@
             {{ end }}
 
             {{ range .Scratch.Get "data"  }}
-              <div class="col-lg-2 col-md-6 col-sm-4">
+              <div class="col-lg-2 col-md-3 col-sm-4 col-xs-4">
                 <div class="mb-2 list-card h-100" id="{{- anchorize .title -}}">
                     {{ if .image }}
                         {{ if .url }}
@@ -30,9 +30,15 @@
     }
     div.list-card img {
         width: 100%;
-        height: 100%;
+        height: 80%;
         object-fit: contain;
-        padding: 1rem;
+        padding: 0 1rem;
     }
+    @media (max-width: 480px) {
+        div.list-card  {
+            width:50%;
+            height: 80%;
+        }
+    }   
 </style>
 
