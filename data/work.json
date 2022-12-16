@@ -17,7 +17,7 @@
         "title": "",
         "category": "",
         "description": "",
-        "image": "logo-giantfox.jpg",
+        "image": "logo-cmg.svg",
         "link": ""
     },
     {
@@ -45,21 +45,7 @@
         "title": "",
         "category": "",
         "description": "",
-        "image": "logo-innr.svg",
-        "link": ""
-    },
-    {
-        "title": "",
-        "category": "",
-        "description": "",
-        "image": "logo-ticketpoint.svg",
-        "link": ""
-    },    
-    {
-        "title": "",
-        "category": "",
-        "description": "",
-        "image": "logo-ihomer.png",
+        "image": "logo-giantfox.jpg",
         "link": ""
     },
     {
@@ -68,7 +54,7 @@
         "description": "",
         "image": "logo-rijksoverheid.svg",
         "link": ""
-    },
+    },    
     {
         "title": "",
         "category": "",
@@ -80,7 +66,21 @@
         "title": "",
         "category": "",
         "description": "",
-        "image": "logo-cmg.svg",
+        "image": "logo-ihomer.png",
+        "link": ""
+    },
+    {
+        "title": "",
+        "category": "",
+        "description": "",
+        "image": "logo-ticketpoint.svg",
+        "link": ""
+    },
+    {
+        "title": "",
+        "category": "",
+        "description": "",
+        "image": "logo-innr.svg",
         "link": ""
     },
     
