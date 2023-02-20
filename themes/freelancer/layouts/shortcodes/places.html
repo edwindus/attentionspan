@@ -1,0 +1,86 @@
+{{  .Scratch.Set "places" (index site.Data (.Get "data")) }}
+
+<div class="places"></div>
+<ul class="col-lg-6 col-md-12">
+    {{ $prev := "" }}
+    {{ $counter := 0 }}
+    {{ range .Scratch.Get "places" }}
+        {{ if ne $prev .country }}
+            <li class="country">
+                <img class="flag" src="/img/flagz/{{ lower .iso }}.svg" alt="{{ .country }}" title="{{ .country }}" />
+                <strong>{{ .country }}</strong>
+            </li>
+            {{ $prev = .country }}
+        {{ end }}
+        <li>
+            <a class="place" href="{{- .url -}}" target="_blank" onmouseover="bounceMarker({{- $counter | safeJS -}});" onmouseout="bounceOff();">{{ .place }}</a>
+        </li>
+        {{ $counter = add $counter 1 }}        
+    {{ end }}
+</ul>
+
+<div class="col-lg-6 col-md-12" id="map"></div>
+
+<script>
+    const markers = [];
+    function initMap() {
+        const map = new google.maps.Map(document.getElementById("map"), {
+            mapTypeId: 'roadmap',
+            disableDefaultUI: true
+        });
+        let bounds = new google.maps.LatLngBounds();
+
+        {{ $counter := 0 }}
+        {{ range .Scratch.Get "places" }}
+            {{ if .latitude }}
+                bounds.extend(new google.maps.LatLng({{- .latitude -}} ,{{- .longitude -}}));
+                markers[{{$counter | safeJS}}] = new google.maps.Marker({ position: {lat:{{- .latitude -}},lng:{{- .longitude -}}}, map:map });
+                {{ if .url }}
+                    google.maps.event.addListener(markers[{{$counter | safeJS}}], 'click', function() {
+                        window.open('{{ .url | safeJS }}', '_blank').focus();
+                    });
+                {{ end }}
+            {{ end }}
+            {{ $counter = add $counter 1 }}
+        {{- end -}}
+        map.fitBounds(bounds);
+    }
+    function bounceMarker(i){
+        if ((markers != undefined) && markers.length > 0) {
+            bounceOff();
+            markers[i].setAnimation(google.maps.Animation.BOUNCE);
+        }
+    }
+    function bounceOff(){
+        if ((markers != undefined) && markers.length > 0) {
+            for (let index = 0; index < {{- len (.Scratch.Get "places")  | safeJS -}}; index++) { 
+                markers[index].setAnimation(null);
+            }
+        }
+    }
+</script>
+<script async="false" type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAaRcZR3XoxqZ0B44DwO-8tWL4HGDimHdc&callback=initMap&libraries=&v=weekly"></script>
+
+<style>
+    div.places {
+        height: 2rem;
+        clear:both;
+    }
+    img.flag {
+        height: 1.5rem;
+        margin-right: 0.5rem;
+    }
+    div#map {
+        height: 50rem;
+    }
+    li.country {
+        list-style: none;
+    }
+    a.place {
+        color: #222529;
+        text-decoration: none;
+    }
+    a.place:hover {
+        color: #BA533A;
+    }
+</style>
