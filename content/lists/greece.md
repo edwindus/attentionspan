@@ -9,4 +9,6 @@ hero: ""
 summary: "We love Greece"
 ---
 
+We love the Greek islands, Greek culture, Greek food and Greek people and we're able to spend several holidays there.
+
 {{< places data="greece" >}}

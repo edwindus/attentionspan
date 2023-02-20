@@ -1,6 +1,6 @@
 [
     {
-        "place": "Limenas Chersonisou (Kriti)",
+        "place": "Χερσόνησος Ηρακλείου (Chersonisou)",
         "country": "Greece",
         "iso": "GRC",
         "year": 1992,
@@ -9,7 +9,7 @@
         "longitude": 25.392570
     },
     {
-        "place": "Mikonos",
+        "place": "Μύκονος (Mykonos)",
         "country": "Greece",
         "iso": "GRC",
         "year": 1994,
@@ -18,7 +18,7 @@
         "longitude": 25.318074
     },
     {
-        "place": "Tinos",
+        "place": "Τήνος (Tinos)",
         "country": "Greece",
         "iso": "GRC",
         "year": 1994,
@@ -27,7 +27,7 @@
         "longitude": 25.1422933
     },
     {
-        "place": "Kamari, Santorini (Thira)",
+        "place": "Σαντορίνη (Santorini / Thira)",
         "country": "Greece",
         "iso": "GRC",
         "year": 1994,
@@ -36,7 +36,7 @@
         "longitude": 25.4641577
     },
     {
-        "place": "Karpathos",
+        "place": "Κάρπαθος (Karpathos)",
         "country": "Greece",
         "iso": "GRC",
         "year": 1995,
@@ -45,7 +45,7 @@
         "longitude": 27.2155749
     },
     {
-        "place": "Preveza",
+        "place": "Πρέβεζα (Preveza)",
         "country": "Greece",
         "iso": "GRC",
         "year": 1998,
@@ -54,7 +54,7 @@
         "longitude": 20.7277997
     },
     {
-        "place": "Delphi",
+        "place": "Δελφοί (Delphi)",
         "country": "Greece",
         "iso": "GRC",
         "year": 1998,
@@ -63,7 +63,7 @@
         "longitude": 22.3407477
     },
     {
-        "place": "Metsovo",
+        "place": "Μέτσοβο (Metsovo)",
         "country": "Greece",
         "iso": "GRC",
         "year": 1998,
@@ -72,7 +72,7 @@
         "longitude": 21.1646752
     },
     {
-        "place": "Lefkas",
+        "place": "Λευκάδα (Lefkada)",
         "country": "Greece",
         "iso": "GRC",
         "year": 1998,
@@ -81,7 +81,7 @@
         "longitude": 20.4969576
     },
     {
-        "place": "Korfu",
+        "place": "Κέρκυρα (Corfu)",
         "country": "Greece",
         "iso": "GRC",
         "year": 1999,
@@ -90,7 +90,7 @@
         "longitude": 19.87559
     },
     {
-        "place": "Lesbos",
+        "place": "Λέσβος (Lesbos)",
         "country": "Greece",
         "iso": "GRC",
         "year": 2000,
@@ -99,7 +99,7 @@
         "longitude": 25.6494033
     },
     {
-        "place": "Kriti",
+        "place": "Κρήτη (Kriti)",
         "country": "Greece",
         "iso": "GRC",
         "year": 2002,
@@ -108,7 +108,7 @@
         "longitude": 23.7909346
     },
     {
-        "place": "Kos",
+        "place": "Κως (Kos)",
         "country": "Greece",
         "iso": "GRC",
         "year": 2010,
@@ -117,7 +117,7 @@
         "longitude": 27.2770305
     },
     {
-        "place": "Zakynthos",
+        "place": "Ζάκυνθος (Zakynthos)",
         "country": "Greece",
         "iso": "GRC",
         "year": 2010,
@@ -126,7 +126,7 @@
         "longitude": 20.9793318
     },
     {
-        "place": "Samos",
+        "place": "Σάμος (Samos)",
         "country": "Greece",
         "iso": "GRC",
         "year": 2023,
