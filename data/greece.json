@@ -1,6 +1,6 @@
 [
     {
-        "place": "Limenas Chersonisou, Crete (Kriti)",
+        "place": "Limenas Chersonisou (Kriti)",
         "country": "Greece",
         "iso": "GRC",
         "year": 1992,
@@ -17,7 +17,6 @@
         "latitude": 37.444457,
         "longitude": 25.318074
     },
-
     {
         "place": "Tinos",
         "country": "Greece",
@@ -27,7 +26,6 @@
         "latitude": 37.5382668,
         "longitude": 25.1422933
     },
-
     {
         "place": "Kamari, Santorini (Thira)",
         "country": "Greece",
@@ -37,8 +35,6 @@
         "latitude": 36.376714,
         "longitude": 25.4641577
     },
-
-
     {
         "place": "Karpathos",
         "country": "Greece",
@@ -48,41 +44,60 @@
         "latitude": 35.5081087,
         "longitude": 27.2155749
     },
-
-
     {
         "place": "Preveza",
         "country": "Greece",
         "iso": "GRC",
-        "year": 1995,
+        "year": 1998,
         "url": "https://www.google.com/maps/place/Preveza,+Greece/@38.9601772,20.7277997,14z",
         "latitude": 38.9601772,
         "longitude": 20.7277997
     },
-
     {
         "place": "Delphi",
         "country": "Greece",
         "iso": "GRC",
-        "year": 1995,
+        "year": 1998,
         "url": "https://www.google.com/maps/place/Delphi,+Greece/@38.4983309,22.3407477,12z",
         "latitude": 38.4983309,
         "longitude": 22.3407477
     },
-
-
     {
         "place": "Metsovo",
         "country": "Greece",
         "iso": "GRC",
-        "year": 1995,
+        "year": 1998,
         "url": "https://www.google.com/maps/place/Metsovo+442+00,+Greece/@39.7727131,21.1646752,15z",
         "latitude": 39.7727131,
         "longitude": 21.1646752
     },
-
-
-
+    {
+        "place": "Lefkas",
+        "country": "Greece",
+        "iso": "GRC",
+        "year": 1998,
+        "url": "https://www.google.com/maps/place/Lefkada/@38.7064829,20.4969576,11z",
+        "latitude": 38.7064829,
+        "longitude": 20.4969576
+    },
+    {
+        "place": "Korfu",
+        "country": "Greece",
+        "iso": "GRC",
+        "year": 1999,
+        "url": "https://www.google.com/maps/place/Corfu/@39.5912995,19.87559,97905m",
+        "latitude": 39.5912995,
+        "longitude": 19.87559
+    },
+    {
+        "place": "Lesbos",
+        "country": "Greece",
+        "iso": "GRC",
+        "year": 2000,
+        "url": "https://www.google.com/maps/place/Lesbos/@39.174575,25.6494033,10z",
+        "latitude": 39.174575,
+        "longitude": 25.6494033
+    },
     {
         "place": "Kriti",
         "country": "Greece",
@@ -91,5 +106,41 @@
         "url": "https://www.google.com/maps/place/Crete,+Greece/@35.243119,23.7909346",
         "latitude": 35.243119,
         "longitude": 23.7909346
+    },
+    {
+        "place": "Kos",
+        "country": "Greece",
+        "iso": "GRC",
+        "year": 2010,
+        "url": "https://www.google.com/maps/place/Kos+853+00,+Greece/@36.8912636,27.2770305,14z",
+        "latitude": 36.8912636,
+        "longitude": 27.2770305
+    },
+    {
+        "place": "Zakynthos",
+        "country": "Greece",
+        "iso": "GRC",
+        "year": 2010,
+        "url": "https://www.google.com/maps/place/Vasilikos+291+00,+Greece/@37.7144969,20.9793318,16z",
+        "latitude": 37.7144969,
+        "longitude": 20.9793318
+    },
+    {
+        "place": "Samos",
+        "country": "Greece",
+        "iso": "GRC",
+        "year": 2023,
+        "url": "https://www.google.com/maps/place/Samos/@37.7245805,26.6778285,11z",
+        "latitude": 37.7245805,
+        "longitude": 26.6778285
+    },
+    {
+        "place": "Limassol",
+        "country": "Cyprus",
+        "iso": "CYP",
+        "year": 2022,
+        "url": "https://www.google.com/maps/place/Cyprus/@35.1675094,32.8647647,9z",
+        "latitude": 35.1675094,
+        "longitude": 32.8647647
     }
 ]
