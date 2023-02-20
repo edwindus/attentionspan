@@ -133,14 +133,5 @@
         "url": "https://www.google.com/maps/place/Samos/@37.7245805,26.6778285,11z",
         "latitude": 37.7245805,
         "longitude": 26.6778285
-    },
-    {
-        "place": "Limassol",
-        "country": "Cyprus",
-        "iso": "CYP",
-        "year": 2022,
-        "url": "https://www.google.com/maps/place/Cyprus/@35.1675094,32.8647647,9z",
-        "latitude": 35.1675094,
-        "longitude": 32.8647647
     }
 ]
