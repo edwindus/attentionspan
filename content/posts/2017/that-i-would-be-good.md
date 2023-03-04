@@ -23,27 +23,27 @@ To tattoo this _"as if I've just written it with a Sharpie"_ would be that _scar
 
 ### Lyrics
 
-That I would be good, even if I did nothing  
-That I would be good, even if I got the thumbs down  
-That I would be good if I got and stayed sick  
-That I would be good even if I gained ten pounds  
+_That I would be good, even if I did nothing_  
+_That I would be good, even if I got the thumbs down_  
+_That I would be good if I got and stayed sick_  
+_That I would be good even if I gained ten pounds_  
 
-That I would be fine even if I went bankrupt  
-That I would be good if I lost my hair and my youth  
-That I would be great if I was no longer queen  
-That I would be grand if I was not all knowing  
+_That I would be fine even if I went bankrupt_  
+_That I would be good if I lost my hair and my youth_  
+_That I would be great if I was no longer queen_  
+_That I would be grand if I was not all knowing_  
 
-That I would be loved even when I numb myself  
-That I would be good even when I am overwhelmed  
-That I would be loved even when I was fuming  
-That I would be good even if I was clingy  
-That I would be good even if I lost sanity
+_That I would be loved even when I numb myself_  
+_That I would be good even when I am overwhelmed_  
+_That I would be loved even when I was fuming_  
+_That I would be good even if I was clingy_  
+_That I would be good even if I lost sanity_
 
-That I would be good  
-Whether with or without you
+_That I would be good_  
+_Whether with or without you_
 
 - Released on [Supposed Former Infatuation Junkie](https://en.wikipedia.org/wiki/Supposed_Former_Infatuation_Junkie) album from 1998, released as a [single](https://www.discogs.com/master/210356-Alanis-Morissette-That-I-Would-Be-Good) in 1999  
 - &copy; Alanis Morissette & Glen Ballard
-- Yes, I like Sharpies too; [this in particular](https://adamsavage.com/products/savage-industries-sherpa-pen) is my _Holy Grail of unobtainable Sharpie_
+- Yes, I like Sharpies too; [this in particular](https://www.facebook.com/LunaReplicasLLC/posts/the-savage-industries-sharpie-sherpa-is-just-too-cool-another-apollo-inspired-ev/1043739049400248/) is my _Holy Grail of unobtainable Sharpie_
 
 {{< youtube-enhanced id="asKXwSQts1U" title="Alanis Morisette at MTV Supersonic 2004" start="53" >}}

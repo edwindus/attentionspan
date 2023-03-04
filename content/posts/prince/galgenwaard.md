@@ -32,6 +32,8 @@ This is a fan artwork and I do not own any copyright to the original artwork. If
 ![{{ .Page.Site.BaseURL }}posts/prince/galgenwaard/sott_tourposter_2a.pdf](sott_tourposter_2a.jpg)
 ![{{ .Page.Site.BaseURL }}posts/prince/galgenwaard/sott_tourposter_2b.pdf](sott_tourposter_2b.jpg)
 
+![{{ .Page.Site.BaseURL }}posts/prince/galgenwaard/madhouse.svg](madhouse.svg)
+
 Since there are slight differences with the orginal; I easily recognise my vector files and it is always funny when this pops up on social media or sites like the [tour history](https://goldiesparade.co.uk/prince-tours/sign-o-the-times-tour/), on the very nice Prince website [A Pop Life](https://apoplife.nl/concert/prince-21-06-1987/) by a fellow dutchman or even in this tweet of the hugely popular website [Housequake.com](https://www.housequake.com/) and someone even used my artwork to make a CD cover for their bootleg.
 
 {{< tweet user="Housequake" id="1276786923269492738" >}} 
