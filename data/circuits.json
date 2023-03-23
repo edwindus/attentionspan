@@ -1,6 +1,6 @@
 [
     {
-        "circuit": "Circuit Zandvoort",
+        "place": "Circuit Zandvoort",
         "country": "Nederland",
         "iso": "NLD",
         "url": "https://en.wikipedia.org/wiki/Circuit_Zandvoort",
@@ -8,7 +8,7 @@
         "longitude": 4.540922
     },
     {
-        "circuit": "TT Circuit Assen",
+        "place": "TT Circuit Assen",
         "country": "Nederland",
         "iso": "NLD",
         "url": "https://en.wikipedia.org/wiki/TT_Circuit_Assen",
@@ -16,7 +16,7 @@
         "longitude": 6.521844
     },
     {
-        "circuit": "Raceway Venray",
+        "place": "Raceway Venray",
         "country": "Nederland",
         "iso": "NLD",
         "url": "https://nl.wikipedia.org/wiki/Raceway_Venray",
@@ -24,7 +24,7 @@
         "longitude": 5.8756
     },
     {
-        "circuit": "CHM Circuit Lelystad",
+        "place": "CHM Circuit Lelystad",
         "country": "Nederland",
         "iso": "NLD",
         "latitude": 52.4438,
@@ -32,7 +32,7 @@
         "url": null
     },
     {
-        "circuit": "Circuit de Monte Carlo",
+        "place": "Circuit de Monte Carlo",
         "country": "Principality of Monaco",
         "iso": "MCO",
         "url": "https://en.wikipedia.org/wiki/Circuit_Zolder",
@@ -40,7 +40,7 @@
         "longitude": 7.420556
     },
     {
-        "circuit": "Circuit de Spa-Francorchamps",
+        "place": "Circuit de Spa-Francorchamps",
         "country": "België",
         "iso": "BEL",
         "url": "https://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps",
@@ -48,7 +48,7 @@
         "longitude": 5.971389
     },
     {
-        "circuit": "Circuit Zolder Terlamen",
+        "place": "Circuit Zolder Terlamen",
         "country": "België",
         "iso": "BEL",
         "url": "https://en.wikipedia.org/wiki/Circuit_Zolder",
@@ -56,7 +56,7 @@
         "longitude": 5.257650
     },
     {
-        "circuit": "Nürburgring",
+        "place": "Nürburgring",
         "country": "Deutschland",
         "iso": "DEU",
         "url": "https://en.wikipedia.org/wiki/Nürburgring",
@@ -64,7 +64,7 @@
         "longitude": 6.947500
     },
     {
-        "circuit": "Nürburgring Nordschleife",
+        "place": "Nürburgring Nordschleife",
         "country": "Deutschland",
         "iso": "DEU",
         "url": "https://de.wikipedia.org/wiki/Nordschleife",
@@ -72,7 +72,7 @@
         "longitude": 6.9660
     },
     {
-        "circuit": "Hockenheimring Baden-Württemberg",
+        "place": "Hockenheimring Baden-Württemberg",
         "country": "Deutschland",
         "iso": "DEU",
         "url": "https://en.wikipedia.org/wiki/Hockenheimring",
@@ -80,7 +80,7 @@
         "longitude": 8.565833
     },
     {
-        "circuit": "Autodromo Vallelunga Piero Taruffi",
+        "place": "Autodromo Vallelunga Piero Taruffi",
         "country": "Italia",
         "iso": "ITA",
         "url": "https://en.wikipedia.org/wiki/Vallelunga_Circuit",
@@ -88,7 +88,7 @@
         "longitude": 12.369167
     },
     {
-        "circuit": "Autodromo di Modena",
+        "place": "Autodromo di Modena",
         "country": "Italia",
         "iso": "ITA",
         "url": "https://en.wikipedia.org/wiki/Autodromo_di_Modena",
@@ -96,7 +96,7 @@
         "longitude": 10.905833
     },
     {
-        "circuit": "Autodromo Nazionale di Monza",
+        "place": "Autodromo Nazionale di Monza",
         "country": "Italia",
         "iso": "ITA",
         "url": "https://en.wikipedia.org/wiki/Monza_Circuit",
@@ -104,7 +104,7 @@
         "longitude": 9.289444
     },
     {
-        "circuit": "Autodromo Internazionale del Mugello",
+        "place": "Autodromo Internazionale del Mugello",
         "country": "Italia",
         "iso": "ITA",
         "url": "https://en.wikipedia.org/wiki/Mugello_Circuit",
@@ -112,7 +112,7 @@
         "longitude": 11.371944
     },
     {
-        "circuit": "Pista di Fiorano",
+        "place": "Pista di Fiorano",
         "country": "Italia",
         "iso": "ITA",
         "url": "https://en.wikipedia.org/wiki/Fiorano_Circuit",
@@ -120,7 +120,7 @@
         "longitude": 10.857222
     },
     {
-        "circuit": "Circuit de la Sarthe",
+        "place": "Circuit de la Sarthe",
         "country": "France",
         "iso": "FRA",
         "url": "https://en.wikipedia.org/wiki/Circuit_de_la_Sarthe",
@@ -128,7 +128,7 @@
         "longitude": 0.210714
     },
     {
-        "circuit": "Circuit de Charade Clermont-Ferrand",
+        "place": "Circuit de Charade Clermont-Ferrand",
         "country": "France",
         "iso": "FRA",
         "url": "https://en.wikipedia.org/wiki/Circuit_de_Charade",
@@ -136,7 +136,7 @@
         "longitude": 3.032098
     },
     {
-        "circuit": "Circuit Dijon-Prenois",
+        "place": "Circuit Dijon-Prenois",
         "country": "France",
         "iso": "FRA",
         "url": "https://en.wikipedia.org/wiki/Dijon-Prenois",
@@ -144,7 +144,7 @@
         "longitude": 4.896664
     },
     {
-        "circuit": "Autodrome de Linas-Montlhéry",
+        "place": "Autodrome de Linas-Montlhéry",
         "country": "France",
         "iso": "FRA",
         "url": "https://en.wikipedia.org/wiki/Autodrome_de_Linas-Montlhéry",
@@ -152,7 +152,7 @@
         "longitude": 2.235546
     },
     {
-        "circuit": "Circuit de Nevers Magny-Cours",
+        "place": "Circuit de Nevers Magny-Cours",
         "country": "France",
         "iso": "FRA",
         "url": "https://en.wikipedia.org/wiki/Circuit_de_Nevers_Magny-Cours",
@@ -160,7 +160,7 @@
         "longitude": 3.163611
     },
     {
-        "circuit": "Circuit Reims-Gueux",
+        "place": "Circuit Reims-Gueux",
         "country": "France",
         "iso": "FRA",
         "url": "https://en.wikipedia.org/wiki/Reims-Gueux",
@@ -168,7 +168,7 @@
         "longitude": 3.930833
     },
     {
-        "circuit": "Circuit de Val de Vienne",
+        "place": "Circuit de Val de Vienne",
         "country": "France",
         "iso": "FRA",
         "url": "https://en.wikipedia.org/wiki/Circuit_du_Val_de_Vienne",
@@ -176,7 +176,7 @@
         "longitude": 0.632186
     },
     {
-        "circuit": "Circuit Paul Armagnac de Nogaro",
+        "place": "Circuit Paul Armagnac de Nogaro",
         "country": "France",
         "iso": "FRA",
         "url": "https://en.wikipedia.org/wiki/Circuit_Paul_Armagnac",
@@ -184,7 +184,7 @@
         "longitude": -0.038056
     },
     {
-        "circuit": "Brands Hatch",
+        "place": "Brands Hatch",
         "country": "United Kingdom",
         "iso": "GBR",
         "url": "https://en.wikipedia.org/wiki/Brands_Hatch",
