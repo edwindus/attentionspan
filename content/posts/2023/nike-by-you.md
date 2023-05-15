@@ -44,9 +44,6 @@ Production and delivery took a couple of weeks during which regular and fun upda
 
 And finally a few shots of the homage Nikes with the Sepang Blue 'Black Edition' Audi.
 
-![](sepang-1.jpg)
-![](sepang-2.jpg)
-![](sepang-3.jpg)
-
-
-
+![Nike Air Force 1 BY YOU 'Audi Sepang Blue'](sepang-1.jpg)
+![Nike Air Force 1 BY YOU 'Audi Sepang Blue'](sepang-2.jpg)
+![Nike Air Force 1 BY YOU 'Audi Sepang Blue'](sepang-3.jpg)
