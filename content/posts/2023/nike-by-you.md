@@ -1,6 +1,6 @@
 ---
 title: "NIKE BY YOU"
-date: 2024-01-25T00:00:00Z
+date: 2023-01-23T00:00:00Z
 draft: true
 sidebar: false
 tags: []
@@ -27,15 +27,13 @@ In 1987 another sneaker with a different design was released, also utilizing the
 ![Nike Air Max 90](nike-air-max-90.jpg)
 
 # NIKE BY YOU
-Now I wanted a new pair and decided on Nike Air Force 1 Mid ’07, that should be a little better for driving. But browsing for shoes I came across the ‘[NIKE BY YOU](https://www.nike.com/nl/en/w/mens-nike-by-you-shoes-6ealhznik1zy7ok)’ program.
-Design your own sneakers, that sounded like fun (hey, we drew sneakers all the time in the eighties). 
+Now I wanted a new pair and decided on Nike Air Force 1 Mid ’07, that should be a little better for driving. But browsing for shoes I came across the [_NIKE BY YOU_](https://www.nike.com/nl/en/w/mens-nike-by-you-shoes-6ealhznik1zy7ok) program. Here you can design your own sneakers, that sounded like fun (and hey, we were drawing our own sneakers all the time in the eighties).
 
 ![Screen grabs of the online designer](editor-1.jpg)
 ![Screen grabs of the online designer](editor-2.jpg)
 ![Screen grabs of the online designer](editor-3.jpg)
 
-After a little fiddling with the online editor; I decided to pay homage to my [Black Edition Audi](https://youtu.be/rCChHiiqUfY) in Sepang Blue.   
-A purely Black & Blue scheme became a little too boring, so to add some contrast, the Nike swoosh became Bright Red in the final design.  
+After a little fiddling with the online editor; I decided to pay homage to my [Black Edition Audi](https://youtu.be/rCChHiiqUfY) in Sepang Blue. When purely Black & _Old Royal Blue_ scheme turned out a little too boring, the Nike swoosh became _Sport Red_ for contrast in the final design. The _Tip_ (front) and _Foxing_ (heel) are different to give a bit of a 'racing shoes' feeling (who would actually race with basketball shoes ?!).  
 Production and delivery took a couple of weeks during which regular updates were received by email.
 
 ![](update-1.jpg)

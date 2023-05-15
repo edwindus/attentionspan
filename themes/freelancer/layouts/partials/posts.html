@@ -1,6 +1,5 @@
 {{ $element :=  first .Site.Params.HomePosts (where .Site.RegularPages.ByDate.Reverse "Section" "posts") }}
 
-
 {{ if $element }}
 <section class="page-section portfolio pb-5" id="posts">
 	<div class="container">
