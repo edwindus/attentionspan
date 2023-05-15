@@ -1,12 +1,12 @@
 ---
 title: "NIKE BY YOU"
-date: 2023-01-23T00:00:00Z
-draft: true
+date: 2023-05-14T00:00:00Z
+draft: false
 sidebar: false
 tags: []
 preview: "_preview.jpg"
 hero: ""
-summary: "Custom designed shoes paying homage to my Black Edition Audi in Sepang Blue"
+summary: "Custom designed shoes paying homage to my Sepang Blue Black Edition Audi"
 ---
 
 # Nike Air Force 1
@@ -33,7 +33,7 @@ Now I wanted a new pair and decided on Nike Air Force 1 Mid ’07, that should b
 ![Screen grabs of the online designer](editor-2.jpg)
 ![Screen grabs of the online designer](editor-3.jpg)
 
-After a little fiddling with the online editor; I decided to pay homage to my [Black Edition Audi](https://youtu.be/rCChHiiqUfY) in Sepang Blue. When purely Black & _Old Royal Blue_ scheme turned out a little too boring, the Nike swoosh became _Sport Red_ for contrast in the final design. The _Tip_ (front) and _Foxing_ (heel) are different to give a bit of a 'racing shoes' feeling (who would actually race with basketball shoes ?!).  
+After a little fiddling with the online editor; I decided to pay homage to my Sepang Blue colored [Black Edition Audi](https://youtu.be/rCChHiiqUfY). When purely Black & _Old Royal Blue_ scheme turned out a little too boring, the Nike swoosh became _Sport Red_ for contrast in the final design. The _Tip_ (front) and _Foxing_ (heel) are different to give a bit of a 'racing shoes' feeling (who would actually race with basketball shoes ?!).  
 Production and delivery took a couple of weeks during which regular updates were received by email.
 
 ![](update-1.jpg)
@@ -41,6 +41,11 @@ Production and delivery took a couple of weeks during which regular updates were
 ![](update-3.jpg)
 ![](update-4.jpg)
 
+And finally a few shots of the homage Nikes with the Sepang Blue 'Black Edition' Audi.
+
+![](sepang-1.jpg)
+![](sepang-2.jpg)
+![](sepang-3.jpg)
 
 
 
