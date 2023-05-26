@@ -9,7 +9,7 @@
 	{{ else }}
 		<title>{{ .Title }} &middot; attentionspan.nl</title>
 	{{ end }}
-	{{ with site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+	{{ with site.Params.description }}<meta name="description" content="{{ . | safeHTML }}">{{ end }}
 	{{ with site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
 	<!-- Google tag (gtag.js) -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=G-KZYDFM7T3F"></script>

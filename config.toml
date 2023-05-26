@@ -11,7 +11,7 @@ defaultContentLanguage = 'en'
   [languages.nl]
     weight = 2
     [languages.nl.params]
-      description = 'meningloos&nbsp;gemompel&nbsp;& dwalende&nbsp;projecten'
+      description = 'meningloos&nbsp;gemompel &&nbsp; dwalende&nbsp;projecten'
       aboutLeft = "MTV generatie, trotse vader en partner, ontleder van Prince muziek sinds 1984, liever Star Wars dan Star Trek en verzamelaar van te veel Ferrari boeken en nerdy gadgets"
       aboutRight = "Vakman, ingenieur & knutselaar, revaliderend perfectionist & amateur, steeds meer wantrouwend dat ook niemand anders weet wat ze doen"
 
