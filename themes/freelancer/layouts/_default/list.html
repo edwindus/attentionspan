@@ -3,6 +3,9 @@
         <div class="container">
             <!-- Portfolio Section Heading-->
             <h1 class="page-section-heading text-center text-uppercase text-secondary mt-5">{{ .Title  }}</h2>
+			{{ if .Content }}
+				<div class="row justify-content-left"><p>{{ .Content }}</p></div>
+			{{ end }}
             <!-- Portfolio Grid Items-->
             <div class="row justify-content-left">
                 <!-- Portfolio Item 1-->
