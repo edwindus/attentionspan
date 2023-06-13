@@ -12,9 +12,9 @@
     {"title": "Apple iPhone 4", "category": "GSM / 3G", "description": "produced 2010-2013 <br/> 5 & 0.3 MP camera", "image": "apple-iphone-4.jpg"},
     {"title": "Apple iPhone 4S", "category": "GSM / 3G", "description": "produced 2011-2014 <br/> 8 & 0.3 MP camera", "image": "apple-iphone-4s.jpg"},
     {"title": "Apple iPhone 5", "category": "GSM / 3G", "description": "produced 2012-2013 <br/> 8 & 1.2 MP camera", "image": "apple-iphone-5.jpg"},
-    {"title": "Apple iPhone 6", "category": "GSM / 4G", "description": "produced 2014-2018 <br/> 8 & 1.2 MP camera", "image": "apple-iphone-6.jpg"},
-    {"title": "Apple iPhone SE", "category": "GSM / 4G", "description": "produced 2016-2018 <br/> 12 & 7 MP camera", "image": "apple-iphone-se.jpg"},
-    {"title": "Apple iPhone XR", "category": "GSM / 4G", "description": "produced 2018-2021 <br/> 12 & 7 MP camera", "image": "apple-iphone-xr.jpg"},
+    {"title": "Apple iPhone 6", "category": "LTE / 4G", "description": "produced 2014-2018 <br/> 8 & 1.2 MP camera", "image": "apple-iphone-6.jpg"},
+    {"title": "Apple iPhone SE", "category": "LTE / 4G", "description": "produced 2016-2018 <br/> 12 & 7 MP camera", "image": "apple-iphone-se.jpg"},
+    {"title": "Apple iPhone XR", "category": "LTE / 4G", "description": "produced 2018-2021 <br/> 12 & 7 MP camera", "image": "apple-iphone-xr.jpg"},
 
-    {"title": "Apple iPhone 12 mini", "category": "GSM / 5G", "description": "produced 2020-2022 <br/> 3 x 12 MP camera", "image": "apple-iphone-12-mini.jpg"}
+    {"title": "Apple iPhone 12 mini", "category": "LTE / 5G", "description": "produced 2020-2022 <br/> 3 x 12 MP camera", "image": "apple-iphone-12-mini.jpg"}
 ]
