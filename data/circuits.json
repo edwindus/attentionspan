@@ -128,6 +128,14 @@
         "longitude": 0.210714
     },
     {
+        "place": "Circuit Bugatti",
+        "country": "France",
+        "iso": "FRA",
+        "url": "https://en.wikipedia.org/wiki/Circuit_de_la_Sarthe",
+        "latitude": 47.953490,
+        "longitude": 0.210714
+    },
+    {
         "place": "Circuit de Charade Clermont-Ferrand",
         "country": "France",
         "iso": "FRA",
