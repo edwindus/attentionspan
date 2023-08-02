@@ -1,29 +1,29 @@
-baseURL = 'http://attentionspan.nl/'
-languageCode = 'en-us'
 title = 'attentionSpan.equals(null)'
 theme = "freelancer"
+baseURL = 'http://attentionspan.nl/'
+languageCode = 'en-us'
 paginate = 9
 
 defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = false
+
 [languages]
   [languages.en]
+    languageName = "English"
     weight = 1
+    [languages.en.params]
+      description = 'meaningless&nbsp;mumblings &&nbsp;meandering&nbsp;projects'
   [languages.nl]
+    languageName = "Nederlands"
     weight = 2
     [languages.nl.params]
       description = 'meningloos&nbsp;gemompel &&nbsp; dwalende&nbsp;projecten'
-      aboutLeft = "MTV generatie, trotse vader en partner, ontleder van Prince muziek sinds 1984, liever Star Wars dan Star Trek en verzamelaar van te veel Ferrari boeken en nerdy gadgets"
-      aboutRight = "Vakman, ingenieur & knutselaar, revaliderend perfectionist & amateur, steeds meer wantrouwend dat ook niemand anders weet wat ze doen"
 
 [params]
   name = "attentionSpan.nl"
+  author = 'Edwin van Nes'
   homePosts = 3
   homeProjects = 3
-
-  author = 'Edwin van Nes'
-  description = 'meaningless&nbsp;mumblings &&nbsp;meandering&nbsp;projects'
-  aboutLeft = "MTV generation, proud Father and partner, scrutinizing Prince music since 1984, enjoying Star Wars over Star Trek, and collecting too much Ferrari books and nerdy gadgets"
-  aboutRight = "Craftsman, engineer & thinkerer, recovering perfectionist & amateur, getting more-and-more suspicious that nobody else knows what they're doing either"
 
 [[params.social.personal]]
   text = "facebook.com/edwinvannes"

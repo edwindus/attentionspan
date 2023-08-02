@@ -12,7 +12,7 @@
 			</div>
 			<!-- Footer Social Icons Personal -->
 			<div class="col-lg-6 ms-auto">
-				<h4 class="text-uppercase mb-4 mt-4">Personal</h4>
+				<h4 class="text-uppercase mb-4 mt-4">{{ T "personal" }}</h4>
 				{{ range .Site.Params.social.personal }} 
 					<a class="btn btn-outline-light btn-social mx-1" href="{{.link}}" target="_blank" title="{{.text}}">
 						<em class="fa-brands fa-{{.icon}}"></em>
@@ -24,7 +24,7 @@
 </footer>
 <div class="copyright py-4 text-center text-white">
 	<div class="container"><small>
-		All&nbsp;Rights&nbsp;Reserved 
+		{{ T "rights" | safeHTML}}
 		&middot;
 		<span style="white-space:nowrap;">
 			&copy; 
@@ -32,7 +32,7 @@
 		</span>			
 		<span style="white-space:nowrap;">
 			<img src="https://www.attentionspan.nl/favicon.png" style="height:2rem;margin-top:-0.5rem;">
-			Edwin&nbsp;van&nbsp;Nes,&nbsp;Netherlands		
+			Edwin&nbsp;van&nbsp;Nes,&nbsp;{{ T "nederland" }}
 		</span>
 	</small></div>
 </div>

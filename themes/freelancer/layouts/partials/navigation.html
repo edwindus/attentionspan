@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg bg-secondary fixed-top" id="mainNav">
     <div class="container">
-        <a class="navbar-brand" href="/">
+        <a class="navbar-brand" href="/{{ if eq `nl` .Site.Language.Lang }}nl{{end}}">
             {{ .Site.Params.Name }}
         </a>
         <button class="navbar-toggler text-uppercase font-weight-bold bg-primary text-white rounded" type="button"
@@ -12,10 +12,22 @@
         <div class="collapse navbar-collapse text-uppercase" id="navbarResponsive">
             <ul class="navbar-nav ms-auto">
                 {{ range .Site.Sections.ByTitle }}
-                <li class="nav-item mx-0 mx-lg-1">
-                    <a class="nav-link py-3 px-0 px-lg-3 rounded" href="{{ .Permalink }}"> {{ .Title }}</a>
-                </li>
+                    <li class="nav-item mx-0 mx-lg-1">
+                        <a class="nav-link py-3 px-0 px-lg-3 rounded" href="{{ .Permalink }}"> {{ i18n .Title 99 }}</a>
+                    </li>
                 {{end}}
+                {{ if .Page.IsTranslated }}
+                    {{ $translation := index .Page.Translations 0 }}
+                    <li>
+                        <a class="nav-link py-3 px-0 px-lg-3 rounded" href="{{ $translation.Permalink }}" title="{{ T `translation` }}">
+                            {{ if eq "en" .Site.Language.Lang }}
+                                <img src="/img/flagz/gbr.svg" style="height:1em;border:1px solid #666666;"/>
+                            {{ else }}
+                                <img src="/img/flagz/nld.svg" style="height:1em;border:1px solid #666666;"/>
+                            {{ end }}
+                        </a>
+                    </li>
+                {{ end }}
             </ul>
         </div>
     </div>

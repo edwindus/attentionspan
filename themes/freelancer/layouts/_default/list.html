@@ -2,7 +2,7 @@
 	<section class="page-section portfolio" id="portfolio">
         <div class="container">
             <!-- Portfolio Section Heading-->
-            <h1 class="page-section-heading text-center text-uppercase text-secondary mt-5">{{ .Title  }}</h2>
+            <h1 class="page-section-heading text-center text-uppercase text-secondary mt-5">{{ T .Title (len .Paginator.Pages)}}</h1>
 			{{ if .Content }}
 				<div class="row justify-content-left"><p>{{ .Content }}</p></div>
 			{{ end }}
@@ -25,9 +25,11 @@
 						  </div>
 						  <div class="card-footer">
 							<div class="d-flex justify-content-between align-items-center">
-								<small class="text-muted">{{ .ReadingTime }} minute{{ if (ne .ReadingTime 1) }}s{{ end }}</small>
+								<small class="text-muted">{{ T "readingTime" .ReadingTime }}</small>
 								<div class="btn-group">
-								<a href="{{.Permalink}}" class="btn btn-lg btn-primary ">Read More</a>
+									<a href="{{.Permalink}}" class="btn btn-lg btn-primary ">
+										{{ T "more" }}
+									</a>
 								</div>
 							</div>
 						  </div>

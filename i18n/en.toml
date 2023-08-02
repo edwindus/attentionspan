@@ -1,0 +1,32 @@
+[Posts]
+one = "Post"
+other = "Posts"
+[Lists]
+one = "List"
+other = "Lists"
+
+[more]
+other = "Read more"
+[about]
+other = "About"
+[Recent]
+other = "Recent"
+
+[readingTime]
+  one = 'One minute'
+  other = '{{ .Count }} minutes'
+
+[translation]
+other = "Klik voor Nederlandse versie"
+
+[aboutLeft]
+other = "MTV generation, proud Father and partner, scrutinizing Prince music since 1984, enjoying Star Wars over Star Trek, and collecting too much Ferrari books and nerdy gadgets"
+[aboutRight]
+other = "Craftsman, engineer & thinkerer, recovering perfectionist & amateur, getting more-and-more suspicious that nobody else knows what they're doing either"
+
+[personal]
+other = "Personal"
+[rights]
+other = "All&nbsp;Rights&nbsp;Reserved"
+[nederland]
+other = "Netherlands"

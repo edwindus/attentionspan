@@ -10,7 +10,7 @@ summary: "Custom designed shoes paying homage to my Sepang Blue Black Edition Au
 ---
 
 # Nike Air Force 1
-In 1982 [Nike](https://www.shoepalace.com/blogs/all/the-history-of-nike) introduced their first baseball shoes utilising their successful Nike Air technology. The shoes were called Nike Air Force as a reference to the [Air Force One plane](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/) of the [POTUS](https://en.wikipedia.org/wiki/President_of_the_United_States).
+In 1982 [Nike](https://www.shoepalace.com/blogs/all/the-history-of-nike) introduced their first basketball shoes utilising their successful Nike Air technology. The shoes were called Nike Air Force as a reference to the [Air Force One plane](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/) of the [POTUS](https://en.wikipedia.org/wiki/President_of_the_United_States).
 The model was discontinued 2 years later but re-released back in 1986 as the Nike Air Force 1 and became especially populair in the US [East-coast Hip Hop](https://en.wikipedia.org/wiki/East_Coast_hip_hop) scene.
 The Nike Air Force 1 is [now over 40 years old](https://www.nike.com/air-force-1), produced in three different heights and popular as ever, specially the “White-on-White” version.
 
