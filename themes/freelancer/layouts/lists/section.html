@@ -1,7 +1,7 @@
 {{ define "main" }}
 	<section class="page-section portfolio" id="portfolio">
         <div class="container">
-            <h1 class="page-section-heading text-center text-uppercase text-secondary mt-5">{{ .Title  }}</h2>
+            <h1 class="page-section-heading text-center text-uppercase text-secondary mt-5">{{ .Title  }}</h1>
             <div class="row justify-content-left">
 
                 {{ range .Paginator.Pages }}
@@ -10,12 +10,13 @@
                         <div class="row">
                             <div class="col-md-4">
                                 <a href="{{.Permalink}}">
-                                {{ if .Page.Params.preview }}
-                                    <img class="img-fluid img-list" src="{{.Permalink}}{{.Page.Params.preview}}" alt="Preview image for '{{.Title }}' post">
-                                {{ else }}
-                                    <img class="img-fluid img-list" src="/img/posts_preview.png">
-                                {{ end }}                
-                            </a>        
+                                    {{ $image := .Page.Resources.GetMatch .Params.preview }}
+                                    {{ if $image }}
+                                        <img class="img-fluid img-list" src="{{ $image.RelPermalink }}" alt="Preview image for '{{.Title }}' post">
+                                    {{ else }}
+                                        <img class="img-fluid img-list" src="/img/posts_preview.png">
+                                    {{ end }}
+                                    </a>
                             </div>
                             <div class="col-md-8">
                                 <div class="list-card-block">

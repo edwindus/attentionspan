@@ -4,15 +4,16 @@
 <section class="page-section portfolio pb-5" id="posts">
 	<div class="container">
 		<!-- Portfolio Section Heading-->
-		<h1 class="page-section-heading text-center text-uppercase text-secondary">recent posts</h2>
+		<h1 class="page-section-heading text-center text-uppercase text-secondary">recent posts</h1>
 		<div class="row justify-content-left">
 			<!-- Portfolio Item 1-->
             {{ range $index, $element }}
 				<div class="col-md-4">
 					<div class="card mb-4">
 						<a href="{{.Permalink}}">
-							{{ if .Page.Params.preview }}
-								<img class="card-img-top" src="{{.Permalink}}{{.Page.Params.preview}}" alt="Preview image for '{{.Title }}' post">
+							{{ $image := .Page.Resources.GetMatch .Params.preview }}
+							{{ if $image }}
+								<img class="card-img-top" src="{{ $image.RelPermalink }}" alt="Preview image for '{{.Title }}' post">
 							{{ else }}
 								<img class="card-img-top" src="/img/posts_preview.png">
 							{{ end }}
