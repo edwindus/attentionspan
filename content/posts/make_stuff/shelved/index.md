@@ -9,8 +9,6 @@ hero: "_hero.jpg"
 summary: "A bunch of photos, thoughts and excuses on creating a custom bookcase for my carbooks."
 ---
 
-_A bunch of photos, thoughts and excuses on creating a custom bookcase for my carbooks_
-
 ## Once upon a time
 OK, now I collected too many books and my [IKEA BILLY](https://www.ikea.com/us/en/catalog/categories/series/28102/) bookcases keep sagging on me. For the last couple of years I had been chewing on this plan to make big and heavy-duty purpose-built shelving for my Ferrari books. The universe answered (somewhat). 
 
