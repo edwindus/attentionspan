@@ -4,11 +4,12 @@
 		<section class="page-section portfolio {{ if .Page.Params.sidebar }} col-12 col-lg-10 {{ end }} " >
 			<h1 class="page-section-heading text-center text-uppercase text-secondary mt-5">{{ .Title  }}</h1>
 			{{ if isset .Params "tags" -}}
+			    {{ $url := cond (eq "nl" .Language.Lang) "/nl" "" }}
 				<div class="row  mb-3 ">
 					<div class="col text-center text-nowrap ">		
-					{{ range $index, $name := sort .Params.tags -}}
-						<a class="h4" href={{ (printf "/tags/%s/" $name) | urlize }} title="{{$name | markdownify }}"><span class="badge bg-primary p-2 m-1 ">{{$name | markdownify}}</span></a>
-					{{end}}
+						{{ range $index, $name := sort .Params.tags -}}
+							<a class="h4" href={{ (printf "%s/tags/%s/" $url $name) | urlize }} title="{{$name | markdownify }}"><span class="badge bg-primary p-2 m-1 ">{{$name | markdownify}}</span></a>
+						{{end}}
 					</div>
 				</div>
 			{{ end }}
