@@ -9,7 +9,8 @@ hero: ""
 summary: "Prince concerten"
 ---
 
-Na het [eerst concert in 1987](/posts/prince/sign-o-the-times/) hebben we geen jaar meer overgeslagen. Telkens als Prince in Nederland was waren wij er bij.
-Ook gingen we nog naar Londen voor een toernee die Nederland niet zou aandoen.
+Na het [eerst concert in 1987](/posts/prince/sign-o-the-times/) hebben we geen jaar meer overgeslagen.
+Telkens als Prince in Nederland was waren wij er bij.
+En we gingen naar Londen voor de _21 Nights_ toernee die Nederland niet zou aandoen.
 
 {{< datalist data="concerts" >}}
