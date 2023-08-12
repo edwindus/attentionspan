@@ -1,202 +1,165 @@
 [
     {
-        "place": "Circuit Zandvoort",
-        "country": "Nederland",
-        "iso": "NLD",
-        "url": "https://en.wikipedia.org/wiki/Circuit_Zandvoort",
-        "latitude": 52.388819,
-        "longitude": 4.540922
+        "place": "Disneyland Paris",
+        "country": "France",
+        "iso": "FRA",
+        "url": "https://nl.wikipedia.org/wiki/Disneyland_Paris",
+        "latitude": 48.874722,
+        "longitude": 2.776389
     },
     {
-        "place": "TT Circuit Assen",
-        "country": "Nederland",
-        "iso": "NLD",
-        "url": "https://en.wikipedia.org/wiki/TT_Circuit_Assen",
-        "latitude": 52.957997,
-        "longitude": 6.521844
+        "place": "Walt Disney Studios Park",
+        "country": "France",
+        "iso": "FRA",
+        "url": "https://nl.wikipedia.org/wiki/Walt_Disney_Studios_Park",
+        "latitude": 48.870057,
+        "longitude": 2.780075
+    },
+
+    {
+        "place": "Moviepark Germany",
+        "country": "Deutschland",
+        "iso": "DEU",
+        "url": "https://nl.wikipedia.org/wiki/Movie_Park_Germany",
+        "latitude": 51.62,
+        "longitude": 6.9725
     },
     {
-        "place": "Raceway Venray",
-        "country": "Nederland",
-        "iso": "NLD",
-        "url": "https://nl.wikipedia.org/wiki/Raceway_Venray",
-        "latitude": 51.5221,
-        "longitude": 5.8756
+        "place": "Phantasialand",
+        "country": "Deutschland",
+        "iso": "DEU",
+        "url": "https://nl.wikipedia.org/wiki/Phantasialand",
+        "latitude": 50.799997,
+        "longitude": 6.879444
     },
+
     {
-        "place": "CHM Circuit Lelystad",
-        "country": "Nederland",
-        "iso": "NLD",
-        "latitude": 52.4438,
-        "longitude": 5.5022,
-        "url": null
-    },
-    {
-        "place": "Circuit de Monte Carlo",
-        "country": "Principality of Monaco",
-        "iso": "MCO",
-        "url": "https://en.wikipedia.org/wiki/Circuit_Zolder",
-        "latitude": 43.734722,
-        "longitude": 7.420556
-    },
-    {
-        "place": "Circuit de Spa-Francorchamps",
+        "place": "Bobbejaanland",
         "country": "België",
         "iso": "BEL",
-        "url": "https://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps",
-        "latitude": 50.437222,
-        "longitude": 5.971389
+        "url": "https://nl.wikipedia.org/wiki/Bobbejaanland",
+        "latitude": 51.201111,
+        "longitude": 4.905
     },
     {
-        "place": "Circuit Zolder Terlamen",
+        "place": "Bruparck",
         "country": "België",
         "iso": "BEL",
-        "url": "https://en.wikipedia.org/wiki/Circuit_Zolder",
-        "latitude": 50.990468,
-        "longitude": 5.257650
+        "url": "https://nl.wikipedia.org/wiki/Bruparck",
+        "latitude": 50.895036,
+        "longitude": 4.339253
     },
     {
-        "place": "Nürburgring",
-        "country": "Deutschland",
-        "iso": "DEU",
-        "url": "https://en.wikipedia.org/wiki/Nürburgring",
-        "latitude": 50.335556,
-        "longitude": 6.947500
+        "place": "Plosaland De Panne",
+        "country": "België",
+        "iso": "BEL",
+        "url": "https://nl.wikipedia.org/wiki/Plopsaland_De_Panne",
+        "latitude": 51.079722,
+        "longitude": 2.596944
+    },
+
+    {
+        "place": "Autotron",
+        "country": "Nederland",
+        "iso": "NLD",
+        "url": "https://nl.wikipedia.org/wiki/Autotron",
+        "latitude": 51.711944,
+        "longitude": 5.423056
     },
     {
-        "place": "Nürburgring Nordschleife",
-        "country": "Deutschland",
-        "iso": "DEU",
-        "url": "https://de.wikipedia.org/wiki/Nordschleife",
-        "latitude": 50.3465,
-        "longitude": 6.9660
+        "place": "Aviodrome",
+        "country": "Nederland",
+        "iso": "NLD",
+        "url": "https://nl.wikipedia.org/wiki/Nationaal_Luchtvaart-Themapark_Aviodrome",
+        "latitude": 52.4575,
+        "longitude": 5.531111
     },
     {
-        "place": "Hockenheimring Baden-Württemberg",
-        "country": "Deutschland",
-        "iso": "DEU",
-        "url": "https://en.wikipedia.org/wiki/Hockenheimring",
-        "latitude": 49.327778,
-        "longitude": 8.565833
+        "place": "Avonturenpark Hellendoorn",
+        "country": "Nederland",
+        "iso": "NLD",
+        "url": "https://nl.wikipedia.org/wiki/Avonturenpark_Hellendoorn",
+        "latitude": 52.389444,
+        "longitude": 6.435833
     },
     {
-        "place": "Autodromo Vallelunga Piero Taruffi",
-        "country": "Italia",
-        "iso": "ITA",
-        "url": "https://en.wikipedia.org/wiki/Vallelunga_Circuit",
-        "latitude": 42.160833,
-        "longitude": 12.369167
+        "place": "Duinrell",
+        "country": "Nederland",
+        "iso": "NLD",
+        "url": "https://nl.wikipedia.org/wiki/Duinrell",
+        "latitude": 52.146667,
+        "longitude": 4.381111
     },
     {
-        "place": "Autodromo di Modena",
-        "country": "Italia",
-        "iso": "ITA",
-        "url": "https://en.wikipedia.org/wiki/Autodromo_di_Modena",
-        "latitude": 44.650278,
-        "longitude": 10.905833
+        "place": "De Efteling",
+        "country": "Nederland",
+        "iso": "NLD",
+        "url": "https://nl.wikipedia.org/wiki/Efteling",
+        "latitude": 51.650097,
+        "longitude":  5.049889
     },
     {
-        "place": "Autodromo Nazionale di Monza",
-        "country": "Italia",
-        "iso": "ITA",
-        "url": "https://en.wikipedia.org/wiki/Monza_Circuit",
-        "latitude": 45.620556,
-        "longitude": 9.289444
+        "place": "Julianatoren",
+        "country": "Nederland",
+        "iso": "NLD",
+        "url": "https://nl.wikipedia.org/wiki/Julianatoren",
+        "latitude": 52.226944,
+        "longitude": 5.915833
     },
     {
-        "place": "Autodromo Internazionale del Mugello",
-        "country": "Italia",
-        "iso": "ITA",
-        "url": "https://en.wikipedia.org/wiki/Mugello_Circuit",
-        "latitude": 43.997500,
-        "longitude": 11.371944
+        "place": "Het Land van Ooit",
+        "country": "Nederland",
+        "iso": "NLD",
+        "url": "https://nl.wikipedia.org/wiki/Het_Land_van_Ooit_(Drunen)",
+        "latitude": 51.695278,
+        "longitude": 5.168333
     },
     {
-        "place": "Pista di Fiorano",
-        "country": "Italia",
-        "iso": "ITA",
-        "url": "https://en.wikipedia.org/wiki/Fiorano_Circuit",
-        "latitude": 44.535000,
-        "longitude": 10.857222
+        "place": "Linnaeushof",
+        "country": "Nederland",
+        "iso": "NLD",
+        "url": "https://nl.wikipedia.org/wiki/Linnaeushof_(Bennebroek)",
+        "latitude": 52.325278,
+        "longitude": 4.597222
     },
     {
-        "place": "Circuit de la Sarthe",
-        "country": "France",
-        "iso": "FRA",
-        "url": "https://en.wikipedia.org/wiki/Circuit_de_la_Sarthe",
-        "latitude": 47.953490,
-        "longitude": 0.210714
+        "place": "Madurodam",
+        "country": "Nederland",
+        "iso": "NLD",
+        "url": "https://nl.wikipedia.org/wiki/Madurodam",
+        "latitude": 52.099403,
+        "longitude": 4.297558
     },
     {
-        "place": "Circuit Bugatti",
-        "country": "France",
-        "iso": "FRA",
-        "url": "https://en.wikipedia.org/wiki/Circuit_de_la_Sarthe",
-        "latitude": 47.953490,
-        "longitude": 0.210714
+        "place": "Attractiepark (Ponypark) Slagharen",
+        "country": "Nederland",
+        "iso": "NLD",
+        "url": "https://nl.wikipedia.org/wiki/Attractiepark_Slagharen",
+        "latitude": 52.624444,
+        "longitude": 6.561944
     },
     {
-        "place": "Circuit de Charade Clermont-Ferrand",
-        "country": "France",
-        "iso": "FRA",
-        "url": "https://en.wikipedia.org/wiki/Circuit_de_Charade",
-        "latitude": 45.741667,
-        "longitude": 3.032098
+        "place": "Oud Valkeveen",
+        "country": "Nederland",
+        "iso": "NLD",
+        "url": "https://nl.wikipedia.org/wiki/Oud_Valkeveen",
+        "latitude": 52.305444,
+        "longitude": 5.191858
     },
     {
-        "place": "Circuit Dijon-Prenois",
-        "country": "France",
-        "iso": "FRA",
-        "url": "https://en.wikipedia.org/wiki/Dijon-Prenois",
-        "latitude": 47.360591,
-        "longitude": 4.896664
+        "place": "Attractiepark Toverland",
+        "country": "Nederland",
+        "iso": "NLD",
+        "url": "https://nl.wikipedia.org/wiki/Attractiepark_Toverland",
+        "latitude": 51.395833,
+        "longitude": 5.985833
     },
     {
-        "place": "Autodrome de Linas-Montlhéry",
-        "country": "France",
-        "iso": "FRA",
-        "url": "https://en.wikipedia.org/wiki/Autodrome_de_Linas-Montlhéry",
-        "latitude": 48.622187,
-        "longitude": 2.235546
-    },
-    {
-        "place": "Circuit de Nevers Magny-Cours",
-        "country": "France",
-        "iso": "FRA",
-        "url": "https://en.wikipedia.org/wiki/Circuit_de_Nevers_Magny-Cours",
-        "latitude": 46.864167,
-        "longitude": 3.163611
-    },
-    {
-        "place": "Circuit Reims-Gueux",
-        "country": "France",
-        "iso": "FRA",
-        "url": "https://en.wikipedia.org/wiki/Reims-Gueux",
-        "latitude": 49.254167,
-        "longitude": 3.930833
-    },
-    {
-        "place": "Circuit de Val de Vienne",
-        "country": "France",
-        "iso": "FRA",
-        "url": "https://en.wikipedia.org/wiki/Circuit_du_Val_de_Vienne",
-        "latitude": 46.196289,
-        "longitude": 0.632186
-    },
-    {
-        "place": "Circuit Paul Armagnac de Nogaro",
-        "country": "France",
-        "iso": "FRA",
-        "url": "https://en.wikipedia.org/wiki/Circuit_Paul_Armagnac",
-        "latitude": 43.768056,
-        "longitude": -0.038056
-    },
-    {
-        "place": "Brands Hatch",
-        "country": "United Kingdom",
-        "iso": "GBR",
-        "url": "https://en.wikipedia.org/wiki/Brands_Hatch",
-        "latitude": 51.359669,
-        "longitude": 0.259273
+        "place": "Walibi Holland (Flevohof)",
+        "country": "Nederland",
+        "iso": "NLD",
+        "url": "https://nl.wikipedia.org/wiki/Walibi_Holland",
+        "latitude": 52.440556,
+        "longitude": 5.7625
     }
 ]
