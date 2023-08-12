@@ -1,0 +1,351 @@
+[
+    {
+        "place": "Amsterdam Schiphol Airport (AMS)",
+        "country": "Nederland",
+        "iso": "NLD",
+        "url": "https://www.flightradar24.com/data/airports/ams",
+        "latitude": 52.3,
+        "longitude": 4.765
+    },
+    {
+        "place": "Eindhoven Airport (EIN)",
+        "country": "Nederland",
+        "iso": "NLD",
+        "url": "https://www.flightradar24.com/data/airports/ein",
+        "latitude": 51.45,
+        "longitude": 5.374444
+    },
+    {
+        "place": "Hilversum Airfield (EHHV)",
+        "country": "Nederland",
+        "iso": "NLD",
+        "url": "https://www.flightradar24.com/data/airports/xxx",
+        "latitude": 52.191944,
+        "longitude": 5.146944
+    },
+    {
+        "place": "Lelystad Airport (LEY)",
+        "country": "Nederland",
+        "iso": "NLD",
+        "url": "https://www.flightradar24.com/data/airports/ley",
+        "latitude": 52.460278,
+        "longitude": 5.527222
+    },
+    {
+        "place": "Rotterdam Airport (RTM)",
+        "country": "Nederland",
+        "iso": "NLD",
+        "url": "https://www.flightradar24.com/data/airports/rtm",
+        "latitude": 51.956944,
+        "longitude": 4.440278
+    },
+
+    {
+        "place": "Hamburg Fuhlsbüttel Airport (HAM)",
+        "country": "Germany",
+        "iso": "DEU",
+        "url": "https://www.flightradar24.com/data/airports/ham",
+        "latitude": 53.630278,
+        "longitude": 9.991111
+    },
+
+    {
+        "place": "Aéroport de Paris-Charles de Gaulle (CDG)",
+        "country": "France",
+        "iso": "FRA",
+        "url": "https://www.flightradar24.com/data/airports/cdg",
+        "latitude": 49.009722,
+        "longitude": 2.547778
+    },
+    {
+        "place": "Aéroport Côte d'Azur (NCE)",
+        "country": "France",
+        "iso": "FRA",
+        "url": "https://www.flightradar24.com/data/airports/nce",
+        "latitude": 43.665278,
+        "longitude": 7.215
+    },
+
+    {
+        "place": "Josep Tarradellas Barcelona El Prat Airport (BCN)",
+        "country": "Spain",
+        "iso": "ESP",
+        "url": "https://www.flightradar24.com/data/airports/bcn",
+        "latitude": 41.296944,
+        "longitude": 2.078333
+    },
+    {
+        "place": "Girona Costa Brava Airport (GRO)",
+        "country": "Spain",
+        "iso": "ESP",
+        "url": "https://www.flightradar24.com/data/airports/gro",
+        "latitude": 41.900833,
+        "longitude": 2.760556
+    },
+
+    {
+        "place": "Faro Gago Coutinho Airport (FAO)",
+        "country": "Portugal",
+        "iso": "PRT",
+        "url": "https://www.flightradar24.com/data/airports/fao",
+        "latitude": 37.014444,
+        "longitude": -7.965833
+    },
+    {
+        "place": "Aeroporto Humberto Delgado (LIS)",
+        "country": "Portugal",
+        "iso": "PRT",
+        "url": "https://www.flightradar24.com/data/airports/lis",
+        "latitude": 38.774167,
+        "longitude": -9.134167
+    },
+
+    {
+        "place": "Milan Bergamo Orio al Serio Airport (BGY)",
+        "country": "Italy",
+        "iso": "ITA",
+        "url": "https://www.flightradar24.com/data/airports/bgy",
+        "latitude": 45.668889,
+        "longitude": 9.700278
+    },
+    {
+        "place": "Rome Leonardo da Vinci Fiumicino Airport (FCO)",
+        "country": "Italy",
+        "iso": "ITA",
+        "url": "https://www.flightradar24.com/data/airports/fco",
+        "latitude": 41.800278,
+        "longitude": 12.238889
+    },
+    {
+        "place": "Aeroporto Milano Malpensa (MXP)",
+        "country": "Italy",
+        "iso": "ITA",
+        "url": "https://www.flightradar24.com/data/airports/mxp",
+        "latitude": 45.63,
+        "longitude": 8.723056
+    },
+    {
+        "place": "Venice Marco Polo Airport (VCE)",
+        "country": "Italy",
+        "iso": "ITA",
+        "url": "https://www.flightradar24.com/data/airports/vce",
+        "latitude": 45.505278,
+        "longitude": 12.351944
+    },
+
+    {
+        "place": "Aeropuerto de Las Palmas Gran Canaria (LPA)",
+        "country": "Spain",
+        "iso": "ESP",
+        "url": "https://www.flightradar24.com/data/airports/xxx",
+        "latitude": 27.931944,
+        "longitude": -15.386667
+    },
+    {
+        "place": "Malta Luqa International Airport (MLA)",
+        "country": "Malta",
+        "iso": "MLT",
+        "url": "https://www.flightradar24.com/data/airports/mla",
+        "latitude": 35.8575,
+        "longitude": 14.4775
+    },
+    {
+        "place": "Glafcos Clerides Larnaca Airport (LCA)",
+        "country": "Cyprus",
+        "iso": "CYP",
+        "url": "https://www.flightradar24.com/data/airports/lca",
+        "latitude": 34.878889,
+        "longitude": 33.630278
+    },
+
+    {
+        "place": "New York Newark Liberty Airport (EWR)",
+        "country": "United States",
+        "iso": "USA",
+        "url": "https://www.flightradar24.com/data/airports/ewr",
+        "latitude": 40.6925,
+        "longitude": -74.168611
+    },
+    {
+        "place": "New York John F. Kennedy Airport (JFK)",
+        "country": "United States",
+        "iso": "USA",
+        "url": "https://www.flightradar24.com/data/airports/jfk",
+        "latitude": 40.639722,
+        "longitude": -73.778889
+    },
+    {
+        "place": "San Francisco International Airport (SFO)",
+        "country": "United States",
+        "iso": "USA",
+        "url": "https://www.flightradar24.com/data/airports/sfo",
+        "latitude": 37.618889,
+        "longitude": -122.375
+    },
+
+    {
+        "place": "Willemstad Curacao Hato International Airport (CUR)",
+        "country": "Curaçao",
+        "iso": "CUW",
+        "url": "https://www.flightradar24.com/data/airports/cur",
+        "latitude": 12.188889,
+        "longitude": -68.959722
+    },
+    {
+        "place": "Bonaire Flamingo International Airport (BON)",
+        "country": "Bonaire, Saint Eustatius and Saba",
+        "iso": "BES",
+        "url": "https://www.flightradar24.com/data/airports/bon",
+        "latitude": 12.131111,
+        "longitude": -68.268611
+    },
+
+    {
+        "place": "Punta Cana International Airport (PUJ)",
+        "country": "Dominican Republic",
+        "iso": "DOM",
+        "url": "https://www.flightradar24.com/data/airports/puj",
+        "latitude": 18.566667,
+        "longitude": -68.351944
+    },
+    {
+        "place": "Santo Domingo Las Américas Airport (SDQ)",
+        "country": "Dominican Republic",
+        "iso": "DOM",
+        "url": "https://www.flightradar24.com/data/airports/sdq",
+        "latitude": 18.429444,
+        "longitude": -69.668889
+    },
+
+    {
+        "place": "Flughafen Zürich Kloten (ZRH)",
+        "country": "Switzerland",
+        "iso": "CHE",
+        "url": "https://www.flightradar24.com/data/airports/zrh",
+        "latitude": 47.464722,
+        "longitude": 8.549167
+    },
+
+    {
+        "place": "Dublin Airport (DUB)",
+        "country": "Ireland",
+        "iso": "IRL",
+        "url": "https://www.flightradar24.com/data/airports/dub",
+        "latitude": 53.421389,
+        "longitude": -6.27
+    },
+    {
+        "place": "London Gatwick Airport (LGW)",
+        "country": "United Kingdom",
+        "iso": "GBR",
+        "url": "https://www.flightradar24.com/data/airports/lgw",
+        "latitude": 51.148056,
+        "longitude": -0.190278
+    },
+    {
+        "place": "London Heathrow Airport (LHR)",
+        "country": "United Kingdom",
+        "iso": "GBR",
+        "url": "https://www.flightradar24.com/data/airports/lhr",
+        "latitude": 51.4775,
+        "longitude": -0.461389
+    },
+
+    {
+        "place": "Bengaluru Kempegowda Airport (BLR)",
+        "country": "India",
+        "iso": "IND",
+        "url": "https://www.flightradar24.com/data/airports/blr",
+        "latitude": 13.206944,
+        "longitude": 77.704167
+    },
+    {
+        "place": "Copenhagen Airport Kastrup (CPH)",
+        "country": "Denmark",
+        "iso": "DNK",
+        "url": "https://www.flightradar24.com/data/airports/cph",
+        "latitude": 55.618056,
+        "longitude": 12.656111
+    },
+
+    {
+        "place": "Karpathos Island National Airport (AOK)",
+        "country": "Greece",
+        "iso": "GRC",
+        "url": "https://www.flightradar24.com/data/airports/aok",
+        "latitude": 35.420556,
+        "longitude": 27.146667
+    },
+    {
+        "place": "Corfu 'Ioannis Kapodistrias' Airport (CFU)",
+        "country": "Greece",
+        "iso": "GRC",
+        "url": "https://www.flightradar24.com/data/airports/cfu",
+        "latitude": 39.601944,
+        "longitude": 19.911667
+    },
+    {
+        "place": "Nikos Kazantzakis Heraklion Airport (HER)",
+        "country": "Greece",
+        "iso": "GRC",
+        "url": "https://www.flightradar24.com/data/airports/her",
+        "latitude": 35.339722,
+        "longitude": 25.180278
+    },
+    {
+        "place": "Mykonos-Manto Mavrogenous Airport (JMK)",
+        "country": "Greece",
+        "iso": "GRC",
+        "url": "https://www.flightradar24.com/data/airports/jmk",
+        "latitude": 37.435128,
+        "longitude": 25.348103
+    },
+    {
+        "place": "Santorini (Thira) International Airport (JTR),",
+        "country": "Greece",
+        "iso": "GRC",
+        "url": "https://www.flightradar24.com/data/airports/jtr",
+        "latitude": 36.400833,
+        "longitude": 25.478333
+    },
+    {
+        "place": "Ippokratis International Airport (KGS)",
+        "country": "Greece",
+        "iso": "GRC",
+        "url": "https://www.flightradar24.com/data/airports/kgs",
+        "latitude": 36.793336,
+        "longitude": 27.091667
+    },
+    {
+        "place": "Odysseas Elytis Mytilini Airport (MJT)",
+        "country": "Greece",
+        "iso": "GRC",
+        "url": "https://www.flightradar24.com/data/airports/mjt",
+        "latitude": 39.056667,
+        "longitude": 26.598333
+    },
+    {
+        "place": "Aktion National Airport (PVK)",
+        "country": "Greece",
+        "iso": "GRC",
+        "url": "https://www.flightradar24.com/data/airports/pvk",
+        "latitude": 38.925556,
+        "longitude": 20.765278
+    },
+    {
+        "place": "Aristarchos of Samos Airport (SMI)",
+        "country": "Greece",
+        "iso": "GRC",
+        "url": "https://www.flightradar24.com/data/airports/smi",
+        "latitude": 37.69,
+        "longitude": 26.911667
+    },
+    {
+        "place": "Dionysios Solomos Zakynthos Airport (ZTH)",
+        "country": "Greece",
+        "iso": "GRC",
+        "url": "https://www.flightradar24.com/data/airports/zth",
+        "latitude": 37.750833,
+        "longitude": 20.884167
+    }
+]
