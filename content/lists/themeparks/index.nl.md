@@ -6,6 +6,6 @@ sidebar: false
 tags: []
 preview: "_preview.jpg"
 hero: ""
-summary: "Waar hebben we zoals pret gemaakt"
+summary: "Pretparken bezocht"
 ---
 {{< places data="themeparks" >}}

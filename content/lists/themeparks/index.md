@@ -6,6 +6,6 @@ sidebar: false
 tags: []
 preview: "_preview.jpg"
 hero: ""
-summary: "Destination or Departure Airports"
+summary: "Themeparks visited"
 ---
 {{< places data="themeparks" >}}
