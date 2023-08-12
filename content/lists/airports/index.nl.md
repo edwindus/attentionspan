@@ -6,6 +6,6 @@ sidebar: false
 tags: []
 preview: "_preview.jpg"
 hero: ""
-summary: "Luchthavens van vertrek of - aankomst"
+summary: "Luchthavens vertrek of aankomst"
 ---
 {{< places data="airports" >}}
