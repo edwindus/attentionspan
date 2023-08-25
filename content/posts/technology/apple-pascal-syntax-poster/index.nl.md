@@ -32,9 +32,12 @@ Raskin begon met het ontwerpen van een referentie-poster voor Pascal, omdat hij 
 Raskin werkte vanuit de originele Niklaus Wirth-publicaties, voerde wat reorganisatie uit op de tekeningen en bedacht een kleurcodering zodat de hogere lexicale elementen zouden overeenkomen met de onderstaande syntax-diagrammen.
 Het diagram afdrukken als een poster leek een praktisch idee om de Apple Pascal-referentie binnen het gezichtsveld van de programmeurs te houden.
 
-![](1984.jpg)
+![Apple Macintosh](1984.jpg)
 ![De Apple Pascal Syntax-poster uit 1979 in al zijn kleurrijke glorie](scan.jpg)
-![](teleac.jpg)
+![Het TELEAC cursusboek waarmee ik fatsoenljk Pascal leerde programmeren](teleac.jpg)
+![Borland Delphi was de opvolger van 'Borland Turbo Pascal with Objects for Windows'](delphi.jpg)
+
+
 
 ## Along came Steve Jobs
 Steve vond het een goed idee en zag er geweldige marketingmogelijkheden in.
