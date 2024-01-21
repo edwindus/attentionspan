@@ -1,0 +1,64 @@
+---
+title: version 10 - custom offline Java generator + Hugo static site generator
+---
+
+%%{ init: {'theme': 'neutral'} }%%
+graph LR
+
+datagrip([SQL editor])
+gimp([Image editor])
+bash([Bash scripting])
+
+subgraph offline
+   subgraph maintain
+      maintain_database
+      maintain_images
+   end
+
+   subgraph publish
+      sql
+      published_database
+   end
+
+   subgraph generate
+      java
+      generated_markdown
+      generated_images
+   end
+
+   subgraph render
+      hugo
+      rendered_html
+      rendered_images
+   end
+
+   bash --> maintain_database
+   datagrip --> maintain_database
+   gimp --> maintain_images
+   bash -.-> |pipeline| sql
+   maintain_database --> sql
+   sql --> published_database
+   bash -.-> |pipeline| java
+   published_database --> java
+   maintain_images --> java
+   java --> generated_markdown
+   java --> generated_images
+
+   generated_markdown --> hugo
+   generated_images --> hugo
+   hugo --> rendered_html
+   hugo --> rendered_images
+end
+
+
+
+subgraph online
+   online_html{{html}}
+   online_images{{images}}
+end
+
+rendered_html --> |ftp| online_html
+rendered_images --> |ftp| online_images
+
+online_html -.-> browser(((WWW)))
+online_images -.-> browser(((Browser)))

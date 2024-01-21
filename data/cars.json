@@ -159,5 +159,12 @@
         "description": "Advantage edition<br/>1.6L D2 turbodiesel, 4-cylinder",
         "image": "2012-volvo-c30.jpg",
         "link": "https://en.wikipedia.org/wiki/Volvo_C30#2010_update"
+    },
+    {
+        "title": "2001 Volkswagen New Beetle",
+        "category": "Black",
+        "description": "Trendline edition<br/>1.6L, 4-cylinder",
+        "image": "2001-volkswagen-new-beetle.jpg",
+        "link": "https://en.wikipedia.org/wiki/Volkswagen_New_Beetle"
     }
 ]

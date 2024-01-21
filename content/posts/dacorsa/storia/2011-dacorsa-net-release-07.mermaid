@@ -1,0 +1,36 @@
+---
+title: version 7 - online Joomla content management system
+---
+
+%%{ init: {'theme': 'neutral'} }%%
+graph LR
+
+subgraph offline
+    editor[[Joomla admin]]
+    offline_cms[[Joomla CMS]]
+    offline_database[(database)]
+    source{{Original images}}
+    offline_images{{Uploaded images}}
+
+    gimp([Image editor]) --> source
+    adminbrowser([Browser]) --> editor
+    source --> editor
+    editor --> offline_database
+    editor --> offline_images
+    offline_database --> offline_cms
+    offline_images -.- offline_cms
+end
+
+subgraph online
+    online_database[(database)]
+    online_images{{Uploaded images}}
+    online_cms[[Joomla CMS]]
+    online_database --> online_cms
+    online_images -.- online_cms
+end
+
+offline_database ----> |copy| online_database
+offline_images ----> |ftp| online_images
+
+online_cms -.-> browser(((WWW)))
+online_images -.-> browser
