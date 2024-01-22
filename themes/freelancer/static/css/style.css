@@ -310,7 +310,7 @@ pre code {
 
 code {
   font-size: 0.875em;
-  color: #d63384;
+  color: #BA533A;
   word-wrap: break-word;
 }
 
@@ -11477,7 +11477,9 @@ a.nofollow:hover img.thumbnail {
 }
 
 img.thumbnail-small { width: 5%; }
-img.thumbnail-medium { width: 10%; }  
+img.thumbnail-medium { width: 10%; }
+img.thumbnail-large { max-width: 40% !important; }
+img.thumbnail-full { max-width: 100% !important; }
 
 @media (min-width: 992px) {
   .portfolio img.thumbnail {

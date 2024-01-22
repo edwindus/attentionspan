@@ -19,9 +19,9 @@
         <img class="thumbnail {{ $classes.Get "size" }} download" src="{{ $thumbUrl | safeURL }}" alt="download link" title="download file" />
     </a>
 {{ else if $isIcon }}
-    <img class="thumbnail" src="{{ $thumbUrl | safeURL }}" alt="" />
+    <img class="thumbnail {{ $classes.Get "size" }}" src="{{ $thumbUrl | safeURL }}" alt="" />
 {{ else }}
-    <a href="{{ .Destination | safeURL }}" class="glightbox" data-description="{{ .Text }}">
-        <img class="thumbnail" src="{{ $thumbUrl | safeURL }}" alt="{{ .Text }}" />
+    <a href="{{ $thumbUrl | safeURL }}" class="glightbox" data-description="{{ .Text }}">
+        <img class="thumbnail {{ $classes.Get "size" }}" src="{{ $thumbUrl | safeURL }}" alt="{{ .Text }}" />
     </a>
 {{ end }}

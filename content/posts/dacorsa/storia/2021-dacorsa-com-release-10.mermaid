@@ -11,25 +11,25 @@ bash([Bash scripting])
 
 subgraph offline
    subgraph maintain
-      maintain_database
-      maintain_images
+      maintain_database[(orginal\ndatabase)]
+      maintain_images{{original\nimages}}
    end
 
    subgraph publish
-      sql
-      published_database
+      sql[[sql scripts]]
+      published_database[(published\nsnapshot)]
    end
 
    subgraph generate
-      java
-      generated_markdown
-      generated_images
+      java[[java apps]]
+      generated_markdown{{generated\nmarkdown}}
+      generated_images{{generated\nimages}}
    end
 
    subgraph render
-      hugo
-      rendered_html
-      rendered_images
+      hugo[[Hugo\nstatic site generator]]
+      rendered_html{{rendered\nhtml}}
+      rendered_images{{rendered\nimages}}
    end
 
    bash --> maintain_database
