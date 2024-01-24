@@ -9,7 +9,7 @@ hero: "hero.jpg"
 summary: "25 years of digital Ferrari archiving and refactoring database publishing software"
 ---
 
-_Sure, I might have had a Ferrari poster on the wall as a child, but my fascination for Ferrari started in 1990 with the [Bburago](https://en.wikipedia.org/wiki/Bburago) 1997 Ferrari F40 model ([cod. 3032](https://albaco.com/products/ferrari_f40_red_by_bburago_1-18_3032)).
+_Sure, I might have had a Ferrari poster on the wall as a child, but my fascination for Ferrari started in 1990 with the [Bburago](https://en.wikipedia.org/wiki/Bburago) Ferrari F40 model ([cod. 3032](https://albaco.com/products/ferrari_f40_red_by_bburago_1-18_3032)).
 Everything just happened to evolve in the next 25 years to (what is now) [dacorsa.com](https://dacorsa.com).
 This post will summarize (in rather technical) detail all the different incarnations of the website and database._ 
 
@@ -91,7 +91,7 @@ Now, with Typo3, the database started in 1999, becomes the 'single point of entr
 ![Fifth release of www.dacorsa.net in December 2004 using Typo3 content management system](2004-dacorsa-net-release-05.jpg)
 ![Sixth release of www.dacorsa.net in March 2005 using Typo3 content management system](2005-dacorsa-net-release-06.jpg)
 
-Just (comprehensive) new frontend template for the existing [Typo3 online CMS](https://typo3.org) stack.
+Just (comprehensive) new frontend templates for the existing [Typo3 online CMS](https://typo3.org) stack.
 
 
 
@@ -103,7 +103,7 @@ Just (comprehensive) new frontend template for the existing [Typo3 online CMS](h
 ![A new 'LAMP' CMS, but two seperate stacks; one safely offline and snapshot copy of the whole stack made available online](2011-dacorsa-net-release-07.mermaid.jpg|large)
 
 New open-source software keeps appearing on the web and after creating a couple of other websites with [Mambo](https://en.wikipedia.org/wiki/Mambo_%28software%29) and [Joomla CMS](https://www.joomla.org) it felt time to move **dacorsa.net** over to this more modern software.
-Ofcourse my [Joomla](https://www.joomla.org) implementation of **dacorsa.net** kept my dedicated [SQL database](https://www.mysql.com) which by now had grown quite big.  
+My custom [Joomla](https://www.joomla.org) implementation of **dacorsa.net** kept my dedicated [SQL database](https://www.mysql.com) which by now had grown quite big.  
 After many years of patiently waiting for a chance, I was finally able to acquire the [.com](https://en.wikipedia.org/wiki/.com) domain name, so the site continued to live on as **dacorsa.com**.
 
 To keep the content of the whole database safe, an offline 'origin' database was (re-)introduced (maintained almost daily) and regular, but random, snapshots were copied to the online database.
