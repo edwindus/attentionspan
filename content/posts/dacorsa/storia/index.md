@@ -10,7 +10,7 @@ summary: "25 years of digital Ferrari archiving and refactoring database publish
 ---
 
 _Sure, I might have had a Ferrari poster on the wall as a child, but my fascination for Ferrari started in 1990 with the [Bburago](https://en.wikipedia.org/wiki/Bburago) Ferrari F40 model ([cod. 3032](https://albaco.com/products/ferrari_f40_red_by_bburago_1-18_3032)).
-Everything just happened to evolve in the next 25 years to (what is now) [dacorsa.com](https://dacorsa.com).
+Several years later there was the internet and everything just happened to evolve in the next 25 years to (what is now) [dacorsa.com](https://dacorsa.com).
 This post will summarize (in rather technical) detail all the different incarnations of the website and database._ 
 
 # Prelude
@@ -178,7 +178,7 @@ Some numbers at the time of this writing:
 
 ### Publish Step
 The purpose of this step, implemented completely in SQL scripting, is to create a snapshot of the database (described above), denormalized and containing only the published records.
-The whole database also contains informatie not ready for publication or even blocked from ever being published publicly.
+The whole database also contains information not ready for publication or even blocked from ever being published publicly.
 
 ### Generate Step
 The purpose of this step to generate some sort of publication from the database using a lot of custom written java programs.
