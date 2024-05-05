@@ -6,7 +6,7 @@ sidebar: false
 tags: ["Jokers Wild Tribute"]
 preview: "_preview.jpg"
 hero: "_hero.jpg"
-summary: "Introductie van de Jokers Wild gokkast en het bepalen van een aanpak om een Tribute te bouwen."
+summary: "Introductie van de Jokers Wild gokkast en het bepalen van een aanpak om een Tribute te bouwen"
 ---
 
 Een paar maanden geleden kwam ik dit leuke [kickstarter-initiatief](https://www.kickstarter.com/projects/alexklein/kano-a-computer-anyone-can-make) tegen genaamd [Kano](http://www.kano.me/).

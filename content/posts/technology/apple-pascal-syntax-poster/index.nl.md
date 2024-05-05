@@ -6,7 +6,7 @@ sidebar: false
 tags: []
 preview: "_preview.jpg"
 hero: "_hero.jpg"
-summary: "Deze vintage Apple Pascal syntax-poster uit 1979 heeft een behoorlijk interessant verhaal en is ook een origineel stukje geschiedenis van software-engineering."
+summary: "Deze vintage Apple Pascal syntax-poster uit 1979 heeft een behoorlijk interessant verhaal en is ook een origineel stukje geschiedenis van software-engineering"
 ---
 
 Een paar jaar geleden kwam ik deze officiële Apple-poster uit 1979 tegen.

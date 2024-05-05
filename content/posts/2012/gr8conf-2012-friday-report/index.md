@@ -6,7 +6,7 @@ sidebar: false
 tags: ["grails","conference"]
 preview: "_preview.jpg"
 hero: "_hero.jpg"
-summary: "Attending the final day of the 2012 international Grails User Conference in Copenhagen."
+summary: "Attending the final day of the 2012 international Grails User Conference in Copenhagen"
 ---
 
 

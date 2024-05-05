@@ -6,7 +6,7 @@ sidebar: false
 tags: ["grails","development"]
 preview: "_preview.png"
 hero: ""
-summary: "Some design considerations after a slow start developing my Flickr API plugin for Grails."
+summary: "Some design considerations after a slow start developing my Flickr API plugin for Grails"
 ---
 
 In the first weeks after [GR8Conf](http://gr8conf.eu/) I enthusiastically started with the blog and development of the plugin. Sadly we had to deal with an event in real life that thoroughly consumed all our energy and enthusiasm.

@@ -6,7 +6,7 @@ sidebar: false
 tags: ["Jokers Wild Tribute"]
 preview: "_preview.jpg"
 hero: ""
-summary: "De tribute machine beoogt geen exacte replica te zijn, maar het artwork moet toch het juiste gevoel overbrengen."
+summary: "De tribute machine beoogt geen exacte replica te zijn, maar het artwork moet toch het juiste gevoel overbrengen"
 ---
 
 Tot nu toe kon ik slechts twee websites vinden met wat informatie over de originele (Nederlandse) fruitmachine Jokers Wild gebouwd door [Bell-Fruit Manufacturing Co. Ltd.](http://www.bellfruitgames.co.uk/bell-fruit-group/about-us).

@@ -6,7 +6,7 @@ sidebar: false
 tags: ["Jokers Wild Tribute"]
 preview: "_preview.jpg"
 hero: ""
-summary: "Just mimicking the original artwork for the different panels is good enough, but still a challenging job."
+summary: "Just mimicking the original artwork for the different panels is good enough, but still a challenging job"
 ---
 
 The HUD and gameplay of my JokersWild Tribute machine are heavily inspired and in some sense pretty close to the original slot machine. My drawings are somewhat simpler but I think I managed to catch the essence. The vector drawings were converted to a PDF file and sent to a specialist that printed the design in colour on a semi-transparent piece of plastic (so that it could be backlit obviously).

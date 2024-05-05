@@ -6,7 +6,7 @@ sidebar: false
 tags: ["grails","conference"]
 preview: "_preview.jpg"
 hero: "_hero.jpg"
-summary: "Celebrating the 5th anniversary of the international Grails User Conference in Copenhagen."
+summary: "Celebrating the 5th anniversary of the international Grails User Conference in Copenhagen"
 ---
 
 ## 5th Anniversary

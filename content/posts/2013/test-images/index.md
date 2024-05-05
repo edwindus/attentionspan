@@ -6,7 +6,7 @@ sidebar: false
 tags: ["grails","development"]
 preview: "_preview.jpg"
 hero: "_hero.jpg"
-summary: "Retrieving a versatile set of test images from a sampler CD of the great but long abandoned Kodak PhotoCD format."
+summary: "Retrieving a versatile set of test images from a sampler CD of the great but long abandoned Kodak PhotoCD format"
 ---
 
 George Eastman created the Eastman Kodak Company in 1880 and revolutionised photography dominating the film market with a 90% market share in the 1970s. In that same era, Kodak created the first digital camera prototypes but they did not want to threaten their prospering film business and did not follow through at that time.

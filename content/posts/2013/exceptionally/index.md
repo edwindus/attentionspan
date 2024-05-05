@@ -6,7 +6,7 @@ sidebar: false
 tags: ["grails","development"]
 preview: "_preview.jpg"
 hero: ""
-summary: "Coming up with a strategy for handling error and exceptions, while separating Programmers from Humans."
+summary: "Coming up with a strategy for handling error and exceptions, while separating Programmers from Humans"
 ---
 
 Trying to come up with a strategy for [handling errors and exceptions](http://mrhaki.blogspot.nl/2009/09/groovy-goodness-exception-handling.html), we came across some [interesting discussions](http://forum.springsource.org/showthread.php?68285-Service-Layer-Exceptions) and/or Holy Wars.  

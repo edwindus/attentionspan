@@ -6,7 +6,7 @@ sidebar: false
 tags: ["Jokers Wild Tribute"]
 preview: "_preview.jpg"
 hero: "_hero.jpg"
-summary: "Counting and categorizing the different sets of lights on the display while testing with a Neopixel strip."
+summary: "Counting and categorizing the different sets of lights on the display while testing with a Neopixel strip"
 ---
 
 Many months have passed, but I found some time to work on the Arduino project again. The objective of the next step is to do a proof of concept on the HUD (head-up display) of the slotmachine. While I have no idea if HUD is the "official" way to refer to the top half of the slotmachine, where the feature-game is played, it seems like a sensible name.

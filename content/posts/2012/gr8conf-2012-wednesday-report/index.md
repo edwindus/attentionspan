@@ -6,7 +6,7 @@ sidebar: false
 tags: ["grails","conference"]
 preview: "_preview.jpg"
 hero: "_hero.jpg"
-summary: "Arriving the University Day commencing the 2012 international Grails User Conference in Copenhagen."
+summary: "Arriving the University Day commencing the 2012 international Grails User Conference in Copenhagen"
 ---
 
 So we went to [GR8Conf](http://gr8conf.eu) at the [IT-Universitetet i København](http://www.itu.dk/en/). To my shame, I must say, that I never travelled to any of the Scandinavian countries and I was surprised how close it actually is to Holland. From the short insight we got in Denmark this is certainly a region to visit more often. Friendly and disciplined people, well-organised while keeping 'savoir-vivre'.

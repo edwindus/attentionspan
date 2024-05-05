@@ -7,7 +7,7 @@ tags: ["grails","conference"]
 preview: "_preview.jpg"
 hero: ""
 summary: ""
-summary: "Attending the first official day of the GR8Conf 2012 at the Copenhagen IT University."
+summary: "Attending the first official day of the GR8Conf 2012 at the Copenhagen IT University"
 
 ---
 

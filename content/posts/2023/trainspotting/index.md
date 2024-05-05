@@ -6,7 +6,7 @@ sidebar: false
 tags: []
 preview: "_preview.jpg"
 hero: "_hero.jpg"
-summary: "Why are you always typing away adding Ferrari chassisnumbers to a database ?"
+summary: "Why are you always typing away adding Ferrari chassisnumbers to a database?"
 ---
 
 # Top 40

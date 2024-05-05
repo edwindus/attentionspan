@@ -6,7 +6,7 @@ sidebar: false
 tags: ["Prince"]
 preview: "_preview.jpg"
 hero: "_hero.jpg"
-summary: "Enkele verhalen over hoe we (zoals ik het me herinner) kaartjes kregen toen Prince in 1987 mijn woonplaats bezocht."
+summary: "Enkele verhalen over hoe we (zoals ik het me herinner) kaartjes kregen toen Prince in 1987 mijn woonplaats bezocht"
 ---
 
 Wat mijmeringen na het beluisteren van de [7e aflevering](https://podcasts.apple.com/nl/podcast/prince-official-podcast/id1488187430?l=en&i=1000526528961) van de officiële Prince Podcast waarin ik kon genieten van prachtige verhalen over de _Sign O' the Times Tour_ in Utrecht.

@@ -6,7 +6,7 @@ sidebar: false
 tags: ["Prince"]
 preview: "_preview.jpg"
 hero: "_hero.png"
-summary: "Always wanted to have a copy of this Tour Poster so I decided to draw it and publish the drawing online for everyone's enjoyment."
+summary: "Always wanted to have a copy of this Tour Poster so I decided to draw it and publish the drawing online for everyone's enjoyment"
 ---
 
 In [another post](../sign-o-the-times) I detailed how the [Sign 'O the Times Tour](http://princevault.com/index.php?title=Sign_O%27_The_Times_Tour) visited our hometown an the [Galgenwaard concert](http://princevault.com/index.php?title=20_June_1987) was the first substantial concert we ever attended.

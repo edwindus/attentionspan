@@ -6,7 +6,7 @@ sidebar: false
 tags: ["Jokers Wild Tribute"]
 preview: "_preview.jpg"
 hero: ""
-summary: "Een klein eerbetoon aan de gokautomaat uit de vroege jaren tachtig die verschillende herbruikbare onderdelen schonk."
+summary: "Een klein eerbetoon aan de gokautomaat uit de vroege jaren tachtig die verschillende herbruikbare onderdelen schonk"
 ---
 
 En dus heb je dat idee voor een project in je hoofd, en vele uren gaan voorbij met het surfen op [internet](http://en.m.wikipedia.org/wiki/Internets) en zelfs de enorme papieren catalogus van [Conrad Electronic ](https://www.conrad.nl/nl/componenten.html).

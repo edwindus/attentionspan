@@ -6,7 +6,7 @@ sidebar: false
 tags: ["Jokers Wild Tribute"]
 preview: "_preview.jpg"
 hero: "_hero.jpg"
-summary: "Tellen en categoriseren van het display tijdens het testen met een Neopixel-strip."
+summary: "Tellen en categoriseren van het display tijdens het testen met een Neopixel-strip"
 ---
 
 Er zijn vele maanden verstreken, maar ik heb wat tijd gevonden om weer aan het Arduino-project te werken.

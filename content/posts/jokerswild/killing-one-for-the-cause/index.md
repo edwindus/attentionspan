@@ -6,7 +6,7 @@ sidebar: false
 tags: ["Jokers Wild Tribute"]
 preview: "_preview.jpg"
 hero: ""
-summary: "A small tribute to the early eighties slotmachine that donated several reusable parts."
+summary: "A small tribute to the early eighties slotmachine that donated several reusable parts"
 ---
 
 And so you have this idea for a project in your head, and many hours pass by browsing the [internets](http://en.m.wikipedia.org/wiki/Internets) and even the massive paper catalogue of [Conrad Electronic](https://www.conrad.nl/nl/componenten.html). Learning about components, their sources and their prices.

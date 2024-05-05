@@ -30,3 +30,28 @@ other = "Personal"
 other = "All&nbsp;Rights&nbsp;Reserved"
 [nederland]
 other = "Netherlands"
+
+[long_month_1 ]
+other = "January"
+[long_month_2 ]
+other = "February"
+[long_month_3 ]
+other = "April"
+[long_month_4 ]
+other = "April"
+[long_month_5 ]
+other = "May"
+[long_month_6 ]
+other = "June"
+[long_month_7 ]
+other = "July"
+[long_month_8 ]
+other = "August"
+[long_month_9 ]
+other = "September"
+[long_month_10]
+other = "October"
+[long_month_11]
+other = "November"
+[long_month_12]
+other = "December"

@@ -6,7 +6,7 @@ sidebar: false
 tags: ["Jokers Wild Tribute"]
 preview: "_preview.jpg"
 hero: ""
-summary: "De originele afbeeldingen voor de verschillende panelen nabootsen is goed genoeg, maar nog steeds een uitdagende klus."
+summary: "De originele afbeeldingen voor de verschillende panelen nabootsen is goed genoeg, maar nog steeds een uitdagende klus"
 ---
 
 De HUD en gameplay van mijn JokersWild Tribute-machine zijn sterk geïnspireerd en komen in zekere zin vrij dicht in de buurt van de originele gokautomaat.

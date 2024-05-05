@@ -6,7 +6,7 @@ sidebar: false
 tags: []
 preview: "_preview.jpg"
 hero: "_hero.jpg"
-summary: "Een stel foto's, gedachten en excuses bij het maken van een boekenkast voor mijn autoboeken."
+summary: "Een stel foto's, gedachten en excuses bij het maken van een boekenkast voor mijn autoboeken"
 ---
 
 ## Er was eens
