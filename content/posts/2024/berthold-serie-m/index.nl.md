@@ -20,35 +20,42 @@ Het is achterhaald door de populariteit van de personal computer en desktop publ
 
 ### Berthold Textstation
 
-Het Berthold**Textstation** is een werkplek voor het opmaken van tekstpagina's en ingewikkeld zetwerk, met tekst en lijnelementen. Doordat Berthold**Textstation** werkt met ProfiPage, het nieuwe universele standaard zet-programma van Berthold, wordt zetwerk sneller en eenvoudiger opgemaakt.
+Het Berthold**Textstation** is een werkplek voor het opmaken van tekstpagina's en ingewikkeld zetwerk, met tekst en lijnelementen.
+Doordat Berthold**Textstation** werkt met ProfiPage, het nieuwe universele standaard zet-programma van Berthold, wordt zetwerk sneller en eenvoudiger opgemaakt.
 
 ![Berthold**Teststation**](berthold-textstation.jpg)
 ![https://archive.org/details/berthold-textstation-aug-1988-nl](icons/berthold-textstation-aug-1988-nl.jpg|medium)
 
 ### Berthold EasyScanner
 
-Met de Berthold**EasyScanner** worden halftoon- en lijnmogellen gedigitaliseerd; die later op het Berthold**Workstation** in het overeenkomstige zetwerk worden geplaatst. Gekoppeld aan een fotozetter van Berthold, kan men dan de complete pagina met teksten, foto's, logo's, lijn- en rasterelementen belichten.
+Met de Berthold**EasyScanner** worden halftoon- en lijn-modellen gedigitaliseerd; die later op het Berthold**Workstation** in het overeenkomstige zetwerk worden geplaatst.
+Gekoppeld aan een fotozetter van Berthold, kan men dan de complete pagina met teksten, foto's, logo's, lijn- en rasterelementen belichten.
 
 ![Berthold**EasyScanner**](berthold-easyscanner.jpg)
 ![https://archive.org/details/berthold-easyscanner-aug-1988-nl](icons/berthold-easyscanner-aug-1988-nl.jpg|medium)
 
 ### Berthold HRScanner
 
-De Berthold**HRScanner** is een vlakbedscanner met een hoog oplossend vermogen voor zwart/wit weergave. Deze scanner kan worden ingezet voor de digitalisering van zowel halftoon- als lijn-afbeeldingen. Dit is mogelijk door het oplossend vermogen van 1 tot 100 lijnen per millimeter. De machine is uitgerust met de CCD techniek waarmee de kleur- en toonwaarde, onafhankelijk van het formaat, wordt gecontroleerd.
+De Berthold**HRScanner** is een vlakbedscanner met een hoog oplossend vermogen voor zwart/wit weergave.
+Deze scanner kan worden ingezet voor de digitalisering van zowel halftoon- als lijn-afbeeldingen.
+Dit is mogelijk door het oplossend vermogen van 1 tot 100 lijnen per millimeter.
+De machine is uitgerust met de CCD techniek waarmee de kleur- en toonwaarde, onafhankelijk van het formaat, wordt gecontroleerd.
 
 ![Berthold**HRScanner**](berthold-hr-scanner.jpg)
 ![https://archive.org/details/berthold-hrscanner-aug-1988-nl](icons/berthold-hrscanner-aug-1988-nl.jpg|medium)
 
 ### Berthold Laserstation
 
-Met het Berthold**Laserstation**, de laserbelichter van Berthold, wordt niet alleen de productiviteit verhoogd, maar zijn ook nieuwe zettechnische prestaties mogelijk. Het Laserstation bestaat uit een Berthold**RasterServer** (RIP en PC) en een Berthold**Laserrecorder**.
+Met het Berthold**Laserstation**, de laserbelichter van Berthold, wordt niet alleen de productiviteit verhoogd, maar zijn ook nieuwe zettechnische prestaties mogelijk.
+Het Laserstation bestaat uit een Berthold**RasterServer** (RIP en PC) en een Berthold**Laserrecorder**.
 
 ![Berthold**Laserstation**](berthold-laserstation.jpg)
 ![https://archive.org/details/berthold-laserstation-aug-1988-nl](icons/berthold-laserstation-aug-1988-nl.jpg|medium)
 
 ### Berthold RecorderLI
 
-De Berthold**RecorderLI** is een laser-recordersysteem dat complete pagina's kan belichten, inclusief teksten, foto's, logo's, lijn- en raster-elementen. Met de recorder kunnen snel en efficiënt kant en klare, complete films met lijn- en halftoonbeelden worden uitgedraaid.
+De Berthold**RecorderLI** is een laser-recordersysteem dat complete pagina's kan belichten, inclusief teksten, foto's, logo's, lijn- en raster-elementen.
+Met de recorder kunnen snel en efficiënt kant en klare, complete films met lijn- en halftoonbeelden worden uitgedraaid.
 
 ![Berthold**RecorderLI**](berthold-recorder-li.jpg)
 ![https://archive.org/details/berthold-recorder-li-aug-1988-nl](icons/berthold-recorder-li-aug-1988-nl.jpg|medium)
