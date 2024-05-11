@@ -1,12 +1,12 @@
 ---
-title: "Berthold fotografisch zetten"
+title: "Berthold opto-mechanische zetsystemen"
 date: 2024-05-05T12:12:00Z
 draft: true
 sidebar: false
 tags: []
 preview: "berthold-mft-and-tps.jpg"
 hero: ""
-summary: "Even omkijken naar de Berthold foto-mechanische apparaten die op mijn pad kwamen"
+summary: "Even omkijken naar de Berthold opto-mechanische apparaten die op mijn pad kwamen"
 ---
 
 _Fotozetwerk is een methode voor het instellen van lettertypen waarbij fotografie wordt gebruikt om kolommen met letters op een rol fotografisch papier te maken.
