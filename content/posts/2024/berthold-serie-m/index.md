@@ -207,7 +207,26 @@ With the recorder, complete films with line and halftone images can be produced 
 ![Berthold**RecorderLI**](berthold-recorder-li.jpg)
 ![https://archive.org/details/berthold-recorder-li-aug-1988-nl](icons/berthold-recorder-li-aug-1988-nl.jpg|large)
 
+Modern digital technology and practical software make the integrated editing of completely designed pages for graphic companies financially feasible and, given the competition, also necessary.
 
+The Berthold**RecorderLl** is ideally suited for illuminating the pages created by the Berthold**Workstations**.
+The integrated digital editing of texts, photos, logos, line and raster elements makes it possible not only to modify, tilt and rotate texts, but also to carry out all lithographic work on the Workstation.
+This makes complicated editing, copying and copying and other reprotechnical operations unnecessary.
+Creative text, raster and image manipulations are also possible, such as inverting, making transparent, overwriting and placing in the foreground or background, and the system has an extensive range of technical rasters.
+
+Photos scanned on the Berthold**EasyScanner** or on the Berthold**HRScanner** are saved in grayscale so that the images can be edited at any time on the Workstation.
+The Berthold**RasterlmageServer** enlarges and reduces the images to the size required for the page to be exposed, calculates the crop and rasterizes the halftone images.
+
+The special characters, logos and punctuation marks that can be created with the Berthold**LogoType** program are saved in the Berthold**RasterlmageServer** as a logo font and then treated as regular letters.
+In addition to exposing line and halftone images, the Berthold**LaserRecorder** can also illuminate letters from 1.06 to 200 mm capital height.
+The complete Berthold Letter Library is available for these letters in the form of Berthold**DiamondTypes**.
+The solution of 80 lines/mm in combination with the DiamondTypes meets the quality requirements set by Berthold and the market.
+
+The high output quality of the imager is partly achieved by two parallel processors in the Berthold**RasterlmageServer**.
+This allows the Berthold**LaserRecorder** to expose a 302 x 302 mm page with a grid of 80 lines/mm in 300 seconds.
+The maximum exposure size is 302 x 800 mm.
+
+The Berthold**RecorderLI** can be connected online to the Berthold**Workstation**, the Berthold**Textstation**, all autonomous keyboards and to the keyboards of the DMS 5000 and DMS 7000 system control panels.
 
 # Berthold RecorderCI
 The Berthold**RecorderCI** meets the highest possible quality standards with a resolution of 140 lines/mm.
@@ -215,6 +234,44 @@ The high quality and speed of this CRT recorder enables exposure of entire pages
 
 ![Berthold**RecorderCI**](berthold-recorder-ci.jpg)
 ![https://archive.org/details/berthold-recorder-ci-aug-1988-nl](icons/berthold-recorder-ci-aug-1988-nl.jpg|large)
+
+Superior letter quality and high rendering quality are the most important qualities that an illustrator must have.
+
+The BertholdRecorderCI meets the highest possible quality standards with a resolution of no less than 140 lines/mm.
+
+The high quality and speed of this CRT recorder enables exposure of complete pages including texts, photos, logos, line and raster elements with very high quality.
+
+The BertholdRecorderCI was developed for exposing films for the production of high-quality printed matter.
+The configuration consists of a CRT imager (the Berthold**HRRecorder**) and a Raster Image Processor (the Berthold**RasterlmageServer**).
+This allows you to illuminate texts, photos, logos, line and raster elements in a constant production flow.
+
+The integrated digital editing makes it possible not only to modify, tilt and rotate texts, but also to carry out all lithographic work on the Workstation.
+This makes complicated editing, copying and copying and other reprotechnical operations unnecessary.
+Creative text, raster and image manipulations are also possible, such as inverting, making transparent, overwriting and placing in the foreground or background, and the system has an extensive range of technical rasters.
+Connection functions enable creative changes, transparent text, raster and image overlays and the definition of foreground and background.
+The high resolution of 140 lines/mm offers great tonal dynamics of the screens.
+This also allows raster gradients to be exposed by the Berthold**HRRecorder**.
+
+Working drawings, typographic designs, illustrations and photos can be edited geometrically when constructing the complete page.
+They must then be digitized with the corresponding additional software or with a Berthold**Scanner**.
+
+Special characters, logos and vignettes, which can be created with the Berthold**LogoType** program, are saved in the BertholdR**asterlmageServer** as a logo font and then treated as regular letters.
+
+The high speed of the imager is achieved by two parallel processors in the Berthold**RasterlmageServer**.
+After a short preparation, the exposure begins, while the rest of the page to be exposed is still being made dynamically suitable.
+
+For the lighting of the text, the complete Berthold font library is available in the form of the Berthold**DiamondTypes**.
+These can be exposed from 4 (capital height 1.06 mm) to 453 didot points (capital height 120 mm) (capital height 240 mm in preparation).
+
+#### BertholdWorknet
+With the Berthold**Worknet** it is possible to put together a tailor-made text and image layout system for the layout of complete pages with text, line and halftone elements.
+The Berthold**Worknet** works with a very high transfer speed between different input systems, storage media, formatting terminals and recorders.
+
+Photos scanned on the Berthold**EasyScanner** or on the Berthold**HRScanner** are saved in grayscale so that the images can be edited at any time on the Workstation.
+The Berthold**RasterlmageServer** enlarges and reduces the images to the size required for the page to be exposed, calculates the crop and rasterizes the halftone images.
+
+Additionally, the Berthold**Laser printer** is available as an option.
+This laser printer offers the option of cost-effectively printing letter-identical complete pages for correction or layout on typewriter paper.
 
 
 

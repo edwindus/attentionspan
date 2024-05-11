@@ -211,6 +211,27 @@ Met de recorder kunnen snel en efficiënt kant en klare, complete films met lijn
 
 
 
+Moderne digitale techniek en praktische software maken de geïntegreerde bewerking van compleet opgemaakte pagina’s voor grafische bedrijven financieel haalbaar en, gezien de concurrentie, ook noodzakelijk.
+
+De Berthold**RecorderLl** is bij uitstek geschikt voor het belichten van de door de Berthold**Workstations** opgemaakte pagina’s.
+Door de geïntegreerde digitale bewerking van teksten, foto's, logo's, lijn- en rasterelementen is het niet alleen mogelijk teksten te modificeren, te kantelen en te draaien, maar ook alle lithografische werkzaamheden uit te voeren op het Workstation.
+Hierdoor zijn gecompliceerde montages, in- en afkopieerwerkzaamheden en andere reprotechnische handelingen overbodig geworden.
+Ook zijn er creatieve tekst-, raster- en beeldmanipulaties mogelijk, zoals omkeren, transparant maken, overschrijven en op voor- of achtergrond plaatsen en heeft het systeem een uitgebreid assortiment technische rasters.
+
+Foto's die op de Berthold**EasyScanner** of op de Berthold**HRScanner** zijn gescand, worden in de grijswaarden opgeslagen, zodat de afbeeldingen op ieder moment op het Workstation kunnen worden bewerkt.
+De Berthold**RasterlmageServer** vergroot en verkleint de beelden naar de maatstaf die nodig is in de te belichte pagina, berekent de uitsnede en rastert de halftoonbeelden.
+
+De speciale tekens, logo's en leestekens, die met het Berthold**LogoType** programma kunnen worden gemaakt, worden in de Berthold**RasterlmageServer** als logofont opgeslagen en daarna als gewone letters behandeld.
+Naast belichting van lijn- en halftoonbeelden kan de Berthold**LaserRecorder** ook letters belichten van 1.06 tot 200 mm kapitaalhoogte.
+Voor deze letters staat de complete Berthold-Letterbibliotheek ter beschikking in de vorm van de Berthold**DiamondTypes**.
+De oplossing van 80 lijnen/mm in combinatie met de DiamondTypes, voldoet aan de door Berthold en door de markt gestelde kwaliteitseisen.
+
+De hoge uitvoerkwaliteit van de belichter wordt mede bereikt door twee parallel werkende processoren in de Berthold**RasterlmageServer**.
+Hierdoor kan de Berthold**LaserRecorder** een pagina van 302 x 302 mm met een raster van 80 lijnen/mm in 300 seconden belichten.
+Het maximale belichtingsformaat bedraagt 302 x 800 mm.
+
+De Berthold**RecorderLI** kan on-line worden aangesloten op het Berthold**Workstation**, het Berthold**Textstation**, alle autonome toetsenborden en op de toetsenborden van de systeemcentrales DMS 5000 en DMS 7000.
+
 # Berthold RecorderCI
 De Berthold**RecorderCI** voldoet met een oplossend vermogen van 140 lijnen/mm aan de hoogstmogelijke kwaliteitsnormen.
 De hoge kwaliteit en snelheid van deze CRT recorder maakt belichting van complete pagina's inclusief teksten, foto's, logo's, lijn- en rasterelementen mogelijk met een zeer hoge kwaliteit.
@@ -219,6 +240,44 @@ De hoge kwaliteit en snelheid van deze CRT recorder maakt belichting van complet
 ![https://archive.org/details/berthold-recorder-ci-aug-1988-nl](icons/berthold-recorder-ci-aug-1988-nl.jpg|large)
 
 
+
+Superieure letterkwaliteit en een hoge weergavekwaliteit zijn de belangrijkste eigenschappen waaraan een belichter moet voldoen.
+
+De BertholdRecorderCI voldoet met een oplossend vermogen van maar liefst 140 lijnen/mm aan de hoogstmogelijke kwaliteitsnormen.
+
+De hoge kwaliteit en snelheid van deze CRT recorder maakt belichting van complete pagina’s inclusief teksten, foto's, logo's, lijn- en rasterelementen mogelijk met een zeer hoge kwaliteit.
+
+De BertholdRecorderCI werd ontwikkeld voor het belichten van films voor de vervaardiging van hoogwaardig kwaliteitsdrukwerk.
+De configuratie bestaat uit een CRT belichter, (de Berthold**HRRecorder**) en een Raster Image Processor (de Berthold**RasterlmageServer**).
+Daarmee kan men teksten, foto's, logo's, lijn- en rasterelementen in een constante produktiestroom belichten.
+
+Door de geïntegreerde digitale bewerking is het niet alleen mogelijk teksten te modificeren, te kantelen en te draaien maar ook alle lithografische werkzaamheden uit te voeren op het Workstation.
+Hierdoor zijn gecompliceerde montages, in- en afkopieerwerkzaamheden en andere reprotechnische handelingen overbodig geworden.
+Ook zijn er creatieve tekst-, raster- en beeldmanipulaties mogelijk, zoals omkeren, transparant maken, overschrijven en op voor- of achtergrond plaatsen en heeft het systeem een uitgebreid assortiment technische rasters.
+Verbindingsfuncties maken creatieve veranderingen, transparante tekst-, raster- en beeldoverlappingen en de bepaling van voor- en achtergrond mogelijk.
+De hoge oplossing van 140 lijnen/mm biedt een grote toonwaarde-dynamiek van de rasters.
+Hierdoor kunnen er ook rasterverlopen door de Berthold**HRRecorder** worden belicht.
+
+Werktekeningen, typografische vormgevingen, illustraties en foto's kunnen bij de opbouw van de complete pagina geometrisch worden bewerkt.
+Ze moeten dan worden gedigitaliseerd met de overeenkomstige, aanvullende software of met een Berthold**Scanner**.
+
+Speciale tekens, logo's en vignetten, die met het Berthold**LogoType** programma kunnen worden gemaakt, worden in de BertholdR**asterlmageServer** als logofont opgeslagen en daarna als gewone letters behandeld.
+
+De hoge snelheid van de belichter wordt verkregen door twee parallel werkende processors in de Berthold**RasterlmageServer**.
+Na een korte voorbereiding begint de belichting, terwijl de rest van de te belichten pagina nog dynamisch geschikt wordt gemaakt.
+
+Voor de belichting van de tekst kan men beschikken over de complete Berthold letterbibliotheek in de vorm van de Berthold**DiamondTypes**.
+Deze kunnen van 4 (kapitaalhoogte 1.06 mm) tot 453 didotpunt (kapitaalnoogte 120 mm)worden belicht (Kapitaalhoogte 240 mm in voorbereiding).
+
+#### BertholdWorknet
+Met het Berthold**Worknet** is het mogelijk een op maat gesneden tekst- en beeldopmaaksysteem samen te stellen, voor de opmaak van complete pagina's met tekst, lijn- en halftoonelementen.
+Het Berthold**Worknet** werkt met een zeer hoge overdrachtsnelheid tussen verschillende invoersystemen, opslagmedia, opmaakterminals en recorders.
+
+Foto's die op de Berthold**EasyScanner** of op de Berthold**HRScanner** zijn gescand, worden in de grijswaarden opgeslagen, zodat de afbeeldingen op ieder moment op het Workstation kunnen worden bewerkt.
+De Berthold**RasterlmageServer** vergroot en verkleint de beelden naar de maatstaf die nodig is in de te belichten pagina, berekent de uitsnede en rastert de halftoonbeelden.
+
+Aanvullend staat als optie de Berthold**Laserprinter** ter beschikking.
+Deze laserdrukker biedt de mogelijkheid om voordelig letteridentieke complete pagina afdrukken voor correctie of het lay-outen op schrijfmachinepapier te verkrijgen.
 
 # Berthold SofhaRIP
 De Berthold**SofhaRIP** is een [Raster Image Processor](https://nl.wikipedia.org/wiki/Raster_Image_Processor) voor filmuitvoer van [PostScript&reg;](https://nl.wikipedia.org/wiki/PostScript) data naar Berthold recorders.
