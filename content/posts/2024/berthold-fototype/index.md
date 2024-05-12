@@ -38,6 +38,7 @@ You can convince yourself of this by examining the unsurpassed sharpness and qua
 
 
 
+---
 # &laquo;berthold gst 4000&raquo;
 ![**&laquo;berthold gst 4000&raquo;** Graphic Setting Terminal](berthold-gts-4000.jpg)
 ![https://archive.org/details/berthold-product-summary-may-1985-de-fr-gb/page/6/mode/2up](icons/berthold-product-summary-may-1985-de-fr-gb.jpg|large)
@@ -62,6 +63,7 @@ Contour setting program, extensive kerning program, exception hyphenation dictio
 
 
 
+---
 # &laquo;berthold mft 4000&raquo;
 ![**&laquo;berthold mft 4000&raquo;** Multi Functional Terminal](berthold-mft-4000.jpg)
 ![https://archive.org/details/BertholdFototypeMFT4000Brochure](icons/berthold-fototype-mft-4000.jpg|large)
@@ -88,6 +90,7 @@ Contour setting program, extensive kerning program, exception hyphenation dictio
 
 
 
+---
 # &laquo;berthold tps 6000&raquo;
 ![*&laquo;berthold tps 6000&raquo;* Text Production System](berthold-tps-6000.jpg)
 ![https://archive.org/details/BertholdFototypeTPS6000Brochure](icons/berthold-fototype-tps-6000.jpg|large)
@@ -110,6 +113,7 @@ Can be connected to **&laquo;berthold dms 7000&raquo;**.
 
 
 
+---
 # &laquo;berthold ads arabic 3000&raquo;
 ![Berthold Akzidenz Dialogue System for Arabic texts](berthold-ads-arabic-3000.jpg)
 ![https://archive.org/details/berthold-product-summary-may-1985-de-fr-gb/page/9/mode/2up](icons/berthold-product-summary-may-1985-de-fr-gb.jpg|large)
@@ -130,6 +134,7 @@ Possible connection of the instant display screen **&laquo;berthold sbs arabic&r
 
 
 
+---
 # Berthold System 7000
 ![Berthold modular System 7000 for typesetting professional](berthold-system-7000.jpg)
 ![https://archive.org/details/BertholdFototypeSystem7000](icons/berthold-fototype-system-7000.jpg|large)
@@ -145,6 +150,7 @@ The system is primarily conceived for those firms which mainly deal with busines
 
 
 
+---
 # &laquo;berthold tps 7001s&raquo;
 ![Berthold System 7000 onlineline typesetting terminal](berthold-tps-7001s.jpg)
 ![https://archive.org/details/berthold-product-summary-may-1985-de-fr-gb/page/11/mode/2up](icons/berthold-product-summary-may-1985-de-fr-gb.jpg|large)
@@ -159,6 +165,7 @@ The computer of the instant display screen **&laquo;berthold sbs 70015&raquo;** 
 
 
 
+---
 # Berthold &laquo;FOX&raquo; System
 ![Berthold **&laquo;FOX&raquo;** integrated system](berthold-fox-system.jpg)
 ![https://archive.org/details/BertholdFototypeFOXBrochure](icons/berthold-fototype-fox.jpg|large)
@@ -175,6 +182,7 @@ In this way, Berthold makes performance features possible for small companies wh
 
 
 
+---
 # &laquo;berthold acs 2000&raquo;
 ![**&laquo;berthold acs 2000&raquo;** compact system ](berthold-acs-3200.jpg)
 ![https://archive.org/details/berthold-product-summary-may-1985-de-fr-gb/page/13/mode/2up](icons/berthold-product-summary-may-1985-de-fr-gb.jpg|large)
@@ -193,6 +201,7 @@ Standard equipment: multi-format cassette and optional: roll film cassette.
 
 
 
+---
 # &laquo;berthold tps 8000&laquo;
 ![**&laquo;berthold tps 8000&laquo;** Text Production System](berthold-tps-8000.jpg)
 ![https://archive.org/details/berthold-product-summary-may-1985-de-fr-gb/page/15/mode/2up](icons/berthold-product-summary-may-1985-de-fr-gb.jpg|large)
@@ -215,6 +224,7 @@ In addition to the terminals, many other peripheral units are available: CRT pho
 
 
 
+---
 # &laquo;berthold sbs&raquo;
 ![**&laquo;berthold sbs&raquo;** Instant Display Screen](berthold-sbs.jpg)
 ![https://archive.org/details/BertholdFototypeSBS3001SeitenbildschirmBrochure](icons/berthold-fototype-sbs-3001.jpg|large)
@@ -227,6 +237,7 @@ The results of corrections are likewise immediately displayed.
 
 
 
+---
 # &laquo;berthold apu 6016&raquo;
 ![**&laquo;berthold apu 6016&raquo;** Photo Unit](berthold-apu-6016.jpg)
 ![https://archive.org/details/BertholdFototypeAPU6016Brochure](icons/berthold-fototype-apu-6016.jpg|large)
@@ -240,6 +251,7 @@ Opto-mechanical, high-performance precision photo unit for all phototypesetting 
 
 
 
+---
 # &laquo;berthold tpu 3608&raquo;
 ![**&laquo;berthold tpu 3608&raquo;** Photo Unit](berthold-tpu-3608.jpg)
 ![https://archive.org/details/berthold-product-summary-may-1985-de-fr-gb/page/18/mode/2up](icons/berthold-product-summary-may-1985-de-fr-gb.jpg|large)
@@ -254,6 +266,7 @@ High-speed precision photo unit with great output performance even for most comp
 
 
 
+---
 # &laquo;berthold crs 6911&raquo;
 ![**&laquo;berthold crs 6911&raquo;** Digital Roll Film Photo Unit](berthold-crs-6911.jpg)
 ![https://archive.org/details/berthold-product-summary-may-1985-de-fr-gb/page/18/mode/2up](icons/berthold-product-summary-may-1985-de-fr-gb.jpg|large)
@@ -267,6 +280,7 @@ Digital roll film photo unit with full page output, operates online.
 
 
 
+---
 # &laquo;berthold crs 8901&raquo;
 ![**&laquo;berthold crs 8901&raquo;** Photo Unit](berthold-crs-8901.jpg)
 ![https://archive.org/details/berthold-product-summary-may-1985-de-fr-gb/page/20/mode/2up](icons/berthold-product-summary-may-1985-de-fr-gb.jpg|large)

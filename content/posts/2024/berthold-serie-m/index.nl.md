@@ -64,6 +64,7 @@ Deze laserdrukker biedt de mogelijkheid om voordelig letteridentieke complete pa
 
 
 
+---
 # Berthold Textstation
 Het Berthold**Textstation** is een werkplek voor het opmaken van tekstpagina's en ingewikkeld zetwerk, met tekst en lijnelementen.
 Doordat Berthold**Textstation** werkt met ProfiPage, het nieuwe universele standaard zet-programma van Berthold, wordt zetwerk sneller en eenvoudiger opgemaakt.
@@ -105,6 +106,7 @@ Aangesloten op het Berthold**Worknet** kan het Textstation rechtstreeks de data 
 
 
 
+---
 # Berthold EasyScanner
 Met de Berthold**EasyScanner** worden halftoon- en lijn-modellen gedigitaliseerd; die later op het Berthold**Workstation** in het overeenkomstige zetwerk worden geplaatst.
 Gekoppeld aan een fotozetter van Berthold, kan men dan de complete pagina met teksten, foto's, logo's, lijn- en rasterelementen belichten.
@@ -142,6 +144,7 @@ De hogere oplossing bij lijnmodellen wordt bereikt door een grijswaarde-interpre
 
 
 
+---
 # Berthold HRScanner
 De Berthold**HRScanner** is een vlakbedscanner met een hoog oplossend vermogen voor zwart/wit weergave.
 Deze scanner kan worden ingezet voor de digitalisering van zowel halftoon- als lijn-afbeeldingen.
@@ -174,6 +177,7 @@ Stofdeeltjes kunnen met een software-filter worden geretoucheerd.
 
 
 
+---
 # Berthold Laserstation
 Met het Berthold**Laserstation**, de laserbelichter van Berthold, wordt niet alleen de productiviteit verhoogd, maar zijn ook nieuwe zettechnische prestaties mogelijk.
 Het Laserstation bestaat uit een Berthold**RasterServer** (RIP en PC) en een Berthold**Laserrecorder**.
@@ -206,6 +210,7 @@ Het Berthold**Laserstation** kan on-line worden aangesloten op het Berthold**Wor
 
 
 
+---
 # Berthold RecorderLI
 De Berthold**RecorderLI** is een laser-recordersysteem dat complete pagina's kan belichten, inclusief teksten, foto's, logo's, lijn- en raster-elementen.
 Met de recorder kunnen snel en efficiënt kant en klare, complete films met lijn- en halftoonbeelden worden uitgedraaid.
@@ -230,6 +235,7 @@ De Berthold**RecorderLI** kan on-line worden aangesloten op het Berthold**Workst
 
 
 
+---
 # Berthold RecorderCI
 De Berthold**RecorderCI** voldoet met een oplossend vermogen van 140 lijnen/mm aan de hoogstmogelijke kwaliteitsnormen.
 De hoge kwaliteit en snelheid van deze CRT recorder maakt belichting van complete pagina's inclusief teksten, foto's, logo's, lijn- en rasterelementen mogelijk met een zeer hoge kwaliteit.
@@ -256,6 +262,7 @@ Deze kunnen van 4 (kapitaalhoogte 1.06 mm) tot 453 didotpunt (kapitaalnoogte 120
 
 
 
+---
 # Berthold SofhaRIP
 De Berthold**SofhaRIP** is een [Raster Image Processor](https://nl.wikipedia.org/wiki/Raster_Image_Processor) voor filmuitvoer van [PostScript&reg;](https://nl.wikipedia.org/wiki/PostScript) data naar Berthold recorders.
 

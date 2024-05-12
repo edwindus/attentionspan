@@ -62,6 +62,7 @@ This laser printer offers the option of cost-effectively printing letter-identic
 
 
 
+---
 # Berthold Textstation
 The Berthold**Textstation** is a workplace for creating text pages and complex typesetting, with text and line elements.
 Because Berthold**Textstation** works with ProfiPage, Berthold's new universal typesetting program makes typesetting faster and easier.
@@ -103,6 +104,7 @@ Connected to the Berthold**Worknet**, the Textstation can directly retrieve, edi
 
 
 
+---
 # Berthold EasyScanner
 The Berthold**EasyScanner** digitizes halftone and line images; which are later placed in the corresponding typesetting on the Berthold**Workstation**.
 Linked to a photo typesetter from Berthold, you can then illuminate the entire page with texts, photos, logos, line and raster elements.
@@ -139,6 +141,7 @@ The higher resolution with line models is achieved by a gray value interpretatio
 
 
 
+---
 # Berthold HRScanner
 The Berthold**HRScanner** is a flatbed scanner with a high resolution for black and white display.
 This scanner can be used for the digitization of both halftone and line images.
@@ -171,6 +174,7 @@ Dust particles can be retouched with a software filter.
 
 
 
+---
 # Berthold Laserstation
 The Berthold**Laserstation**, Berthold's laser imager, not only increases productivity, but also makes new typesetting achievements possible.
 The Laser Station consists of a Berthold**RasterServer** (RIP and PC) and a Berthold**LaserRecorder**.
@@ -203,6 +207,7 @@ The Berthold**Laser Station** can be connected online to the Berthold**Workstati
 
 
 
+---
 # Berthold RecorderLI
 The Berthold**RecorderLI** is a laser recorder system that can illuminate entire pages, including texts, photos, logos, line and raster elements.
 With the recorder, complete films with line and halftone images can be produced quickly and efficiently.
@@ -227,6 +232,7 @@ The Berthold**RecorderLI** can be connected online to the Berthold**Workstation*
 
 
 
+---
 # Berthold RecorderCI
 The Berthold**RecorderCI** meets the highest possible quality standards with a resolution of 140 lines/mm.
 The high quality and speed of this CRT recorder enables exposure of entire pages including texts, photos, logos, line and raster elements with very high quality.
@@ -251,6 +257,7 @@ These can be exposed from 4 (capital height 1.06 mm) to 453 didot points (capita
 
 
 
+---
 # Berthold SofhaRIP
 The Berthold**SofhaRIP** is a [Raster Image Processor](https://en.wikipedia.org/wiki/Raster_image_processor) for film output of [PostScript&reg;](https://en.wikipedia.org/wiki/PostScript) data on Berthold photo units.
 
