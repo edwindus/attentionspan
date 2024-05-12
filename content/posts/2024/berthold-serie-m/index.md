@@ -9,16 +9,14 @@ hero: "berthold-serie-m-hero.jpg"
 summary: "The M Series marked the beginning - and ending - of digital typesetting for H. Berthold AG"
 ---
 
-_Photo-typesetting is a method of setting type which uses photography to make columns of type on a scroll of photographic paper.  
+_Photo-typesetting is a method of setting type which uses photography to make columns of type on a scroll of photographic paper.
 It has been made obsolete by the popularity of the personal computer and desktop publishing which gave rise to digital typesetting._
 
-The internship period for my pre-vocationel education in [science](https://en.wikipedia.org/wiki/Science) fell within the intersection of 3 eras of _[Prepress](https://en.wikipedia.org/wiki/Prepress )_.
+The internship period for my pre-vocationel education in [science](https://en.wikipedia.org/wiki/Science) fell within the intersection of 3 eras of [Prepress](https://en.wikipedia.org/wiki/Prepress).   
 The company [Berthold](https://en.wikipedia.org/wiki/Berthold_Type_Foundry) was founded in Berlin in the eighteenth century and already specialized in typefaces.
 
-Some of the internship company's customers were still in full use of the previous generation of Berthold opto-mechanical phototypesetting machines.
+Part of the internship company's customers were still in full use of the previous generation of [Berthold opto-mechanical phototypesetting machines](../berthold-fototype).
 The software in which the texts are drawn up then controls a (largely) mechanical machine, which will expose a film letter by letter using glass plates on which all letters of one typeface (font) are etched.
-
-# Berthold M Series
 
 ![Showroom setup of a Berthold**Workstation** with Databox and Easyscanner](workstation.jpg)
 ![Berthold Bodoni-Antique Font Satzmuster](satzmuster.jpg)
@@ -28,12 +26,39 @@ Another part of the customers had switched to the state-of-the-art Berthold M sy
 An extensive series of specifically composed hardware (based on the [Motorola 68000 series](https://en.wikipedia.org/wiki/Motorola_68000_series) microprocessors), operating system (based on [Unix](https://en.wikipedia.org/wiki/Unix) and [X Window System](https://en.wikipedia.org/wiki/X_Window_System)) and specific software (Berthold**ProfiPage**) for digital typesetting of complete pages.
 
 With the advent of digital phototypesetting, the options for fonts were no longer physically limited and with such an M System (always partly spray-painted in light yellow) a typesetting company could have access to all 1.800 Berthold fonts.
-
-Development in the computer industry continued to accelerate ([Moore's law](https://en.wikipedia.org/wiki/Moore%27s_law)), personal computers ([(IBM cloning](https://en.wikipedia.org/wiki/Clone_(computing)) quickly became a standard.
+Development in the computer industry continued to accelerate ([Moore's law](https://en.wikipedia.org/wiki/Moore%27s_law)), personal computers ([IBM cloning](https://en.wikipedia.org/wiki/Clone_(computing)) quickly became a standard.
 In the wake of [Adobe PostScript](https://en.wikipedia.org/wiki/PostScript), the next era began in which it became possible for anyone with a decent Personal Computer, to set pages and have them printed or printed at decent quality.
 
 That soon marked the end of the Series M and even the prestigious company [H. Berthold AG](https://en.wikipedia.org/wiki/Berthold_Type_Foundry), founded in 1858, fell ingloriously in 1993.
 On this page a reasonable overview of the Berthold Series M based on a number of brochures from 1988/89 still in my archives.
+
+
+
+# Berthold M Series
+The trends in typography and design are influenced, among other things, by the technical development of typesetting systems and illuminators.
+Creative designers and designers apply the new typesetting options quickly and with great enthusiasm.
+Examples of this include diapositive texts as a headline, diapositive or rasterized surfaces and pages, and tilted lines.
+By using modern production resources, typesetting companies can respond economically and efficiently to the new trends in typography and design of graphic products.
+
+The integrated processing of whole pages is a new development in the phototypesetting industry.
+The typesetting can be changed on the screen right up to the last minute and does not have to be reassembled and reassembled by hand in the event of a correction.
+The completely formatted page is printed out on a recorder as a clean film, including texts, logos, lines and raster surfaces.
+
+Berthold has become famous in (typo)graphic circles for its pioneering work in the development of high-performance typesetting systems and has the right technology and necessary know-how for the development of modern prepress systems.
+This allows Berthold to meet the high demands set by the market.
+Such as: high typesetting quality, excellent letter quality, professional software solutions for complex tasks and high production for widely varying assignments.
+
+Working drawings, typographic designs, illustrations and photos can be edited geometrically when constructing the complete page.
+They must then be digitized with the corresponding additional software or with a Berthold**Scanner**.
+Photos scanned on a Berthold**Scanner** are saved in grayscale so that the images can be edited at any time on the Berthold**Workstation**.
+The Berthold**RasterlmageServer** enlarges and reduces the images to the size required for the page to be exposed, calculates the crop and rasterizes the halftone images.
+
+Special characters, logos and vignettes, which can be created with the Berthold**LogoType** program, are saved in the BertholdR**asterlmageServer** as a logo font and then treated as regular letters.
+
+With the Berthold**Worknet** it is possible to put together a tailor-made text and image layout system for the layout of complete pages with text, line and halftone elements.
+The Berthold**Worknet** works with a very high transfer speed between different input systems, storage media, formatting terminals and recorders.
+Additionally, the Berthold**Laser printer** is available as an option.
+This laser printer offers the option of cost-effectively printing letter-identical complete pages for correction or layout on typewriter paper.
 
 
 
@@ -126,16 +151,6 @@ The machine is equipped with CCD technology that controls the color and tonal va
 This scanner is suitable for digitizing black and white images that meet the quality requirements set by Berthold.
 Due to its high resolution, this flatbed scanner is suitable for digitizing halftone and line recordings.
 
-A scanned image can be edited with the Berthold**Workstation**.
-The reduction, enlargement, tilting and electronic manipulation can be controlled optically directly on the Berthold**Workstation**.
-Without over-scanning images, it is possible to correct image-, line- and text-elements and all interconnections up to the moment of exposure.
-The operator can select a resolution from 1 to 100 lines/mm.
-This allows the scanning time and data volume to be adapted to the requirements of each individual job.
-A resolution of 100 lines/mm is comparable to normal camera quality, even with thin line elements.
-The built-in data compression (Berthold run-length code) reduces the data volume by up to a factor of 30 for line images.
-This takes place in the scanner and results in significant time savings when transferring data from the scanner to the Berthold**DataTower** or Berthold**DataBox**.
-The storage space itself is also limited.
-
 With the Berthold**HRScanner** you can digitize black/white and color models up to a size of 320 x 520 mm.
 The spectral properties of the Berthold**HRScanner** are tailored to the human eye, ensuring optimal tonal value conversion of even the most critical color models.
 All scan data is passed on-line to the Berthold**DataBox** or to the Berthold**DataTower**.
@@ -148,7 +163,7 @@ Determination of benchmark or distortion factors, automatically or manually, sig
 
 The standard software includes various tone value curves, which the operator can select from a tone value archive or determine and save themselves.
 The determination or correction of these curves is carried out very quickly with signs or direct indication of the desired density.
-High and low tones, just like the mid tones, can be entered independently of each other.
+High and low tones, just like the mid-tones, can be entered independently of each other.
 These functions ensure standardized reproduction (same density of different originals).
 The tonal value curve automatically obtained with prescan allows individual manipulation of images.
 With line images it is possible to apply color and tone separation.
@@ -162,19 +177,6 @@ The Laser Station consists of a Berthold**RasterServer** (RIP and PC) and a Bert
 
 ![Berthold**Laserstation**](berthold-laserstation.jpg)
 ![https://archive.org/details/berthold-laserstation-aug-1988-nl](icons/berthold-laserstation-aug-1988-nl.jpg|large)
-
-The trends in typography and design are influenced, among other things, by the technical development of typesetting systems and illuminators.
-Creative designers and designers apply the new typesetting options quickly and with great enthusiasm.
-Examples of this include diapositive texts as a headline, diapositive or rasterized surfaces and pages, and tilted lines.
-By using modern production resources, typesetting companies can respond economically and efficiently to the new trends in typography and design of graphic products.
-
-The integrated processing of whole pages is a new development in the phototypesetting industry.
-The typesetting can be changed on the screen right up to the last minute and does not have to be reassembled and reassembled by hand in the event of a correction.
-The completely formatted page is printed out on a recorder as a clean film, including texts, logos, lines and raster surfaces.
-
-Berthold has become famous in (typo)graphic circles for its pioneering work in the development of high-performance typesetting systems and has the right technology and necessary know-how for the development of modern prepress systems.
-This allows Berthold to meet the high demands set by the market.
-Such as: high typesetting quality, excellent letter quality, professional software solutions for complex tasks and high production for widely varying assignments.
 
 The Berthold**Laserstation** is a laser recorder system, suitable for exposing entire pages.
 With the well-known Berthold quality, the laid out pages are printed out as a clean film, including texts, logos, line elements and raster surfaces.
@@ -200,6 +202,7 @@ These prints are printed on regular, inexpensive typewriter paper.
 The Berthold**Laser Station** can be connected online to the Berthold**Workstation**, the Berthold**Textstation**, to all autonomous keyboards and to the keyboards of the dms5000 and dms7000 system control panels.
 
 
+
 # Berthold RecorderLI
 The Berthold**RecorderLI** is a laser recorder system that can illuminate entire pages, including texts, photos, logos, line and raster elements.
 With the recorder, complete films with line and halftone images can be produced quickly and efficiently.
@@ -207,13 +210,7 @@ With the recorder, complete films with line and halftone images can be produced 
 ![Berthold**RecorderLI**](berthold-recorder-li.jpg)
 ![https://archive.org/details/berthold-recorder-li-aug-1988-nl](icons/berthold-recorder-li-aug-1988-nl.jpg|large)
 
-Modern digital technology and practical software make the integrated editing of completely designed pages for graphic companies financially feasible and, given the competition, also necessary.
-
 The Berthold**RecorderLl** is ideally suited for illuminating the pages created by the Berthold**Workstations**.
-The integrated digital editing of texts, photos, logos, line and raster elements makes it possible not only to modify, tilt and rotate texts, but also to carry out all lithographic work on the Workstation.
-This makes complicated editing, copying and copying and other reprotechnical operations unnecessary.
-Creative text, raster and image manipulations are also possible, such as inverting, making transparent, overwriting and placing in the foreground or background, and the system has an extensive range of technical rasters.
-
 Photos scanned on the Berthold**EasyScanner** or on the Berthold**HRScanner** are saved in grayscale so that the images can be edited at any time on the Workstation.
 The Berthold**RasterlmageServer** enlarges and reduces the images to the size required for the page to be exposed, calculates the crop and rasterizes the halftone images.
 
@@ -228,6 +225,8 @@ The maximum exposure size is 302 x 800 mm.
 
 The Berthold**RecorderLI** can be connected online to the Berthold**Workstation**, the Berthold**Textstation**, all autonomous keyboards and to the keyboards of the DMS 5000 and DMS 7000 system control panels.
 
+
+
 # Berthold RecorderCI
 The Berthold**RecorderCI** meets the highest possible quality standards with a resolution of 140 lines/mm.
 The high quality and speed of this CRT recorder enables exposure of entire pages including texts, photos, logos, line and raster elements with very high quality.
@@ -235,43 +234,20 @@ The high quality and speed of this CRT recorder enables exposure of entire pages
 ![Berthold**RecorderCI**](berthold-recorder-ci.jpg)
 ![https://archive.org/details/berthold-recorder-ci-aug-1988-nl](icons/berthold-recorder-ci-aug-1988-nl.jpg|large)
 
-Superior letter quality and high rendering quality are the most important qualities that an illustrator must have.
-
-The BertholdRecorderCI meets the highest possible quality standards with a resolution of no less than 140 lines/mm.
+The Berthold**RecorderCI** meets the highest possible quality standards with a resolution of no less than 140 lines/mm.
 
 The high quality and speed of this CRT recorder enables exposure of complete pages including texts, photos, logos, line and raster elements with very high quality.
 
-The BertholdRecorderCI was developed for exposing films for the production of high-quality printed matter.
+The Berthold**RecorderCI** was developed for exposing films for the production of high-quality printed matter.
 The configuration consists of a CRT imager (the Berthold**HRRecorder**) and a Raster Image Processor (the Berthold**RasterlmageServer**).
 This allows you to illuminate texts, photos, logos, line and raster elements in a constant production flow.
 
-The integrated digital editing makes it possible not only to modify, tilt and rotate texts, but also to carry out all lithographic work on the Workstation.
-This makes complicated editing, copying and copying and other reprotechnical operations unnecessary.
-Creative text, raster and image manipulations are also possible, such as inverting, making transparent, overwriting and placing in the foreground or background, and the system has an extensive range of technical rasters.
-Connection functions enable creative changes, transparent text, raster and image overlays and the definition of foreground and background.
-The high resolution of 140 lines/mm offers great tonal dynamics of the screens.
-This also allows raster gradients to be exposed by the Berthold**HRRecorder**.
-
-Working drawings, typographic designs, illustrations and photos can be edited geometrically when constructing the complete page.
-They must then be digitized with the corresponding additional software or with a Berthold**Scanner**.
-
-Special characters, logos and vignettes, which can be created with the Berthold**LogoType** program, are saved in the BertholdR**asterlmageServer** as a logo font and then treated as regular letters.
-
+The high resolution of 140 lines/mm offers great tonal dynamics and allows raster gradients to be exposed by the Berthold**RecorderCI**.
 The high speed of the imager is achieved by two parallel processors in the Berthold**RasterlmageServer**.
 After a short preparation, the exposure begins, while the rest of the page to be exposed is still being made dynamically suitable.
 
 For the lighting of the text, the complete Berthold font library is available in the form of the Berthold**DiamondTypes**.
 These can be exposed from 4 (capital height 1.06 mm) to 453 didot points (capital height 120 mm) (capital height 240 mm in preparation).
-
-#### BertholdWorknet
-With the Berthold**Worknet** it is possible to put together a tailor-made text and image layout system for the layout of complete pages with text, line and halftone elements.
-The Berthold**Worknet** works with a very high transfer speed between different input systems, storage media, formatting terminals and recorders.
-
-Photos scanned on the Berthold**EasyScanner** or on the Berthold**HRScanner** are saved in grayscale so that the images can be edited at any time on the Workstation.
-The Berthold**RasterlmageServer** enlarges and reduces the images to the size required for the page to be exposed, calculates the crop and rasterizes the halftone images.
-
-Additionally, the Berthold**Laser printer** is available as an option.
-This laser printer offers the option of cost-effectively printing letter-identical complete pages for correction or layout on typewriter paper.
 
 
 

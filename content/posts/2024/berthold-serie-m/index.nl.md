@@ -15,12 +15,9 @@ Het is achterhaald door de populariteit van de personal computer en desktop publ
 De stageperiode voor mijn [MTS-opleiding](https://nl.wikipedia.org/wiki/Middelbare_technische_school) viel in het snijpunt van 3 tijdvakken voor _[Prepress](https://en.wikipedia.org/wiki/Prepress)_.
 Het bedrijf [Berthold](https://nl.wikipedia.org/wiki/H._Berthold_AG) werd al in de achttiende eeuw in Berlijn opgericht en heeft zich toen al gespecialiseerd in lettertypes.
 
-Bij een deel van de klanten van het stagebedrijf was de vorige generatie van Berthold opto-mechanische fotozet machines nog volop in gebruik.
+Bij een deel van de klanten van het stagebedrijf was de vorige generatie van [Berthold opto-mechanische fotozet machines](../berthold-fototype) nog volop in gebruik.
 De software waarin de teksten worden opgemaakt stuurt dan een (grotendeels) mechanische machine aan, die letter voor letter een film zal belichten met behulp van glazen plaatjes waarop alle letters van één lettertype (font) zijn geëtst.
 
-
-
-# Berthold M Series
 ![Showroom opstelling van een Berthold**Workstation** met Databox en Easyscanner](workstation.jpg)
 ![Berthold Bodoni-Antique Font Satzmuster](satzmuster.jpg)
 ![Demonstatie van het instellen van een Berthold**HRScanner**](berthold-hr-scanner-demo.jpg)
@@ -38,11 +35,40 @@ Op deze pagina een redelijk overzicht van de Berthold Series M aan de hand van e
 
 
 
+# Berthold M Series
+De trends in typografie en vormgeving worden ondermeer beïnvloed door de technische ontwikkeling van zetsystemen en belichters.
+Creatieve vormgevers en ontwerpers passen de nieuwe zettechnische mogelijkheden snel en met veel enthousiasme toe.
+Voorbeelden hiervan zijn bijvoorbeeld diapositieve teksten als kop, diapositief geplaatste of gerasterde vlakken en bladzijden, en gekantelde regels.
+Door gebruik te maken van moderne productiemiddelen kunnen zetterijen economisch en efficiënt inspelen op de nieuwe trends in typografie en vormgeving van grafische producten.
+
+De geïntegreerde verwerking van hele pagina’s is een nieuwe ontwikkeling in de fotozet-industrie.
+Het zetwerk kan tot op de laatste minuut op het beeldscherm worden veranderd en hoeft bij een correctie niet met de hand te worden omgemonteerd en opnieuw te worden samengesteld.
+De compleet opgemaakte pagina wordt als een schone film uitgedraaid op een recorder, inclusief teksten, logo's, lijnen en rastervlakken.
+
+Berthold is in (typo)grafische vakkringen beroemd geworden door haar pionierswerk bij de ontwikkeling van zetsystemen met een hoog prestatievermogen en beschikt over de juiste technologie en de noodzakelijke know-how voor de ontwikkeling van moderne prepress systemen.
+Hierdoor kan Berthold voldoen aan de hoge eisen die door de markt worden gesteld.
+Zoals: een hoge zet-kwaliteit, uitstekende letterkwaliteit, professionele software-oplossingen voor complexe taken en een hoge productie bij sterk variërende opdrachten.
+
+Werktekeningen, typografische vormgevingen, illustraties en foto's kunnen bij de opbouw van de complete pagina geometrisch worden bewerkt.
+Ze moeten dan worden gedigitaliseerd met de overeenkomstige, aanvullende software of met een Berthold**Scanner**.
+Foto's die op de Berthold**Scanner** zijn gescand, worden in de grijswaarden opgeslagen, zodat de afbeeldingen op ieder moment op het Workstation kunnen worden bewerkt.
+De Berthold**RasterlmageServer** vergroot en verkleint de beelden naar de maatstaf die nodig is in de te belichten pagina, berekent de uitsnede en rastert de halftoonbeelden.
+
+Speciale tekens, logo's en vignetten, die met het Berthold**LogoType** programma kunnen worden gemaakt, worden in de BertholdR**asterlmageServer** als logofont opgeslagen en daarna als gewone letters behandeld.
+
+Met het Berthold**Worknet** is het mogelijk een op maat gesneden tekst- en beeldopmaaksysteem samen te stellen, voor de opmaak van complete pagina's met tekst, lijn- en halftoonelementen.
+Het Berthold**Worknet** werkt met een zeer hoge overdrachtsnelheid tussen verschillende invoersystemen, opslagmedia, opmaakterminals en recorders.
+
+Aanvullend staat als optie de Berthold**Laserprinter** ter beschikking.
+Deze laserdrukker biedt de mogelijkheid om voordelig letteridentieke complete pagina afdrukken voor correctie of het lay-outen op schrijfmachinepapier te verkrijgen.
+
+
+
 # Berthold Textstation
 Het Berthold**Textstation** is een werkplek voor het opmaken van tekstpagina's en ingewikkeld zetwerk, met tekst en lijnelementen.
 Doordat Berthold**Textstation** werkt met ProfiPage, het nieuwe universele standaard zet-programma van Berthold, wordt zetwerk sneller en eenvoudiger opgemaakt.
 
-![Berthold**Teststation**](berthold-textstation.jpg)
+![Berthold**Textstation**](berthold-textstation.jpg)
 ![https://archive.org/details/berthold-textstation-aug-1988-nl](icons/berthold-textstation-aug-1988-nl.jpg|large)
 
 ##### Hardware
@@ -128,17 +154,6 @@ De machine is uitgerust met de CCD techniek waarmee de kleur- en toonwaarde, ona
 Deze scanner is geschikt voor het digitaliseren van zwart/wit afbeeldingen die aan de door Berthold gestelde kwaliteitseisen voldoen.
 Door het hoge oplossende vermogen, is deze flatbedscanner geschikt voor het digitaliseren van halftoon- en lijnopnames.
 
-Een gescande afbeelding kan met het Berthold**Workstation** worden bewerkt.
-Het verkleinen, vergroten, kantelen en elektronisch manipuleren kan direct optisch worden gecontroleerd op het Berthold**Workstation**.   
-Zonder afbeeldingen over te scannen is het tot op het moment van de belichting mogelijk beeld-, lijn- en tekstelementen en alle onderlinge verbindingen te corrigeren.   
-De bediener kan een oplossend vermogen kiezen van 1 tot 100 lijnen/mm.
-Hierdoor kan de scantijd en de datahoeveelheid worden aangepast aan de eisen van iedere afzonderlijke opdracht.
-Een oplossend vermogen van 100 lijnen/mm is te vergelijken met een normale camera-kwaliteit, ook bij dunne lijnelementen.
-De ingebouwde datacompressie (Berthold run-length code) zorgt bij lijnafbeeldingen voor een reducering van datahoeveelheid tot factor 30.
-Dit vindt plaats in de scanner.
-Hierdoor wordt een aanzienlijke tijdwinst verkregen bij data-overdracht van de scanner naar de Berthold**DataTower** of Berthold**DataBox**.
-Tevens wordt de opslagruimte zelf beperkt.
-
 Met de Berthold**HRScanner** kan men zwart/wit en kleur opzicht-modellen tot een formaat van 320 x 520 mm digitaliseren.
 De spectrale eigenschappen van de Berthold**HRScanner** zijn afgestemd op het menselijk oog, waardoor een optimale toonwaarde-omzetting van zelfs de meest kritische kleurmodellen gewaarborgd is.   
 Alle scangegevens worden on-line doorgegeven aan de Berthold**DataBox** of aan de Berthold**DataTower**.
@@ -166,19 +181,6 @@ Het Laserstation bestaat uit een Berthold**RasterServer** (RIP en PC) en een Ber
 ![Berthold**Laserstation**](berthold-laserstation.jpg)
 ![https://archive.org/details/berthold-laserstation-aug-1988-nl](icons/berthold-laserstation-aug-1988-nl.jpg|large)
 
-De trends in typografie en vormgeving worden ondermeer beïnvloed door de technische ontwikkeling van zetsystemen en belichters.
-Creatieve vormgevers en ontwerpers passen de nieuwe zettechnische mogelijkheden snel en met veel enthousiasme toe.
-Voorbeelden hiervan zijn bijvoorbeeld diapositieve teksten als kop, diapositief geplaatste of gerasterde vlakken en bladzijden, en gekantelde regels.
-Door gebruik te maken van moderne productiemiddelen kunnen zetterijen economisch en efficiënt inspelen op de nieuwe trends in typografie en vormgeving van grafische producten.
-
-De geïntegreerde verwerking van hele pagina’s is een nieuwe ontwikkeling in de fotozet-industrie.
-Het zetwerk kan tot op de laatste minuut op het beeldscherm worden veranderd en hoeft bij een correctie niet met de hand te worden omgemonteerd en opnieuw te worden samengesteld.
-De compleet opgemaakte pagina wordt als een schone film uitgedraaid op een recorder, inclusief teksten, logo's, lijnen en rastervlakken.
-
-Berthold is in (typo)grafische vakkringen beroemd geworden door haar pionierswerk bij de ontwikkeling van zetsystemen met een hoog prestatievermogen en beschikt over de juiste technologie en de noodzakelijke know-how voor de ontwikkeling van moderne prepress systemen.
-Hierdoor kan Berthold voldoen aan de hoge eisen die door de markt worden gesteld.
-Zoals: een hoge zet-kwaliteit, uitstekende letterkwaliteit, professionele software-oplossingen voor complexe taken en een hoge productie bij sterk variërende opdrachten.
-
 Het Berthold**Laserstation** is een laserrecorder-systeem, geschikt voor het belichten van complete pagina's.
 Met de bekende Berthold kwaliteit worden de opgemaakte pagina's als een schone film uitgedraaid, inclusief teksten, logo's, lijn-elementen en rastervlakken.
 De gemakkelijke Berthold zetsoftware verhoogt de productiviteit en de efficiëncy.
@@ -202,6 +204,8 @@ Deze afdrukken worden geprint op normaal, goedkoop schrijfmachinepapier.
 
 Het Berthold**Laserstation** kan on-line worden aangesloten op het Berthold**Workstation**, het Berthold**Textstation**, op alle autonome toetsenborden en op de toetsenborden van de systeemcentrales dms5000 en dms7000.
 
+
+
 # Berthold RecorderLI
 De Berthold**RecorderLI** is een laser-recordersysteem dat complete pagina's kan belichten, inclusief teksten, foto's, logo's, lijn- en raster-elementen.
 Met de recorder kunnen snel en efficiënt kant en klare, complete films met lijn- en halftoonbeelden worden uitgedraaid.
@@ -209,15 +213,7 @@ Met de recorder kunnen snel en efficiënt kant en klare, complete films met lijn
 ![Berthold**RecorderLI**](berthold-recorder-li.jpg)
 ![https://archive.org/details/berthold-recorder-li-aug-1988-nl](icons/berthold-recorder-li-aug-1988-nl.jpg|large)
 
-
-
-Moderne digitale techniek en praktische software maken de geïntegreerde bewerking van compleet opgemaakte pagina’s voor grafische bedrijven financieel haalbaar en, gezien de concurrentie, ook noodzakelijk.
-
 De Berthold**RecorderLl** is bij uitstek geschikt voor het belichten van de door de Berthold**Workstations** opgemaakte pagina’s.
-Door de geïntegreerde digitale bewerking van teksten, foto's, logo's, lijn- en rasterelementen is het niet alleen mogelijk teksten te modificeren, te kantelen en te draaien, maar ook alle lithografische werkzaamheden uit te voeren op het Workstation.
-Hierdoor zijn gecompliceerde montages, in- en afkopieerwerkzaamheden en andere reprotechnische handelingen overbodig geworden.
-Ook zijn er creatieve tekst-, raster- en beeldmanipulaties mogelijk, zoals omkeren, transparant maken, overschrijven en op voor- of achtergrond plaatsen en heeft het systeem een uitgebreid assortiment technische rasters.
-
 Foto's die op de Berthold**EasyScanner** of op de Berthold**HRScanner** zijn gescand, worden in de grijswaarden opgeslagen, zodat de afbeeldingen op ieder moment op het Workstation kunnen worden bewerkt.
 De Berthold**RasterlmageServer** vergroot en verkleint de beelden naar de maatstaf die nodig is in de te belichte pagina, berekent de uitsnede en rastert de halftoonbeelden.
 
@@ -232,14 +228,14 @@ Het maximale belichtingsformaat bedraagt 302 x 800 mm.
 
 De Berthold**RecorderLI** kan on-line worden aangesloten op het Berthold**Workstation**, het Berthold**Textstation**, alle autonome toetsenborden en op de toetsenborden van de systeemcentrales DMS 5000 en DMS 7000.
 
+
+
 # Berthold RecorderCI
 De Berthold**RecorderCI** voldoet met een oplossend vermogen van 140 lijnen/mm aan de hoogstmogelijke kwaliteitsnormen.
 De hoge kwaliteit en snelheid van deze CRT recorder maakt belichting van complete pagina's inclusief teksten, foto's, logo's, lijn- en rasterelementen mogelijk met een zeer hoge kwaliteit.
 
 ![Berthold**RecorderCI**](berthold-recorder-ci.jpg)
 ![https://archive.org/details/berthold-recorder-ci-aug-1988-nl](icons/berthold-recorder-ci-aug-1988-nl.jpg|large)
-
-
 
 Superieure letterkwaliteit en een hoge weergavekwaliteit zijn de belangrijkste eigenschappen waaraan een belichter moet voldoen.
 
@@ -251,33 +247,14 @@ De BertholdRecorderCI werd ontwikkeld voor het belichten van films voor de verva
 De configuratie bestaat uit een CRT belichter, (de Berthold**HRRecorder**) en een Raster Image Processor (de Berthold**RasterlmageServer**).
 Daarmee kan men teksten, foto's, logo's, lijn- en rasterelementen in een constante produktiestroom belichten.
 
-Door de geïntegreerde digitale bewerking is het niet alleen mogelijk teksten te modificeren, te kantelen en te draaien maar ook alle lithografische werkzaamheden uit te voeren op het Workstation.
-Hierdoor zijn gecompliceerde montages, in- en afkopieerwerkzaamheden en andere reprotechnische handelingen overbodig geworden.
-Ook zijn er creatieve tekst-, raster- en beeldmanipulaties mogelijk, zoals omkeren, transparant maken, overschrijven en op voor- of achtergrond plaatsen en heeft het systeem een uitgebreid assortiment technische rasters.
-Verbindingsfuncties maken creatieve veranderingen, transparante tekst-, raster- en beeldoverlappingen en de bepaling van voor- en achtergrond mogelijk.
-De hoge oplossing van 140 lijnen/mm biedt een grote toonwaarde-dynamiek van de rasters.
-Hierdoor kunnen er ook rasterverlopen door de Berthold**HRRecorder** worden belicht.
-
-Werktekeningen, typografische vormgevingen, illustraties en foto's kunnen bij de opbouw van de complete pagina geometrisch worden bewerkt.
-Ze moeten dan worden gedigitaliseerd met de overeenkomstige, aanvullende software of met een Berthold**Scanner**.
-
-Speciale tekens, logo's en vignetten, die met het Berthold**LogoType** programma kunnen worden gemaakt, worden in de BertholdR**asterlmageServer** als logofont opgeslagen en daarna als gewone letters behandeld.
-
+De hoge oplossing van 140 lijnen/mm biedt een grote toonwaarde-dynamiek van de rasters en hierdoor kunnen er ook raster-verlopen door de Berthold**RecorderCI** worden belicht.
 De hoge snelheid van de belichter wordt verkregen door twee parallel werkende processors in de Berthold**RasterlmageServer**.
 Na een korte voorbereiding begint de belichting, terwijl de rest van de te belichten pagina nog dynamisch geschikt wordt gemaakt.
 
 Voor de belichting van de tekst kan men beschikken over de complete Berthold letterbibliotheek in de vorm van de Berthold**DiamondTypes**.
 Deze kunnen van 4 (kapitaalhoogte 1.06 mm) tot 453 didotpunt (kapitaalnoogte 120 mm)worden belicht (Kapitaalhoogte 240 mm in voorbereiding).
 
-#### BertholdWorknet
-Met het Berthold**Worknet** is het mogelijk een op maat gesneden tekst- en beeldopmaaksysteem samen te stellen, voor de opmaak van complete pagina's met tekst, lijn- en halftoonelementen.
-Het Berthold**Worknet** werkt met een zeer hoge overdrachtsnelheid tussen verschillende invoersystemen, opslagmedia, opmaakterminals en recorders.
 
-Foto's die op de Berthold**EasyScanner** of op de Berthold**HRScanner** zijn gescand, worden in de grijswaarden opgeslagen, zodat de afbeeldingen op ieder moment op het Workstation kunnen worden bewerkt.
-De Berthold**RasterlmageServer** vergroot en verkleint de beelden naar de maatstaf die nodig is in de te belichten pagina, berekent de uitsnede en rastert de halftoonbeelden.
-
-Aanvullend staat als optie de Berthold**Laserprinter** ter beschikking.
-Deze laserdrukker biedt de mogelijkheid om voordelig letteridentieke complete pagina afdrukken voor correctie of het lay-outen op schrijfmachinepapier te verkrijgen.
 
 # Berthold SofhaRIP
 De Berthold**SofhaRIP** is een [Raster Image Processor](https://nl.wikipedia.org/wiki/Raster_Image_Processor) voor filmuitvoer van [PostScript&reg;](https://nl.wikipedia.org/wiki/PostScript) data naar Berthold recorders.
