@@ -30,7 +30,7 @@ Development in the computer industry continued to accelerate ([Moore's law](http
 In the wake of [Adobe PostScript](https://en.wikipedia.org/wiki/PostScript), the next era began in which it became possible for anyone with a decent Personal Computer, to set pages and have them printed or printed at decent quality.
 
 That soon marked the end of the Series M and even the prestigious company [H. Berthold AG](https://en.wikipedia.org/wiki/Berthold_Type_Foundry), founded in 1858, fell ingloriously in 1993.
-On this page a reasonable overview of the Berthold Series M based on a number of brochures from 1988/89 still in my archives.
+On this page a reasonable overview of the Berthold Series M based on a number of brochures from 1988/89 still in my archives and now uploaded to [Archive.org](https://archive.org/details/@edwin_dus).
 
 
 
@@ -271,5 +271,6 @@ Apart from this, the programs Berthold**CreativeLink** and Berthold**OpenWorknet
 
 The Berthold**SofhaRIP** enables type-setting shops whose customers are not only accustomed to maximum quality, but also to flexible services, to support the PostScript standard — particularly widely-used in the creative graphic design field — without having to abandon the principle that high-quality copy can only be produced on high-resolution film recorders with high-quality typesetting fonts and using the respective professional know-how.
 
->&reg; PostScript is a registered trademark of Adobe Systems Inc.   
+>&copy; Images are copyright of H. Berthold A.G.   
+>&reg; PostScript is a registered trademark of Adobe Systems Inc.      
 >&reg; Macintosh is a registered trademark of Apple Computers Inc. 

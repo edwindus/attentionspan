@@ -31,7 +31,7 @@ De ontwikkeling in de computer industrie bleef zich versnellen ([Wet van Moore](
 In het kielzog van [Adobe PostScript](https://nl.wikipedia.org/wiki/PostScript) brak het volgende tijdperk aan waarin het voor iedereen met een fatsoenlijke personal computer mogelijk werd om pagina's te zetten en op fatsoenlijke kwaliteit te (laten) printen of drukken.
 
 Dat luidde al snel het einde van de Series M en zelfs het prestigieuze bedrijf [H. Berthold AG](https://nl.wikipedia.org/wiki/H._Berthold_AG), opgericht in 1858, ging in 1993 roemloos ten onder.
-Op deze pagina een redelijk overzicht van de Berthold Series M aan de hand van een aantal folders uit 1988/89 nog in mijn archief.
+Op deze pagina een redelijk overzicht van de Berthold Series M aan de hand van een aantal folders uit 1988/89 nog in mijn archief en nu toegevoegd aan [Archive.org](https://archive.org/details/@edwin_dus).
 
 
 
@@ -276,5 +276,6 @@ Daarnaast bieden de programma's Berthold**CreativeLink** en Berthold**OpenWorkne
 
 Dankzij Berthold**SofhaRIP** kunnen zetterijen waarvan de klanten niet alleen gewend zijn aan maximale kwaliteit, maar ook aan flexibele dienstverlening, de PostScript-standaard ondersteunen – met name veelgebruikt in het creatieve grafische ontwerpveld – zonder de principes te verlaten dat afdrukken van hoge kwaliteit alleen kunnen worden geproduceerd op film-recorders met hoge resolutie, met hoogwaardige lettertypen en met gebruikmaking van de betreffende professionele knowhow.
 
+>&copy; Op de afbeeldingen rust het copyright van H. Berthold A.G.   
 >&reg; PostScript is een geregistreerd handelsmerk van Adobe Systems Inc.   
 >&reg; Macintosh is een geregistreerd handelsmerk van Apple Computers Inc. 

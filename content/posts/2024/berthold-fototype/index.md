@@ -11,6 +11,8 @@ summary: "Looking back at some Berthold opto-mechanical typesetting equipment th
 
 _Phototypesetting is a method of setting type which uses photography to make columns of type on a scroll of photographic paper. It has been made obsolete by the popularity of the personal computer and desktop publishing which gave rise to digital typesetting._
 
+On this page a reasonable overview of the Berthold Fototype opto-mechnical typesetting machines from a brochure dated 1985, still in my archives and now uploaded to [Archive.org](https://archive.org/details/@edwin_dus).
+
 ![Berthold diatronic font plate and 8-inch magnetic disc](berthold-diatronic-plate.jpg)
 ![https://archive.org/details/BertholdCPS2000Brochure](icons/berthold-fototype-cps-2000.jpg|large)
 ![https://archive.org/details/BertholdFototypeSystemBrochure](icons/berthold-fototype-system-brochure.jpg|large)
@@ -273,3 +275,5 @@ Digital quality photo unit for the system **&laquo;berthold tps 8000&raquo;**.
 - Online or offline operation
 - Type sizes: 1.32 - 11.93mm (5 - 45p)
 - Material format: roll material width 100 - 400mm, length up to 60m
+
+>&copy; Images are copyright of H. Berthold A.G.   

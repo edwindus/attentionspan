@@ -12,6 +12,8 @@ summary: "Even omkijken naar de Berthold opto-mechanische apparaten die op mijn 
 _Fotozetwerk is een methode voor het instellen van lettertypen waarbij fotografie wordt gebruikt om kolommen met letters op een rol fotografisch papier te maken.
 Het is achterhaald door de populariteit van de personal computer en desktop publishing, die aanleiding gaven tot digitaal zetwerk._
 
+Op deze pagina een redelijk overzicht van de Berthold Fototype opto-mechnische zetmachines aan de hand van een folder uit 1985 nog in mijn archief en nu toegevoegd aan [Archive.org](https://archive.org/details/@edwin_dus).
+
 
 ![Berthold diatronic font plate en 8-inch magnetische disk](berthold-diatronic-plate.jpg)
 ![https://archive.org/details/BertholdCPS2000Brochure](icons/berthold-fototype-cps-2000.jpg|large)
@@ -235,7 +237,7 @@ Opto-mechanische, hoogwaardige precisie foto-eenheid voor alle fotozet-werkzaamh
 - Werkt zowel offline als online
 - 16 lettertypen vrij mengbaar, geïntegreerd lichtpunt-element voor tekenregels
 - Vellen-filmcassette en/of rolfilm-cassette 325 x 325 mm
-- Lettergroottes: 1,32 - 15,89 mm (5 - 60p), kapitaalhoogte gebruikt als referentiepunt
+- Lettergroottes: 1.32 - 15.89 mm (5 - 60p), kapitaalhoogte gebruikt als referentiepunt
 
 
 
@@ -274,3 +276,5 @@ Foto-unit van digitale kwaliteit voor het systeem **&laquo;berthold tps 8000&raq
 - Online of offline werking
 - Type grootte: 1.32 - 11.93 mm (5 - 45p)
 - Rolbreedte 100 - 400 mm, lengte tot 60 m
+
+>&copy; Op de afbeeldingen rust het copyright van H. Berthold A.G.
