@@ -67,7 +67,7 @@ This laser printer offers the option of cost-effectively printing letter-identic
 The Berthold**Textstation** is a workplace for creating text pages and complex typesetting, with text and line elements.
 Because Berthold**Textstation** works with ProfiPage, Berthold's new universal typesetting program makes typesetting faster and easier.
 
-![Berthold**Teststation**](berthold-textstation.jpg)
+![Berthold**Textstation**](berthold-textstation.jpg)
 ![https://archive.org/details/berthold-textstation-aug-1988-nl](icons/berthold-textstation-aug-1988-nl.jpg|large)
 
 ##### Hardware

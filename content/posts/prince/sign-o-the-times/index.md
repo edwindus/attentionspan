@@ -32,7 +32,7 @@ Then the first news items appeared about an oncoming tour which would even visit
 Buying tickets for a major concert was a whole different thing back in the day. The tickets would go on sale on Saturday morning May 9th, at 9:00 at a store called Ben Noz. Ben Noz, actually the name of the owner, was a cigarette store at the Amsterdamse straatweg in Utrecht that had specialised in ticket sales.
 
 On the Friday before, at about 13:00 and just after school, I took the bus to the Amsterdamse straatweg to be in a waiting line for the ticket sale starting next morning, carrying a folding chair, a sleeping bag and some food while fully expecting to sleep on the street in front of the ticket shop.
-When I arrived at the shop there were maybe 10 of 20 people already in line so I was quite early and should be able to acquire the tickets when all went well. If I remember correctly, we kept sort of notice of the order in the line like “I am after you and you are after me”, while it quickly became more crowded on this main road with heavy traffic. During the afternoon it just became too busy and noisy, the police showed up a couple of times etc.
+When I arrived at the shop there were maybe 10 or 20 people already in line so I was quite early and should be able to acquire the tickets when all went well. If I remember correctly, we kept sort of notice of the order in the line like “I am after you and you are after me”, while it quickly became more crowded on this main road with heavy traffic. During the afternoon it just became too busy and noisy, the police showed up a couple of times etc.
 
 ![https://hetutrechtsarchief.nl/beeldmateriaal/detail/8473f9c4-113b-c4ff-e053-4701000a202f](noz.jpg)
 
@@ -53,10 +53,10 @@ Next morning, at 09:00 AM, things went pretty nice and organised and it was almo
 ![One of our tickets for the Saturday, June 20th, 1987 show with the request: _'Wear something Peach ...or Black!'_](ticket.jpg)
 
 ## Beautiful Night at Galgenwaard
-We had tickets for the second night, June 20th (somehow I did not occur to us to buy tickets for more than one night nor would I really have had the money to do so) but the whole Prince frenzy started in Utrecht on the Friday night before when the first of 4 concerts in Utrecht materialised.
+We had tickets for the second night, June 20th (somehow I did not occur to us to buy tickets for more than one night nor would I really have had the money to do so) but the whole Prince frenzy started in Utrecht on the Friday night before, when the first of 4 concerts in Utrecht materialised.
 
 If we listened carefully on the balcony, we could hear the faint music and noise from audience at the concert. This first ever pop concert in Galgenwaard was all over the news on TV and all over the morning papers that Saturday morning.
-Hours before the concert we would leave for Galgenwaard which was like a 20 minute bicycle ride from home. We were dressed in “Peach and Black” like Prince asked us to do and we got our first goosebumps when (I think it was at Ledig Erf) a house had this massive peach-and-black banner on the facade saying “It’s gonna be a beautiful night”.
+Hours before the concert we would leave for Galgenwaard which was like a 20 minute bicycle ride from home. We were dressed in “Peach and Black” like Prince asked us to do and we got our first goosebumps when (I think it was at Ledig Erf) this house had this a peach-and-black banner covering most of the facade, saying “It’s gonna be a beautiful night”.
 
 ![The concert organizer was spreading this flyers about the 6.ooo chairs that were placed on the field](flyer.jpg)
 ![Sign 'O the Times Tour in Stadion Galgenwaard (source: unknown)](galgenwaard.jpg)
@@ -69,7 +69,7 @@ What a show, what a mind-blowing decor, what perfectly performed music with long
 
 Over the years I've heard a lot of other people stating similar; but this was the best concert I would ever see, and it would spoil all the other concerts afterward just a tiny bit, because I would always compare those to _Sign O’ the Times_ in Galgenwaard.
 
-Next summer the we could relive the experience when a concert movie was released that we went to see on the day of the premiere obviously.
+The following summer we could relive the experience when a concert movie was released that we went to see on the day of the premiere obviously.
 
 ![_Sign 'O the Times_ movie poster](movie-poster.jpg)
 ![Ticket stub from viewing the _Sign 'O the Times_ convert movie in the Hoog Catherijne movie theatre in Utrecht on the night of the dutch premiere](movie-ticket.jpg)
