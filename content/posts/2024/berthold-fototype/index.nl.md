@@ -14,7 +14,6 @@ Het is achterhaald door de populariteit van de personal computer en desktop publ
 
 Op deze pagina een redelijk overzicht van de Berthold Fototype opto-mechnische zetmachines aan de hand van een folder uit 1985 nog in mijn archief en nu toegevoegd aan [Archive.org](https://archive.org/details/@edwin_dus).
 
-
 ![Berthold diatronic font plate en 8-inch magnetische disk](berthold-diatronic-plate.jpg)
 ![https://archive.org/details/BertholdCPS2000Brochure](icons/berthold-fototype-cps-2000.jpg|large)
 ![https://archive.org/details/BertholdFototypeSystemBrochure](icons/berthold-fototype-system-brochure.jpg|large)
