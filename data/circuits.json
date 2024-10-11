@@ -120,6 +120,14 @@
         "longitude": 10.857222
     },
     {
+        "place": "Autodromo Internazionale di Imola",
+        "country": "Italia",
+        "iso": "ITA",
+        "url": "https://en.wikipedia.org/wiki/Imola_Circuit",
+        "latitude": 44.341111,
+        "longitude": 11.713333
+    },
+    {
         "place": "Circuit de la Sarthe",
         "country": "France",
         "iso": "FRA",
