@@ -166,5 +166,12 @@
         "description": "Trendline edition<br/>1.6L, 4-cylinder",
         "image": "2001-volkswagen-new-beetle.jpg",
         "link": "https://en.wikipedia.org/wiki/Volkswagen_New_Beetle"
+    },
+    {
+        "title": "2010 Toyota Aygo",
+        "category": "Electra Blue metallic",
+        "description": "Access edition<br/>1.0 VVT-i, 3-cylinder",
+        "image": "2010-toyota-aygo.jpg",
+        "link": "https://en.wikipedia.org/wiki/Toyota_Aygo"
     }
 ]
