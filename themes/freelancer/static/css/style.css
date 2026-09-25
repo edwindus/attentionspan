@@ -662,6 +662,8 @@ progress {
 
 .figure {
   display: inline-block;
+  text-align: center;
+  align-content: center;
 }
 
 .figure-img {

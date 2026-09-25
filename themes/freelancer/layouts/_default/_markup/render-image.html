@@ -2,17 +2,24 @@
 {{ $isIcon := eq (lower .Text) "icon" }}
 {{ $isDownload := and (not $isIcon) (in .Text "{{ .Page.Site.BaseURL }}") }}
 {{ $isExternal := and (not $isIcon) (not $isDownload) (hasPrefix $text "http") }}
+{{ $hasCopyright := and ($isExternal) (in .Text "|") }}
+{{ $hasThumbSize := in .Destination "|" }}
 {{ $thumbSize := index (split .Destination "|") 1 }}
 {{ $thumbUrl := index (split .Destination "|") 0 }}
+{{ $copyright := index (split $text "|") 1 }}
+{{ $text := index (split $text "|") 0 }}
 {{ $classes := newScratch }}
 
-{{ if in .Destination "|" }}
+{{ if $hasThumbSize }}
     {{ $classes.Set "size" (lower (printf "%s%s" "thumbnail-" $thumbSize)) }}
 {{ end }}
 
 {{ if $isExternal }}
     <a href="{{ $text | safeURL }}" class="nofollow" target="_blank" rel="nofollow">
-        <img class="thumbnail {{ $classes.Get "size" }} external" src="{{ .Page.RelPermalink | replaceRE "^/nl" "" }}{{ $thumbUrl | safeURL }}" alt="external link" title="follow external link" />
+            <img class="thumbnail {{ $classes.Get "size" }} external" src="{{ .Page.RelPermalink | replaceRE "^/nl" "" }}{{ $thumbUrl | safeURL }}" alt="external link" title="follow external link" />
+            {{ if $hasCopyright }}
+                <span class="edwin" style="display:block;clear:both; margin-top:-0.5em;color:#999999;font-size:small">&copy;&nbsp;{{ $copyright }}</span>
+            {{ end }}
     </a>
 {{ else if $isDownload }}
     <a href="{{ $text | safeURL }}" class="nofollow" target="_blank" rel="nofollow">

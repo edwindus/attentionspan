@@ -14,7 +14,6 @@ The story of Prince's Cloud Guitar has been told and documentated by [many peopl
 In short, Prince wanted to have an iconic guitar as a hero prop in the Purple Rain move and went to local Knut-Koupee Music Store in Minneapolis, where [luthier Dave Rusan](https://www.premierguitar.com/gear/guitars/prince-cloud-guitar) was assigned with the job. The assignment was to build a guitar, that would be important to the storyline of the Purple Rain movie, and the design should mimick a 1972 [bass guitar](https://madcatsandclouds.com/2018/12/30/the-cloud-bass/) owned by André Cymone, Prince's friend since childhood and a bass player in Prince's former band. This bass in turn inspired by an [F-style mandolin](https://artfulliving.com/prince-cloud-guitar-mystery-music-andrea-swensson/).
 
 ![Advertisement for Knut-Koupeé Music Stores in Minneapolis and St. Paul](knut-koupee.jpg)
-![Dave Russan holding the white Cloud Guitar created as a prop for the Purple Rain movie](russan.jpg)
 
 {{< youtube-enhanced id="l7vRSu_wsNc" title="Raspberry Beret" >}}
 

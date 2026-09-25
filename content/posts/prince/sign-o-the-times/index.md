@@ -34,7 +34,7 @@ Buying tickets for a major concert was a whole different thing back in the day. 
 On the Friday before, at about 13:00 and just after school, I took the bus to the Amsterdamse straatweg to be in a waiting line for the ticket sale starting next morning, carrying a folding chair, a sleeping bag and some food while fully expecting to sleep on the street in front of the ticket shop.
 When I arrived at the shop there were maybe 10 or 20 people already in line so I was quite early and should be able to acquire the tickets when all went well. If I remember correctly, we kept sort of notice of the order in the line like “I am after you and you are after me”, while it quickly became more crowded on this main road with heavy traffic. During the afternoon it just became too busy and noisy, the police showed up a couple of times etc.
 
-![https://hetutrechtsarchief.nl/beeldmateriaal/detail/8473f9c4-113b-c4ff-e053-4701000a202f](noz.jpg)
+![https://hetutrechtsarchief.nl/beeldmateriaal/detail/8473f9c4-113b-c4ff-e053-4701000a202f|D. Douwstra (1992)](noz.jpg)
 
 ## First Night at Galgenwaard
 While I do not know if this escalation scenario already existed, or was even used on previous ticket sales for other artists, but early Friday evening we got the message that the ticket sale by Ben Noz would be moved to [De Galgenwaard](https://en.wikipedia.org/wiki/Stadion_Galgenwaard) soccer stadium (with the start of ticketsale still scheduled next morning at 09:00 AM) because the situation at Amsterdamse straatweg was getting out of control.

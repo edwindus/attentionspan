@@ -16,7 +16,6 @@ De opdracht was om een gitaar te bouwen, die belangrijk zou zijn voor de verhaal
 Deze bas is op zijn beurt geïnspireerd door een [F-stijl mandoline](https://artfulliving.com/prince-cloud-guitar-mystery-music-andrea-swensson/).
 
 ![Advertentie voor Knut-Koupeé muziekwinkels in Minneapolis en St. Paul](knut-koupee.jpg)
-![Dave Russan houdt de witte Cloud-gitaar vast, gemaakt als rekwisiet voor de Purple Rain-film](russan.jpg)
 
 {{< youtube-enhanced id="l7vRSu_wsNc" title="Raspberry Beret" >}}
 
