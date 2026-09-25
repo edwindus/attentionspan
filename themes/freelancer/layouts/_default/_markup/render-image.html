@@ -23,10 +23,10 @@
     </a>
 {{ else if $isDownload }}
     <a href="{{ $text | safeURL }}" class="nofollow" target="_blank" rel="nofollow">
-        <img class="thumbnail {{ $classes.Get "size" }} download" src="{{ $thumbUrl | safeURL }}" alt="download link" title="download file" />
+        <img class="thumbnail {{ $classes.Get "size" }} download" src="{{ .Page.RelPermalink | replaceRE "^/nl" "" }}{{ $thumbUrl | safeURL }}" alt="download link" title="download file" />
     </a>
 {{ else if $isIcon }}
-    <img class="thumbnail {{ $classes.Get "size" }}" src="{{ $thumbUrl | safeURL }}" alt="" />
+    <img class="thumbnail {{ $classes.Get "size" }}" src="{{ .Page.RelPermalink | replaceRE "^/nl" "" }}{{ $thumbUrl | safeURL }}" alt="" />
 {{ else }}
     <a href="{{ $thumbUrl | safeURL }}" class="glightbox" data-description="{{ .Text }}">
         <img class="thumbnail {{ $classes.Get "size" }}" src="{{ .Page.RelPermalink | replaceRE "^/nl" "" }}{{ $thumbUrl | safeURL }}" alt="{{ .Text }}" />

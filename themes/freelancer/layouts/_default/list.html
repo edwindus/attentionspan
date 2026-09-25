@@ -14,7 +14,7 @@
 						<div class="card mb-4 ">
 							<a href="{{.Permalink}}">
 								{{ if .Page.Params.preview }}
-									<img class="card-img-top" src="{{.Permalink}}{{.Page.Params.preview}}" alt="Preview image for '{{.Title }}' post">
+									<img class="card-img-top" src="{{ .RelPermalink | replaceRE "^/nl" ""}}{{.Page.Params.preview}}" alt="Preview image for '{{.Title }}' post">
 								{{ else }}
 									<img class="card-img-top" src="/img/posts_preview.png">
 								{{ end }}

@@ -6,6 +6,7 @@
             {{ else }}
                 {{  .Scratch.Set "data" (index site.Data (.Get "data")) }}
             {{ end }}
+            {{ $.Scratch.Set "url" (.Page.RelPermalink | replaceRE "^/nl" "") }}
 
             {{ range .Scratch.Get "data"  }}
               <div class="col-md-6">
@@ -13,8 +14,8 @@
                     <div class="row">
                         <div class="col-md-4">
                             {{ if .image }}
-                                <a href="{{ .image | safeURL }}" class="glightbox" data-description="{{ .title }}">
-                                    <img src="{{ .image | safeURL }}" alt="{{ .title }}" />
+                                <a href="{{ $.Scratch.Get "url" }}{{ .image | safeURL }}" class="glightbox" data-description="{{ .title }}">
+                                    <img src="{{ $.Scratch.Get "url" }}{{ .image | safeURL }}" alt="{{ .title }}" />
                                 </a>
                             {{ end }}
                         </div>
