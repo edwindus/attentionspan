@@ -28,7 +28,7 @@
 {{ else if $isIcon }}
     <img class="thumbnail {{ $classes.Get "size" }}" src="{{ .Page.RelPermalink | replaceRE "^/nl" "" }}{{ $thumbUrl | safeURL }}" alt="" />
 {{ else }}
-    <a href="{{ $thumbUrl | safeURL }}" class="glightbox" data-description="{{ .Text }}">
+    <a href="{{ .Page.RelPermalink | replaceRE "^/nl" "" }}{{ $thumbUrl | safeURL }}" class="glightbox" data-description="{{ .Text }}">
         <img class="thumbnail {{ $classes.Get "size" }}" src="{{ .Page.RelPermalink | replaceRE "^/nl" "" }}{{ $thumbUrl | safeURL }}" alt="{{ .Text }}" />
     </a>
 {{ end }}
