@@ -15,16 +15,10 @@ In short, Prince wanted to have an iconic guitar as a hero prop in the Purple Ra
 
 ![Advertisement for Knut-Koupeé Music Stores in Minneapolis and St. Paul](knut-koupee.jpg)
 ![Dave Russan holding the white Cloud Guitar created as a prop for the Purple Rain movie](russan.jpg)
-![Screengrab from the Purple Rain movie where 'The Kid' receives the white Cloud as a present from Apollonia](purplerain.jpg)
 
 {{< youtube-enhanced id="l7vRSu_wsNc" title="Raspberry Beret" >}}
 
 Anyway, the rest is history so to say. The (white) guitar built by Dave Rusan featured in Purple Rain and Prince appearently like it a lot since several more were built, repaired and repainted over a long period. Reportedly, when the 1985 _Raspberry Beret_ video was released, the iconic guitar became known as the _Cloud Guitar_, likely because of the similar shape to the clouds on Prince's outfit in that video.
-
-![The hero prop in the Purple Rain movie was coloured white](cloud-prince-001.jpg)
-![Several copies were created or existing copies repainted like this 'Sign 'O the Times' era color scheme](cloud-prince-002.jpg)
-![During the 1990 'Nude Tour' a second blue version (not the 1988 'Blue Angel') was used](cloud-prince-003.jpg)
-![The yellow cloud from the 1992 'Daimonds and Pearls Tour' became the version I decided upon](cloud-prince-004.jpg)
 
 ## Guitars on the wall
 My dad was a guitar player so I grew up in a house where there were always several guitars, eventhough I never had the patience to learn how to play an instrument. But being accustomed to guitars for grabs on the wall I got the idea to have a Cloud Guitar on display as a Prince prop. At some point there were basic measurements online, but building a guitar, eventhough it was just for decoration and does not need to be a playable instrument, still seemed like a daunting task and I never started that.

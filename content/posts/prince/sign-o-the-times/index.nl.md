@@ -50,6 +50,7 @@ Als ik het me goed herinner, hielden we de volgorde in de gaten als “ik ben na
 In de loop van de middag werd het gewoon te druk en rumoerig, de politie kwam een paar keer langs enzovoorts.
 
 ![https://hetutrechtsarchief.nl/beeldmateriaal/detail/8473f9c4-113b-c4ff-e053-4701000a202f](noz.jpg)
+__Ben Noz op de Amsterdamse Straatweg op een foto uit 1992 van D. Douwstra__
 
 ## Eerste nacht in Galgenwaard
 Ik weet niet of dit escalatie-scenario al bestond, of zelfs werd gebruikt bij eerdere kaartverkoop voor andere artiesten, maar we kregen vrijdagavond vroeg van de politie het bericht dat de kaartverkoop door Ben Noz verplaatst zou worden naar [De Galgenwaard](https://en.wikipedia.org/wiki/Stadion_Galgenwaard) voetbalstadion (met de start van de kaartverkoop nog gepland voor de volgende ochtend om 09:00 uur) omdat de situatie aan de Amsterdamse straatweg gewoon uit de hand liep.

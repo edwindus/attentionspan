@@ -17,18 +17,12 @@ Deze bas is op zijn beurt geïnspireerd door een [F-stijl mandoline](https://art
 
 ![Advertentie voor Knut-Koupeé muziekwinkels in Minneapolis en St. Paul](knut-koupee.jpg)
 ![Dave Russan houdt de witte Cloud-gitaar vast, gemaakt als rekwisiet voor de Purple Rain-film](russan.jpg)
-![Scene uit de film Purple Rain waarin 'The Kid' de witte Cloud-gitaar cadeau krijgt van Apollonia](purplerain.jpg)
 
 {{< youtube-enhanced id="l7vRSu_wsNc" title="Raspberry Beret" >}}
 
 Hoe dan ook, de rest is geschiedenis om het maar zo te zeggen.
 De door Dave Rusan gebouwde (witte) gitaar uit Purple Rain lijkt Prince erg te bevallen, aangezien er in de loop van een lange periode meerdere zijn gebouwd, gerepareerd en opnieuw geverfd.
 Naar verluidt, toen de _Raspberry Beret_-video uit 1985 werd uitgebracht, werd de iconische gitaar bekend als de _Cloud Guitar_, waarschijnlijk vanwege de vergelijkbare vorm als de wolken op Prince' outfit in die video.
-
-![De rekwisiet voor de Purple Rain-film was wit gekleurd](cloud-prince-001.jpg)
-![Er zijn verschillende exemplaren gemaakt of bestaande exemplaren opnieuw gekleurd zoals dit kleurenschema uit het 'Sign 'O the Times'-tijdperk](cloud-prince-002.jpg)
-![Tijdens de 'Nude Tour' van 1990 werd een tweede blauwe versie gebruikt (niet de 'Blue Angel' uit 1988)](cloud-prince-003.jpg)
-![De gele wolk van de 'Daimonds and Pearls Tour' uit 1992 werd de versie die ik koos](cloud-prince-004.jpg)
 
 ## Gitaren aan de muur
 Mijn vader was gitarist, dus ik groeide op in een huis waar altijd meerdere gitaren waren, ook al had ik nooit het geduld om een instrument te leren bespelen.

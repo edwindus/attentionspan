@@ -12,7 +12,7 @@
 
 {{ if $isExternal }}
     <a href="{{ $text | safeURL }}" class="nofollow" target="_blank" rel="nofollow">
-        <img class="thumbnail {{ $classes.Get "size" }} external" src="{{ $thumbUrl | safeURL }}" alt="external link" title="follow external link" />
+        <img class="thumbnail {{ $classes.Get "size" }} external" src="{{ .Page.RelPermalink | replaceRE "^/nl" "" }}{{ $thumbUrl | safeURL }}" alt="external link" title="follow external link" />
     </a>
 {{ else if $isDownload }}
     <a href="{{ $text | safeURL }}" class="nofollow" target="_blank" rel="nofollow">
@@ -22,6 +22,6 @@
     <img class="thumbnail {{ $classes.Get "size" }}" src="{{ $thumbUrl | safeURL }}" alt="" />
 {{ else }}
     <a href="{{ $thumbUrl | safeURL }}" class="glightbox" data-description="{{ .Text }}">
-        <img class="thumbnail {{ $classes.Get "size" }}" src="{{ $thumbUrl | safeURL }}" alt="{{ .Text }}" />
+        <img class="thumbnail {{ $classes.Get "size" }}" src="{{ .Page.RelPermalink | replaceRE "^/nl" "" }}{{ $thumbUrl | safeURL }}" alt="{{ .Text }}" />
     </a>
 {{ end }}

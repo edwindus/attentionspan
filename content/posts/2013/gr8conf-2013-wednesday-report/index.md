@@ -19,8 +19,6 @@ While I'm tempted to agree with the tweet below, it's a scary tweet too, since [
 
 On the cold and rainy day of wednesday, the overture of the conference, a.k.a. the University Track, commenced with registration and seeing lots of familiar faces. Being well acquainted with his topic, we skipped the [session hosted](http://mrhaki.blogspot.dk/2013/05/gr8conf-2013-europe-conference-report.html) by _Mr. Haki_, and sat down for a workshop on [Asynchronism]("http://gr8conf.eu/Presentations/---Async-Grails-Workshop). While the workshop turned out to be a bit of a bumpy ride, it highlighted an interesting approach which we have mostly ignored in day-to-day work so far. Have to look into it.
 
-![The famous software engineering speaker Dr. Venkat Subramaniam](venkat.jpg)
-
 Maybe we should have been more confident and skipped the early-afternoon session on [Web Development with Grails](http://gr8conf.eu/Presentations/---Web-Development-with-Grails), but there wasn't a lot to learn here. The presenter of this session however, [Venkat Subramaniam]("https://twitter.com/venkat_s) kept me on the edge of my seat, for the extremely good way he hosted this workshop. Experienced engineers that are good teachers and entertainers too are a surely a scarce species.
 
 
