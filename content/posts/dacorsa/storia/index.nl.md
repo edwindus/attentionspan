@@ -105,7 +105,7 @@ Gewoon een (uitgebreid) nieuw frontend-ontwerp voor de bestaande [Typo3 online C
 
 Er verschijnt steeds nieuwe open-sourcesoftware op internet en na het maken van een aantal andere websites met [Mambo](https://nl.wikipedia.org/wiki/Mambo_(CMS)) en [Joomla CMS](https://www.joomla.org) voelde het tijd om **dacorsa.net** over te zetten naar deze modernere software.
 Mijn aangepaste [Joomla](https://www.joomla.org) implementatie van **dacorsa.net** behield mijn speciale [SQL-database](https://www.mysql.com) die inmiddels behoorlijk groot was geworden.
-Na vele jaren geduldig wachten op een kans, kon ik eindelijk de domeinnaam [.com](https://nl.wikipedia.org/wiki/.com) verwerven, dus de site bleef voortleven als ** dacorsa.com**.
+Na vele jaren geduldig wachten op een kans, kon ik eindelijk de domeinnaam [.com](https://nl.wikipedia.org/wiki/.com) verwerven, dus de site bleef voortleven als **dacorsa.com**.
 
 Om de inhoud van de hele database veilig te houden, werd een offline 'origin'-database (opnieuw) geïntroduceerd (bijna dagelijks onderhouden) en werden regelmatig, maar willekeurige, snapshots naar de online database gekopieerd.
 Release 7 verving de vorige release van maart 2005 na bijna 6 jaar dienst.
