@@ -8,5 +8,6 @@
     {"title": "Sony Cybershot DSC P41", "category": "digital mirrorless", "description": "released 2004<br/>4 MP resolution", "image": "sony-cybershot-p41.jpg"},
     {"title": "Canon EOS 30D", "category": "DSLR", "description": "released 2006<br/>8.2 MP resolution", "image": "canon-eos-30d.jpg"},
     {"title": "Leica Lumix DMC-LX2", "category": "digital mirrorless", "description": "released 2006<br/>10.4 MP resolution", "image": "leica-lumix-lx2.jpg"},
-    {"title": "Canon EOS 5D mark II", "category": "DSLR", "description": "released 2008<br/>21.1 MP resolution", "image": "canon-eos-5d.jpg"}
+    {"title": "Canon EOS 5D mark II", "category": "DSLR", "description": "released 2008<br/>21.1 MP resolution", "image": "canon-eos-5d.jpg"},
+    {"title": "Sony ILCE Alpha 7 mark II", "category": "digital mirrorless", "description": "released 2014<br/>24 MP resolution", "image": "sony-7m2.jpg"}
 ]
