@@ -24,11 +24,11 @@ Op de een of andere manier kwam ik in contact met de [webmaster](https://nl.wiki
 
 
 ---
-# Eerste release als www&#46;dacorsa&#46;net in december 1998
+# Eerste release als www&#46;dacorsa&#46;net in december 1999
 `versie 1: StudioLine statische websitegenerator`
 
-![Eerste release als www.dacorsa.net in december 1998 met behulp van de statische website-generator van Studioline, gedurende 2 jaar](1998-dacorsa-net-release-01.jpg)
-![De workflow bestond uit het uploaden van alle afbeeldingen in Studioline-software die html en gerenderde afbeeldingen zou genereren en uploaden](1998-dacorsa-net-release-01.mermaid.jpg|large)
+![Eerste release als www.dacorsa.net in december 1999 met behulp van de statische website-generator van Studioline, gedurende 2 jaar](1999-dacorsa-net-release-01.jpg)
+![De workflow bestond uit het uploaden van alle afbeeldingen in Studioline-software die html en gerenderde afbeeldingen zou genereren en uploaden](1999-dacorsa-net-release-01.mermaid.jpg|large)
 
 De hoofdsponsor van *maranello.cc* maakte software om websites te publiceren met de naam [Studioline](https://www.studioline.net), waarbij hij een compleet andere benadering gebruikte dan [Microsoft Frontpage](https://nl.wikipedia.org/wiki/Microsoft_FrontPage).
 Ik kreeg een bètaversie van de software en maakte de eerste versie van **dacorsa.net**, waarmee ik mijn bijdragen op andere websites en tijdschriften publiceerde.

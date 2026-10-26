@@ -24,11 +24,11 @@ Somehow I got in contact with the [webmaster](https://en.wikipedia.org/wiki/Webm
 
 
 ---
-# First release as www&#46;dacorsa&#46;net in December 1998
+# First release as www&#46;dacorsa&#46;net in December 1999
 `version 1 : StudioLine static website generator`
 
-![First release as www.dacorsa.net in December 1998 using Studioline static website generator ran for 2 years](1998-dacorsa-net-release-01.jpg)
-![The workflow consisted of uploading all images in Studioline software that would generate and upload html and rendered images](1998-dacorsa-net-release-01.mermaid.jpg|large)
+![First release as www.dacorsa.net in December 1999 using Studioline static website generator ran for 2 years](1999-dacorsa-net-release-01.jpg)
+![The workflow consisted of uploading all images in Studioline software that would generate and upload html and rendered images](1999-dacorsa-net-release-01.mermaid.jpg|large)
 
 The main sponsor of *maranello.cc* was creating software to publish websites called [Studioline](https://www.studioline.net), using a completely different approach to [Microsoft Frontpage](https://en.wikipedia.org/wiki/Microsoft_FrontPage). I was given a beta copy of the software and created the first version of **dacorsa.net** publishing my contributions to other websites and magazines.
 
