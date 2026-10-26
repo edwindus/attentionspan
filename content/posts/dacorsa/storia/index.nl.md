@@ -49,7 +49,7 @@ De website en [database](https://nl.wikipedia.org/wiki/Database) zouden een lang
 
 De afbeelding hierboven toont een screenshot van de tweede versie van **dacorsa.net**, gemaakt en gehost op editthispage.com van Radio Userland.
 Professioneel raakte ik geïnteresseerd in de onderwerpen waar [Dave Winer](https://en.wikipedia.org/wiki/Dave_Winer) en Adam Curry aan werkten; outliners, RSS (en wat later podcasting zou worden) in het bijzonder.
-Dave heeft [Radio Userland](https://en.wikipedia.org/wiki/Radio_UserLand) gemaakt, waarbij een website feitelijk werd gedefinieerd als een op tekst gebaseerde schets (inhoud) tegen een sjabloon dat lay-out en kleur toevoegt.
+Dave heeft [Radio Userland](https://en.wikipedia.org/wiki/Radio_UserLand) gemaakt, waarbij een website feitelijk werd gedefinieerd als een op tekst gebaseerde outline (inhoud) tegen een sjabloon dat lay-out en kleur toevoegt.
 Het concept van het rechtstreeks op internet bewerken van een webpagina was in die tijd behoorlijk spectaculair.
 Verder las ik dit *online boek* van Philip Greenspun genaamd '[Philip and Alex's Guide to Web Publishing](https://philip.greenspun.com/panda/)' (Alex is uiteraard Philip's Dog) met veel fascinerende ideeën over [Sites die in werkelijkheid databases zijn](https://philip.greenspun.com/panda/databases-intro).
 
