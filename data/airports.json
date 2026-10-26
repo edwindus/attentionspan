@@ -134,12 +134,28 @@
     },
 
     {
-        "place": "Barcelono 'Josep Tarradellas' El Prat Airport (BCN)",
+        "place": "Barcelona 'Josep Tarradellas' El Prat Airport (BCN)",
         "country": "Spain",
         "iso": "ESP",
         "url": "https://www.flightradar24.com/data/airports/bcn",
         "latitude": 41.296944,
         "longitude": 2.078333
+    },
+    {
+        "place": "Adolfo Suárez Madrid-Barajas Airport (MAD)",
+        "country": "Spain",
+        "iso": "ESP",
+        "url": "https://www.flightradar24.com/data/airports/mad",
+        "latitude": 40.472222,
+        "longitude": -3.560833
+    },
+    {
+        "place": "Alicante–Elche Miguel Hernández Airport (ALC)",
+        "country": "Spain",
+        "iso": "ESP",
+        "url": "https://www.flightradar24.com/data/airports/alc",
+        "latitude": 38.282222,
+        "longitude": -0.558056
     },
     {
         "place": "Girona Costa Brava Airport (GRO)",
@@ -156,6 +172,15 @@
         "url": "https://www.flightradar24.com/data/airports/xxx",
         "latitude": 27.931944,
         "longitude": -15.386667
+    },
+
+    {
+        "place": "Vienna International Airport (VIE)",
+        "country": "Austria",
+        "iso": "AUT",
+        "url": "https://www.flightradar24.com/data/airports/vie",
+        "latitude": 48.110278,
+        "longitude": 16.569722
     },
 
     {
